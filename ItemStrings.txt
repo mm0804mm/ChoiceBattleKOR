@@ -1,0 +1,2917 @@
+[I000]
+Art=ReplaceableTextures\CommandButtons\BTNGauntletsOfOgrePower.blp
+Description=Boosts Strength by 3.
+Name=Руковицы силы
+Tip=Руковицы силы
+Ubertip=Increases the Strength of the Hero by 3 when worn.
+
+[I001]
+Art=ReplaceableTextures\CommandButtons\BTNCirclet.blp
+Buttonpos=3
+Description="Provides a +2 bonus to Strength, Agility and Intelligence."
+Name=Circlet of Nobility
+Tip=Венец Благородства
+Ubertip="Increases the Strength, Agility and Intelligence of the Hero by 2 when worn."
+
+[I002]
+Art=ReplaceableTextures\CommandButtons\BTNRunedBracers.blp
+Description=Повышение силы героя на 6 ед. и ост. характеристик на 3 ед.
+Name=Браслеты силы
+Tip=Браслеты силы
+Ubertip=Повышение силы героя на 6 ед. и ост. характеристик на 3 ед.
+
+[I003]
+Art=ReplaceableTextures\CommandButtons\BTNMantleOfIntelligence.blp
+Buttonpos=2
+Description=Повышение разума героя на 3 ед.
+Hotkey=I
+Name=Мантия ученого
+Tip=Мантия ученого
+Ubertip=Increases the Intelligence of the Hero by 3 when worn.
+
+[I004]
+Art=ReplaceableTextures\CommandButtons\BTNRobeOfTheMagi.blp
+Description=Повышение разума героя на 6 ед. и ост. характеристик на 3 ед.
+Hotkey=I
+Name=Мантия мудреца
+Tip=Мантия мудреца
+Ubertip=Повышение разума героя на 6 ед. и ост. характеристик на 3 ед.
+
+[I005]
+Art=ReplaceableTextures\CommandButtons\BTNSlippersOfAgility.blp
+Buttonpos=1
+Description=Boosts Agility by 3.
+Hotkey=A
+Name=Туфли Ловкости 
+Tip=Туфли Ловкости 
+Ubertip=Increases the Agility of the Hero by 3 when worn.
+
+[I006]
+Art=ReplaceableTextures\CommandButtons\BTNBoots.blp
+Buttonpos=1
+Description=Повышение ловкости героя на 6 ед. и ост. характеристик на 3 ед.
+Hotkey=A
+Name=민첩성의 장화 
+Tip=민첩성의 장화 
+Ubertip=Повышение ловкости героя на 6 ед. и ост. характеристик на 3 ед.
+
+[I007]
+Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
+Description="|c00FF5555STR|r을 10만큼 증가시키고 유닛에 대한 HP 재생력을 10만큼 증가시킵니다."
+Hotkey=A
+Name="썬 링, 등급 D"
+Tip="썬 링, 등급 D"
+Ubertip="|c00FF5555STR|r을 10만큼 증가시키고 유닛에 대한 HP 재생력을 10을 증가시킵니다."
+
+[I008]
+Art=war3mapImported\BTNXGlovesI.blp
+Buttonpos=1
+Description=영웅의 공격 속도를 15% 증가시킵니다.
+Name=봉고레 글러브
+Tip=봉고레 글러브
+Ubertip=영웅의 공격 속도를 15% 증가시킵니다.
+
+[I009]
+Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
+Buttonpos=1
+Description=|c00FF5555STR|r을 15만큼 증가시키고 유닛에 대한 HP 재생력을 15만큼 증가시킵니다.
+Hotkey=A
+Name="썬 링, 등급 С"
+Tip="썬 링, 등급 С"
+Ubertip="|c00FF5555STR|r을 15만큼 증가시키고 유닛에 대한 HP 재생력을 증가시킵니다."
+
+[I00A]
+Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
+Buttonpos=1
+Description="|c00FF5555STR|r을 20만큼 증가시키고 유닛에 대한 HP 재생력을 20만큼 증가시킵니다."
+Hotkey=A
+Name="썬 링, 등급 B"
+Tip="썬 링, 등급 В"
+Ubertip="|c00FF5555STR|r을 20만큼 증가시키고 유닛에 대한 HP 재생력을 20만큼 증가시킵니다."
+
+[I00B]
+Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
+Buttonpos=1
+Description="|c00FF5555STR|r을 25만큼 증가시키고 유닛에 대한 HP 재생력을 25만큼 증가시킵니다."
+Hotkey=A
+Name="썬 링, 등급 А"
+Tip="썬 링, 등급 А"
+Ubertip="|c00FF5555STR|r을 25만큼 증가시키고 유닛에 대한 HP 재생력을 25만큼 증가시킵니다."
+
+[I00C]
+Art=war3mapImported\BTNVongolaRingSun.blp
+Buttonpos=1
+Description="|c00FF5555STR|r을 30만큼 증가시키고 유닛에 대한 HP 재생력을 35만큼 증가시킵니다."
+Hotkey=A
+Name=봉고레 썬 링
+Tip=봉고레 썬 링
+Ubertip="|c00FF5555STR|r을 30만큼 증가시키고 유닛에 대한 HP 재생력을 35만큼 증가시킵니다."
+
+[I00D]
+Art=war3mapImported\BTNSunRing.blp
+Buttonpos=1
+Description=|c00FF5555STR|r을 45로 늘립니다. HP 재생력을 50만큼 증가시킵니다. |n|n능력: "극한 회복" - 영웅의 최대 HP의 25%를 즉시 회복합니다. |n|nCD: 30초.
+Hotkey=A
+Name=완전한 봉고레 썬 링
+Tip=완전한 봉고레 썬 링
+Ubertip=|c00FF5555STR|r을 45로 늘립니다. HP 재생력을 50만큼 증가시킵니다. |n|n능력: "극한 회복" - 영웅의 최대 HP의 25%를 즉시 회복합니다. |n|nCD: 30초.
+
+[I00E]
+Art=ReplaceableTextures\CommandButtons\BTNGreaterRejuvScroll.blp
+Buttonpos=3,1
+Description=착용 중인 아이템(검. 지팡이. 장갑. 반지 등)을 업그레이드 해줍니다.|n|n소유 중인 아이템 중 검-지팡이-장갑-반지 순으로 먼저 끝까지 업그레이드함.|r
+Name=업그레이드 아이템
+Tip=업그레이드 아이템
+Ubertip=착용 중인 아이템(검. 지팡이. 장갑. 반지 등)을 업그레이드 해줍니다.|n|n소유 중인 아이템 중 검-지팡이-장갑-반지 순으로 먼저 끝까지 업그레이드함.|r
+
+[I00F]
+Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
+Buttonpos=1
+Description="|c00169EFAINT|r을 10만큼 증가 및 |c00FF5555STR|r을 5만큼 증가시킵니다."
+Hotkey=A
+Name="미스트 링, 등급 D"
+Tip="미스트 링, 등급 D"
+Ubertip="|c00169EFAINT|r을 10만큼 증가 및 |c00FF5555STR|r을 5만큼 증가시킵니다."
+
+[I00G]
+Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
+Buttonpos=1
+Description="|c00169EFAINT|r을 15만큼 증가 및 |c00FF5555STR|r을 10만큼 증가시킵니다."
+Hotkey=A
+Name="미스트 링, 등급 С"
+Tip="미스트 링, 등급 С"
+Ubertip="|c00169EFAINT|r을 15만큼 증가 및 |c00FF5555STR|r을 10만큼 증가시킵니다."
+
+[I00H]
+Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
+Buttonpos=1
+Description="|c00169EFAINT|r을 20만큼 증가 및 |c00FF5555STR|r을 15만큼 증가시킵니다."
+Hotkey=A
+Name="미스트 링, 등급 B"
+Tip="미스트 링, 등급 B"
+Ubertip=|c00169EFAINT|r을 20만큼 증가 및 |c00FF5555STR|r을 15만큼 증가시킵니다.
+
+[I00I]
+Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
+Buttonpos=1
+Description=|c00169EFAINT|r을 25만큼 증가 및 |c00FF5555STR|r을 20만큼 증가시킵니다.
+Hotkey=A
+Name="미스트 링, 등급 A"
+Tip="미스트 링, 등급 A"
+Ubertip=|c00169EFAINT|r을 25만큼 증가 및 |c00FF5555STR|r을 20만큼 증가시킵니다.
+
+[I00J]
+Art=war3mapImported\BTNVongolaRingMist.blp
+Buttonpos=1
+Description=|c00169EFAINT|r을 30만큼 증가 및 |c00FF5555STR|r을 25만큼 증가시킵니다.
+Hotkey=A
+Name=봉고레 미스트 링
+Tip=봉고레 미스트 링
+Ubertip=|c00169EFAINT|r을 30만큼 증가 및 |c00FF5555STR|r을 25만큼 증가시킵니다.
+
+[I00K]
+Art=war3mapImported\BTNMistRing.blp
+Buttonpos=1
+Descirpiton=|c00169EFAINT|r를 45만큼 증가 및 |c00FF5555STR|r을 30만큼 증가시킵니다.|n|n능력: 환영 세계 - 착용자를 즉시 10초 동안 은신 상태로 만들며 은신 상태 동안 받는 데미지를 40% 감소시킵니다.|n|n쿨타임: 30초
+Hotkey=A
+Name=완전한 봉고레 미스트 링
+Tip=완전한 봉고레 미스트 링
+Ubertip=|c00169EFAINT|r를 45만큼 증가 및 |c00FF5555STR|r을 30만큼 증가시킵니다.|n|n능력: 환영 세계 - 착용자를 즉시 10초 동안 은신 상태로 만들며 은신 상태 동안 받는 데미지를 40% 감소시킵니다.|n|n쿨타임: 30초
+
+[I00L]
+Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
+Buttonpos=2
+Description="|c003CFF3CAGI|r을 10만큼 증가 및 |c00FF5555STR|r을 5만큼  증가시킵니다."
+Hotkey=A
+Name="클라우드 링, 등급 D"
+Tip="클라우드 링, 등급 D"
+Ubertip="|c003CFF3CAGI|r을 10만큼 증가 및 |c00FF5555STR|r을 5만큼  증가시킵니다."
+
+[I00M]
+Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 15만큼 증가 및 |c00FF5555STR|r을 10만큼  증가시킵니다."
+Hotkey=A
+Name="클라우드 링, 등급 С"
+Tip="클라우드 링, 등급 С"
+Ubertip="|c003CFF3CAGI|r을 15만큼 증가 및 |c00FF5555STR|r을 10만큼  증가시킵니다."
+
+[I00N]
+Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 20만큼 증가 및 |c00FF5555STR|r을 15만큼  증가시킵니다."
+Hotkey=A
+Name="클라우드 링, 등급 B"
+Tip="클라우드 링, 등급 B"
+Ubertip="|c003CFF3CAGI|r을 20만큼 증가 및 |c00FF5555STR|r을 15만큼  증가시킵니다."
+
+[I00O]
+Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 25만큼 증가 및 |c00FF5555STR|r을 20만큼  증가시킵니다."
+Hotkey=A
+Name="클라우드 링, 등급 A"
+Tip="클라우드 링, 등급 A"
+Ubertip="|c003CFF3CAGI|r을 25만큼 증가 및 |c00FF5555STR|r을 20만큼  증가시킵니다."
+
+[I00P]
+Art=war3mapImported\BTNVongolaRingCloud.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 30만큼 증가 및 |c00FF5555STR|r을 25만큼  증가시킵니다."
+Hotkey=A
+Name=봉고레 클라우드 링
+Tip=봉고레 클라우드 링
+Ubertip="|c003CFF3CAGI|r을 30만큼 증가 및 |c00FF5555STR|r을 25만큼  증가시킵니다."
+
+[I00Q]
+Art=war3mapImported\BTNCloudRing.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 45만큼 증가, |c00FF5555STR|r을 30만큼  증가하고 이동속도를 50만큼 늘립니다.|n|n액티브: "무효" - 시전 시 착용자는 5 초 동안 면역을 무시하며 데미지를 줄 수 있고 평타 데미지가 50% 만큼 증가하는 버프를 갖게 됩니다.|n(빗나감과 마법 저항력을 무효화하진 않습니다.)|n|n쿨타임: 20초"
+Hotkey=A
+Name=완전한 봉고레 클라우드 링
+Tip=완전한 봉고레 클라우드 링
+Ubertip="|c003CFF3CAGI|r을 45만큼 증가, |c00FF5555STR|r을 30만큼  증가하고 이동속도를 50만큼 늘립니다.|n|n액티브: "무효" - 시전 시 착용자는 5 초 동안 면역을 무시하며 데미지를 줄 수 있고 평타 데미지가 50% 만큼 증가하는 버프를 갖게 됩니다.|n(빗나감과 마법 저항력을 무효화하진 않습니다.)|n|n쿨타임: 20초"
+
+[I00R]
+Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r을 7만큼, |c00169EFAINT|r을 7만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+Hotkey=A
+Name="스톰 링, 등급 D"
+Tip="스톰 링, 등급 D"
+Ubertip="|c003CFF3CAGI|r을 7만큼, |c00169EFAINT|r을 7만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+
+[I00S]
+Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 10만큼, |c00169EFAINT|r을 10만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+Hotkey=A
+Name="스톰 링, 등급 С"
+Tip="스톰 링, 등급 С"
+Ubertip="|c003CFF3CAGI|r을 10만큼, |c00169EFAINT|r을 10만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+
+[I00T]
+Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 14만큼, |c00169EFAINT|r을 14만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+Hotkey=A
+Name="스톰 링, 등급 B"
+Tip="스톰 링, 등급 B"
+Ubertip="|c003CFF3CAGI|r을 14만큼, |c00169EFAINT|r을 14만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+
+[I00U]
+Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 22만큼, |c00169EFAINT|r을 22만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+Hotkey=A
+Name="스톰 링, 등급 A"
+Tip="스톰 링, 등급 A"
+Ubertip="|c003CFF3CAGI|r을 22만큼, |c00169EFAINT|r을 22만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+
+[I00V]
+Art=war3mapImported\BTNVongolaRingStorm.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 27만큼, |c00169EFAINT|r을 27만큼 증가시킵니다. MP 재생을 75% 늘립니다."
+Hotkey=A
+Name=봉고레 스톰 링
+Tip=봉고레 스톰 링
+Ubertip="|c003CFF3CAGI|r을 27만큼, |c00169EFAINT|r을 27만큼 증가시킵니다. MP 재생을 75% 늘립니다."
+
+[I00W]
+Art=war3mapImported\BTNStormRing.blp
+Buttonpos=1
+Description="|c003CFF3CAGI|r을 35만큼, |c00169EFAINT|r을 35만큼 증가시킵니다. MP 재생을 75% 늘립니다.|n|n액티브: "스톰 샷" - 타겟한 대상에게 4х|c003CFF3CAGI|r + 4х|c00169EFAINT|r 만큼의 데미지를 갖는 빔을 날립니다.|n피격한 대상은 10초 동안 마법 저항력이 감소합니다.|n|n쿨타임: 20초"
+Hotkey=A
+Name=완전한 봉고레 스톰 링
+Tip=완전한 봉고레 스톰 링
+Ubertip="|c003CFF3CAGI|r을 35만큼, |c00169EFAINT|r을 35만큼 증가시킵니다. MP 재생을 75% 늘립니다.|n|n액티브: "스톰 샷" - 타겟한 대상에게 4х|c003CFF3CAGI|r + 4х|c00169EFAINT|r 만큼의 데미지를 갖는 빔을 날립니다.|n피격한 대상은 10초 동안 마법 저항력이 감소합니다.|n|n쿨타임: 20초"
+
+[I00X]
+Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
+Buttonpos=,1
+Description="|c003CFF3CAGI|r을 10만큼, 공격 속도를 10% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 10% 만큼 감소시키며 착용자는 받는 데미지가 10% 만큼 감소합니다."
+Hotkey=A
+Name="레인 링, 등급 D"
+Tip="레인 링, 등급 D"
+Ubertip="|c003CFF3CAGI|r을 10만큼, 공격 속도를 10% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 10% 만큼 감소시키며 착용자는 받는 데미지가 10% 만큼 감소합니다."
+
+[I00Y]
+Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r을 15만큼, 공격 속도를 20% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 15% 만큼 감소시키며 착용자는 받는 데미지가 13% 만큼 감소합니다."
+Hotkey=A
+Name="레인 링, 등급 С"
+Tip="레인 링, 등급 С"
+Ubertip="|c003CFF3CAGI|r을 15만큼, 공격 속도를 20% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 15% 만큼 감소시키며 착용자는 받는 데미지가 13% 만큼 감소합니다."
+
+[I00Z]
+Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r을 20 만큼, 공격 속도를 30% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 20% 만큼 감소시키며 착용자는 받는 데미지가 16% 만큼 감소합니다."
+Hotkey=A
+Name="레인 링, 등급 B"
+Tip="레인 링, 등급 B"
+Ubertip="|c003CFF3CAGI|r을 20 만큼, 공격 속도를 30% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 20% 만큼 감소시키며 착용자는 받는 데미지가 16% 만큼 감소합니다."
+
+[I010]
+Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r을 25만큼, 공격 속도를 40% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 25% 만큼 감소시키며 착용자는 받는 데미지가 19% 만큼 감소합니다."
+Hotkey=A
+Name="레인 링, 등급 A"
+Tip="레인 링, 등급 A"
+Ubertip="|c003CFF3CAGI|r을 25만큼, 공격 속도를 40% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 25% 만큼 감소시키며 착용자는 받는 데미지가 19% 만큼 감소합니다."
+
+[I011]
+Art=war3mapImported\BTNVongolaRingRain.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r을 30만큼, 공격 속도를 50% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 30% 만큼 감소시키며 착용자는 받는 데미지가 22% 만큼 감소합니다."
+Hotkey=A
+Name=봉고레 레인 링
+Tip=봉고레 레인 링
+Ubertip="|c003CFF3CAGI|r을 30만큼, 공격 속도를 50% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 30% 만큼 감소시키며 착용자는 받는 데미지가 22% 만큼 감소합니다."
+
+[I012]
+Art=war3mapImported\BTNRainRing.blp
+Buttonpos=,1
+Description="|c003CFF3CAGI|r을 45만큼, 공격 속도를 60% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 35% 만큼 감소시키며 착용자는 받는 데미지가 25% 만큼 감소합니다.|n|n액티브: "장마비" - 해당 필드에 비구름을 13초 동안 소환하여 비구름 필드 내 모든 적들의 이동속도를 100% 감소시킵니다.|n|n쿨타임: 26초"
+Hotkey=A
+Name=완전한 봉고레 레인 링
+Tip=완전한 봉고레 레인 링
+Ubertip="|c003CFF3CAGI|r을 45만큼, 공격 속도를 60% 만큼 증가시킵니다.|n|n패시브: 비 구름 - 착용자 주변 반경 1000 범위 내 모든 적들의 이동 속도를 35% 만큼 감소시키며 착용자는 받는 데미지가 25% 만큼 감소합니다.|n|n액티브: "장마비" - 해당 필드에 비구름을 13초 동안 소환하여 비구름 필드 내 모든 적들의 이동속도를 100% 감소시킵니다.|n|n쿨타임: 26초"
+
+[I013]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Buttonpos=1,1
+Description="|c00169EFAINT|r을 5만큼, DEF를 3만큼 증가시킵니다. 그리고 HP는 300만큼 증가합니다."
+Hotkey=A
+Name="썬더 링, 등급 D"
+Tip="썬더 링, 등급 D"
+Ubertip="|c00169EFAINT|r을 5만큼, DEF를 3만큼 증가시킵니다. 그리고 HP는 300만큼 증가합니다."
+
+[I014]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Buttonpos=,1
+Description="|c00169EFAINT|r을 10만큼, DEF를 6만큼 증가시킵니다. 그리고 HP는 500만큼 증가합니다."
+Hotkey=A
+Name="썬더 링, 등급 C"
+Tip="썬더 링, 등급 C"
+Ubertip="|c00169EFAINT|r을 10만큼, DEF를 6만큼 증가시킵니다. 그리고 HP는 500만큼 증가합니다."
+
+[I015]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Buttonpos=,1
+Description="|c00169EFAINT|r을 15만큼, DEF를 9만큼 증가시킵니다. 그리고 HP는 700만큼 증가합니다."
+Hotkey=A
+Name="썬더 링, 등급 B"
+Tip="썬더 링, 등급 B"
+Ubertip="|c00169EFAINT|r을 15만큼, DEF를 9만큼 증가시킵니다. 그리고 HP는 700만큼 증가합니다."
+
+[I016]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Buttonpos=,1
+Description="|c00169EFAINT|r을 20만큼, DEF를 12만큼 증가시킵니다. 그리고 HP는 900만큼 증가합니다."
+Hotkey=A
+Name="썬더 링, 등급 A"
+Tip="썬더 링, 등급 A"
+Ubertip="|c00169EFAINT|r을 20만큼, DEF를 12만큼 증가시킵니다. 그리고 HP는 900만큼 증가합니다."
+
+[I017]
+Art=war3mapImported\BTNVongolaRingStorm.blp
+Buttonpos=,1
+Description="|c00169EFAINT|r을 25만큼, DEF를 15만큼 증가시킵니다. 그리고 HP는 1100만큼 증가합니다."
+Hotkey=A
+Name=봉고레 썬더 링
+Tip=봉고레 썬더 링
+Ubertip="|c00169EFAINT|r을 25만큼, DEF를 15만큼 증가시킵니다. 그리고 HP는 1100만큼 증가합니다."
+
+[I018]
+Art=war3mapImported\BTNThunderRing.blp
+Buttonpos=1,1
+Description="|c00169EFAINT|r을 30만큼, DEF를 20만큼 증가시킵니다. 그리고 HP는 1300만큼 증가합니다.|n|n액티브: "번개 실드" - 즉시 착용자는 3 초 동안 모든 데미지를 막는 실드를 전개합니다.|n(클라우드 링과 무적 무시 스킬 혹은 아이템에 뚫립니다.)|n이매진 브레이커 사용으로 지워지지 않습니다.|n|n쿨타임: 25초"
+Hotkey=A
+Name=완전한 봉고레 썬더 링
+Tip=완전한 봉고레 썬더 링
+Ubertip="|c00169EFAINT|r을 30만큼, DEF를 20만큼 증가시킵니다. 그리고 HP는 1300만큼 증가합니다.|n|n액티브: "번개 실드" - 즉시 착용자는 3 초 동안 모든 데미지를 막는 실드를 전개합니다.|n(클라우드 링과 무적 무시 스킬 혹은 아이템에 뚫립니다.)|n이매진 브레이커 사용으로 지워지지 않습니다.|n|n쿨타임: 25초"
+
+[I019]
+Art=ReplaceableTextures\CommandButtons\BTNRingSkull.blp
+Buttonpos=2,1
+Description="|c00FFFF66AllStat|r 9 증가, 공격력 10 증가"
+Hotkey=A
+Name="스카이 링, 등급 D"
+Tip="스카이 링, 등급 D"
+Ubertip="|c00FFFF66AllStat|r 9 증가, 공격력 10 증가"
+
+[I01A]
+Art=ReplaceableTextures\CommandButtons\BTNRingSkull.blp
+Buttonpos=2,1
+Description="|c00FFFF66AllStat|r 13 증가, 공격력 20 증가"
+Hotkey=A
+Name="스카이 링, 등급 С"
+Tip="스카이 링, 등급 С"
+Ubertip="|c00FFFF66AllStat|r 13 증가, 공격력 20 증가"
+
+[I01B]
+Art=ReplaceableTextures\CommandButtons\BTNRingSkull.blp
+Buttonpos=2,1
+Description="|c00FFFF66AllStat|r 16 증가, 공격력 30 증가"
+Hotkey=A
+Name="스카이 링, 등급 B"
+Tip="스카이 링, 등급 B"
+Ubertip="|c00FFFF66AllStat|r 16 증가, 공격력 30 증가"
+
+[I01C]
+Art=ReplaceableTextures\CommandButtons\BTNRingSkull.blp
+Buttonpos=2,1
+Description="|c00FFFF66AllStat|r 19 증가, 공격력 40 증가"
+Hotkey=A
+Name="스카이 링, 등급 A"
+Tip="스카이 링, 등급 A"
+Ubertip="|c00FFFF66AllStat|r 19 증가, 공격력 40 증가"
+
+[I01D]
+Art=war3mapImported\BTNVongolaRingSky.blp
+Buttonpos=2,1
+Description="|c00FFFF66AllStat|r 22 증가, 공격력 50 증가"
+Hotkey=A
+Name=봉고레 스카이 링
+Tip=봉고레 스카이 링
+Ubertip="|c00FFFF66AllStat|r 22 증가, 공격력 50 증가"
+
+[I01E]
+Art=war3mapImported\BTNVongolaSkyRing.blp
+Description="|c00FFFF66AllStat|r을 30 증가, 공격력 50 증가합니다.|n|n액티브: "조화" - 타겟한 적을 3초 동안 스킬을 사용하지 못하게 침묵시키며 1초 동안 아이템의 사용을 막고 착용자의 |c00FFFF66Allstat|r*2 만큼의 데미지를 주며 2 초 동안 50% 슬로우를 줍니다.|n|n쿨타임: 25초"
+Hotkey=A
+Name=완전한 봉고레 스카이 링
+Tip=완전한 봉고레 스카이 링
+Ubertip="|c00FFFF66AllStat|r을 30 증가, 공격력 50 증가합니다.|n|n액티브: "조화" - 타겟한 적을 3초 동안 스킬을 사용하지 못하게 침묵시키며 1초 동안 아이템의 사용을 막고 착용자의 |c00FFFF66Allstat|r*2 만큼의 데미지를 주며 2 초 동안 50% 슬로우를 줍니다.|n|n쿨타임: 25초"
+
+[I01F]
+Art=war3mapImported\BTNBootsClothes.blp
+Buttonpos=,1
+Description="영웅의 이동 속도를 100만큼 높입니다. |c00FFFF66AllStat|r을 17만큼 증가시킵니다."
+Hotkey=S
+Name=속도의 장화
+Tip=속도의 장화
+Ubertip="영웅의 이동 속도를 100만큼 높입니다. |c00FFFF66AllStat|r을 17만큼 증가시킵니다."
+
+[I01G]
+Art=war3mapImported\BTNBootsClothes.blp
+Description="Ускорение перемещения героя на 100 ед., DEF на 5 ед. и |c00FFFF66AllStat|r на 15 ед.|n|nТребуется: Сапоги-скороходы, Перчатки Вонголы, Рецепт."
+Hotkey=S
+Name=속도의 장화 (рецепт)
+Tip=Сапоги скорости (рецепт)
+Ubertip="Ускорение перемещения героя на 100 ед., DEF на 5 ед. и |c00FFFF66AllStat|r на 15 ед.|n|nТребуется: Сапоги-скороходы, Перчатки Вонголы, Рецепт."
+
+[I01H]
+Art=war3mapImported\BTNSimpleSword.blp
+Description="공격력이 25만큼 증가합니다. |c00FFFF66Allstat|r을 6만큼 증가시킵니다."
+Name="검, 등급 D"
+Tip="검, 등급 D"
+Ubertip="공격력이 25만큼 증가합니다. |c00FFFF66Allstat|r을 6만큼 증가시킵니다."
+
+[I01I]
+Art=war3mapImported\BTNSimpleSword.blp
+Description=공격력이 75만큼 증가합니다. |c00FFFF66Allstat|r을 18만큼 증가시킵니다.|n|n패시브: 치명타 - 15% 확률로 평타 데미지를 1.75배 만큼 가합니다.
+Name="검, 등급 B"
+Tip="검, 등급 B"
+Ubertip=공격력이 75만큼 증가합니다. |c00FFFF66Allstat|r을 18만큼 증가시킵니다.|n|n패시브: 치명타 - 15% 확률로 평타 데미지를 1.75배 만큼 가합니다.
+
+[I01J]
+Art=war3mapImported\BTNSimpleSword.blp
+Description=공격력이 50만큼 증가합니다. |c00FFFF66Allstat|r을 12만큼 증가시킵니다.|n|n패시브: 치명타 - 15% 확률로 평타 데미지를 1.5배 만큼 가합니다.
+Name="검, 등급 C"
+Tip="검, 등급 C"
+Ubertip=공격력이 50만큼 증가합니다. |c00FFFF66Allstat|r을 12만큼 증가시킵니다.|n|n패시브: 치명타 - 15% 확률로 평타 데미지를 1.5배 만큼 가합니다.
+
+[I01K]
+Art=war3mapImported\BTNSimpleSword.blp
+Description=공격력이 100만큼 증가합니다. |c00FFFF66Allstat|r을 24만큼 증가시킵니다.|n|n패시브: 치명타 - 15% 확률로 평타 데미지를 2배 만큼 가합니다.
+Name="검, 등급 A"
+Tip="검, 등급 A"
+Ubertip=공격력이 100만큼 증가합니다. |c00FFFF66Allstat|r을 24만큼 증가시킵니다.|n|n패시브: 치명타 - 15% 확률로 평타 데미지를 2배 만큼 가합니다.
+
+[I01L]
+Art=war3mapImported\BTNStrongSword.blp
+Description=공격력이 100만큼 증가합니다. |c00FFFF66Allstat|r을 24만큼 증가시킵니다.|n|n패시브: 치명타 - 15% 확률로 평타 데미지를 2배 만큼 가합니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 5회 평타 공격을 합니다.|n(시전 사거리가 있으며 엑티브 공격 동안 무적 상태가 아닙니다.)|n|n|cFF00A5FF쿨타임: 25초|r
+Name=강검
+Tip=강검
+Ubertip=공격력이 100만큼 증가합니다. |c00FFFF66Allstat|r을 24만큼 증가시킵니다.|n|n패시브: 치명타 - 15% 확률로 평타 데미지를 2배 만큼 가합니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 5회 평타 공격을 합니다.|n(시전 사거리가 있으며 엑티브 공격 동안 무적 상태가 아닙니다.)|n|n|cFF00A5FF쿨타임: 25초|r
+
+[I01M]
+Art=war3mapImported\BTNMedalOfHonor.blp
+Description=|c00FFFF66AllStat|r을 18만큼 늘립니다.
+Name=용기의 메달
+Tip=용기의 메달
+Ubertip=|c00FFFF66AllStat|r을 18만큼 늘립니다.
+
+[I01N]
+Art=war3mapImported\BTNMedalOfHonor.blp
+Buttonpos=2
+Description="Повышение |c00FFFF66AllStat|r на 18.|n|nТребуется: Мантия мудреца, Сапоги Ловкости, Браслеты силы."
+Name=Медаль Храбрости (рецепт)
+Tip=Медаль Храбрости (рецепт)
+Ubertip="Повышение |c00FFFF66AllStat|r на 18.|n|nТребуется: Мантия мудреца, Сапоги Ловкости, Браслеты силы."
+
+[I01O]
+Art=ReplaceableTextures\CommandButtons\BTNSandaiKitetsu.blp
+Description=공격력이 100만큼 증가합니다. |c00FFFF66Allstat|r을 25만큼 증가시킵니다.|n|n패시브: 치명타 - 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25초|r
+Name=삼대 귀철
+Tip=삼대 귀철
+Ubertip=공격력이 100만큼 증가합니다. |c00FFFF66Allstat|r을 25만큼 증가시킵니다.|n|n패시브: 치명타 - 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25초|r
+
+[I01P]
+Art=ReplaceableTextures\CommandButtons\BTNSandaiKitetsu.blp
+Description="공격력이 100만큼 증가합니다. |c00FFFF66Allstat|r을 25만큼 증가시킵니다.|n|n패시브: 치명타 - 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r|n|n조합법: 강검 + 레시피"
+Name=삼대 귀철 (레시피)
+Tip=삼대 귀철 (레시피)
+Ubertip="공격력이 100만큼 증가합니다. |c00FFFF66Allstat|r을 25만큼 증가시킵니다.|n|n패시브: 치명타 - 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r|n|n조합법: 강검 + 레시피"
+
+[I01Q]
+Art=ReplaceableTextures\CommandButtons\BTNShusui.blp
+Buttonpos=2
+Descruiption="공격력이 125만큼 증가합니다. |c00FFFF66Allstat|r을 30만큼 증가시킵니다. 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "죽음의 파도" - 평타 공격 시 20% 확률로 착용자의 |c003CFF3CAGI|r*3 만큼 데미지를 추가로 입힙니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r"
+Name=슈스이
+Tip=슈스이
+Ubertip="공격력이 125만큼 증가합니다. |c00FFFF66Allstat|r을 30만큼 증가시킵니다. 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "죽음의 파도" - 평타 공격 시 20% 확률로 착용자의 |c003CFF3CAGI|r*3 만큼 데미지를 추가로 입힙니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r"
+
+[I01R]
+Art=ReplaceableTextures\CommandButtons\BTNShusui.blp
+Buttonpos=1
+Descirption="공격력이 125만큼 증가합니다. |c00FFFF66Allstat|r을 30만큼 증가시킵니다. 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "죽음의 파도" - 평타 공격 시 20% 확률로 착용자의 |c003CFF3CAGI|r*3 만큼 데미지를 추가로 입힙니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r|n|n조합법: 삼대 귀철 + 레시피"
+Name=슈스이 (레시피)
+Tip=슈스이 (레시피)
+Ubertip=공격력이 125만큼 증가합니다. |c00FFFF66Allstat|r을 30만큼 증가시킵니다. 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "죽음의 파도" - 평타 공격 시 20% 확률로 착용자의 |c003CFF3CAGI|r*3 만큼 데미지를 추가로 입힙니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r|n|n조합법: 삼대 귀철 + 레시피
+
+[I01S]
+Art=ReplaceableTextures\CommandButtons\BTNExcAlter.blp
+Buttonpos=1
+Description=공격력이 150 만큼 증가합니다. |c00FF5555STR|r을 40 만큼, |c003CFF3CAGI|r을 20 만큼 증가시키며 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "살인충동" - 평타 공격 시 30% 확률로 3 초간 최대 평타 속도에 도달하며 평타 데미지의 60% 만큼 흡혈합니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 5회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r
+Name=다크 엑스칼리버
+Tip=다크 엑스칼리버
+Ubertip=공격력이 150 만큼 증가합니다. |c00FF5555STR|r을 40 만큼, |c003CFF3CAGI|r을 20 만큼 증가시키며 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "살인충동" - 평타 공격 시 30% 확률로 3 초간 최대 평타 속도에 도달하며 평타 데미지의 60% 만큼 흡혈합니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 5회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r
+
+[I01T]
+Art=ReplaceableTextures\CommandButtons\BTNExcAlter.blp
+Buttonpos=2
+Name=다크 엑스칼리버 (레시피)
+Tip=다크 엑스칼리버 (레시피)
+Ubertip=공격력이 150 만큼 증가합니다. |c00FF5555STR|r을 40 만큼, |c003CFF3CAGI|r을 20 만큼 증가시키며 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "살인충동" - 평타 공격 시 30% 확률로 3 초간 최대 평타 속도에 도달하며 평타 데미지의 60% 만큼 흡혈합니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 5회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r|n|n조합법: 삼대 귀철 + 레시피
+
+[I01U]
+Art=ReplaceableTextures\CommandButtons\BTNFang.blp
+Buttonpos=3
+Description=공격력이 125 만큼 증가합니다. |c00FFFF66Allstat|r을 30 만큼 증가시킵니다. 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "맹독" - 평타 공격 시 45% 확률로 착용자의 |cFF00A5FFINT|r*3 만큼 8 초간 중독 데미지를 입힙니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r
+Name=팽
+Tip=팽
+Ubertip=공격력이 125 만큼 증가합니다. |c00FFFF66Allstat|r을 30 만큼 증가시킵니다. 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "맹독" - 평타 공격 시 45% 확률로 착용자의 |cFF00A5FFINT|r*3 만큼 8 초간 중독 데미지를 입힙니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r
+
+[I01V]
+Art=ReplaceableTextures\CommandButtons\BTNFang.blp
+Buttonpos=3
+Description=공격력이 125 만큼 증가합니다. |c00FFFF66Allstat|r을 30 만큼 증가시킵니다. 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "맹독" - 평타 공격 시 45% 확률로 착용자의 |cFF00A5FFINT|r*3 만큼 8 초간 중독 데미지를 입힙니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r
+Name=팽 (레시피)
+Tip=팽 (레시피)
+Ubertip=공격력이 125 만큼 증가합니다. |c00FFFF66Allstat|r을 30 만큼 증가시킵니다. 20% 확률로 평타 데미지를 2.5배 만큼 가합니다.|n패시브: "맹독" - 평타 공격 시 45% 확률로 착용자의 |cFF00A5FFINT|r*3 만큼 8 초간 중독 데미지를 입힙니다.|n|n액티브: 속공 - 타겟한 적에게 즉시 달라붙은 후 사방에서 10회 평타 공격을 합니다.|n|n|cFF00A5FF쿨타임: 25 초|r
+
+[I01W]
+Art=war3mapImported\BTNDarkWand.blp
+Description="공격력 +10, AS +10%, |c00FFFF66AllStat|r +8|n|n다크 오라: 적의 공격 데미지 10% 감소"
+Name="어둠의 지팡이, 등급 D"
+Tip="어둠의 지팡이, 등급 D"
+Ubertip="공격력 +10, AS +10%, |c00FFFF66AllStat|r +8|n|n다크 오라: 적의 공격 데미지 10% 감소"
+
+[I01X]
+Art=war3mapImported\BTNDarkWand.blp
+Buttonpos=,1
+Description="공격력 20 증가, AS +20%, |c00FFFF66AllStat|r 12 증가|n|n다크 오라: 적의 공격력 20% 감소"
+Name="어둠의 지팡이, 등급 С"
+Tip="어둠의 지팡이, 등급 С"
+Ubertip="공격력 20 증가, AS +20%, |c00FFFF66AllStat|r 12 증가|n|n다크 오라: 적의 공격력 20% 감소"
+
+[I01Y]
+Art=war3mapImported\BTNDarkWand.blp
+Buttonpos=,1
+Description="공격력 30 증가, AS +30%, |c00FFFF66AllStat|r 16 증가|n|n다크 오라: 적의 공격력 30% 감소"
+Name="어둠의 지팡이, 등급 B"
+Tip="어둠의 지팡이, 등급 B"
+Ubertip="공격력 30 증가, AS +30%, |c00FFFF66AllStat|r 16 증가|n|n다크 오라: 적의 공격력 30% 감소"
+
+[I01Z]
+Art=war3mapImported\BTNDarkWand.blp
+Buttonpos=,1
+Description="공격력 40 증가, AS +40%, |c00FFFF66AllStat|r 20 증가|n|n다크 오라: 적의 공격력 40% 감소"
+Name="어둠의 지팡이, 등급 A"
+Tip="어둠의 지팡이, 등급 A"
+Ubertip="공격력 40 증가, AS +40%, |c00FFFF66AllStat|r 20 증가|n|n다크 오라: 적의 공격력 40% 감소"
+
+[I020]
+Art=war3mapImported\BTN_CW_Magus_Staff.blp
+Buttonpos=2
+Description="공격력 100 증가, AS +100%, |c00FFFF66AllStat|r 30 증가|n|n다크 오라: 적의 공격력 75% 감소|nActive: 적 대상 또는 소유자는 6초 동안 현재 한 위치에서 400 이상 이동할 수 없습니다.|n|nCD: 30초."
+Name=진정한 어둠의 지팡이
+Tip=진정한 어둠의 지팡이
+Ubertip="공격력 100 증가, AS +100%, |c00FFFF66AllStat|r 30 증가|n|n다크 오라: 적의 공격력 75% 감소|nActive: 적 대상 또는 소유자는 6초 동안 현재 한 위치에서 400 이상 이동할 수 없습니다.|n|nCD: 30초."
+
+[I021]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I022]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I023]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I024]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I025]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I026]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I027]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I028]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I029]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I02A]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I02B]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I02C]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I02D]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I02E]
+Art=war3mapImported\BTNPandarenRing.blp
+Buttonpos=3,1
+Description="공격력 17 증가, AS 9% 증가, 물리 피해를 입으면 10% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+Hotkey=A
+Name=소울 이터, 등급 D
+Ubertip="공격력 17 증가, AS 9% 증가, 물리 피해를 입으면 10% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+
+[I02F]
+Art=war3mapImported\BTNPandarenRing.blp
+Buttonpos=1,1
+Description="공격력 25 증가, AS 14% 증가, 물리 피해를 입으면 15% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+Hotkey=A
+Name=소울 이터, 등급 C
+Ubertip="공격력 25 증가, AS 14% 증가, 물리 피해를 입으면 15% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+
+[I02G]
+Art=war3mapImported\BTNPandarenRing.blp
+Buttonpos=1,1
+Description="공격력 33 증가, AS 19% 증가, 물리 피해를 입으면 20% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+Hotkey=A
+Name=소울 이터, 등급 B
+Ubertip="공격력 33 증가, AS 19% 증가, 물리 피해를 입으면 20% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+
+[I02H]
+Art=war3mapImported\BTNPandarenRing.blp
+Buttonpos=1,1
+Description="공격력 41 증가, AS 24% 증가, 물리 피해를 입으면 25% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+Hotkey=A
+Name=소울 이터, 등급 A
+Ubertip="공격력 41 증가, AS 24% 증가, 물리 피해를 입으면 25% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+
+[I02I]
+Art=war3mapImported\BTNPandarenRing.blp
+Buttonpos=1,1
+Description="공격력 50 증가, AS 30% 증가, 물리 피해를 입으면 25% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+Hotkey=A
+Name=봉인된 지옥의 반지: "소울 이터"
+Tip=봉인된 지옥의 반지: "소울 이터"
+Ubertip="공격력 50 증가, AS 30% 증가, 물리 피해를 입으면 25% 확률로 적의 뒤를 막아서 나타난다. 능력은 빗나가는 것이 아니라 막는 것으로 계산됩니다."
+
+[I02J]
+Art=war3mapImported\BTNSoulEater.blp
+Buttonpos=1
+Hotkey=A
+Name=지옥의 반지: "소울 이터"
+Tip=지옥의 반지: "소울 이터"
+Ubertip=,
+
+[I02K]
+Art=war3mapImported\BTNHellRingSoulEater.blp
+Buttonpos=1
+Hotkey=A
+Name=지옥의 반지: "소울 이터"
+Tip=지옥의 반지: "소울 이터"
+Ubertip=,
+
+[I02L]
+Art=war3mapImported\BTNCultist_Ring.blp
+Buttonpos=,2
+Description="DEF 150%, HP 재생 7, HP 100, |c00FFFF66AllStat|r 9 증가"
+Hotkey=A
+Name=악마의 눈, 등급 D
+Ubertip="DEF 6, HP 재생 7, HP 100, |c00FFFF66AllStat|r 9 증가"
+
+[I02M]
+Art=war3mapImported\BTNCultist_Ring.blp
+Buttonpos=,2
+Description="DEF 150%, HP 재생 14, HP 200, |c00FFFF66AllStat|r 12 증가"
+Hotkey=A
+Name=악마의 눈, 등급 C
+Ubertip="DEF 9, HP 재생 14, HP 200, |c00FFFF66AllStat|r 12 증가"
+
+[I02N]
+Art=war3mapImported\BTNCultist_Ring.blp
+Buttonpos=,2
+Description="Увеличивает DEF на 150% от базовой, HP regen на 21, HP 300, |c00FFFF66AllStat|r на 15."
+Hotkey=A
+Name=,
+Ubertip="Увеличивает DEF на 12, HP regen на 21, HP 300, |c00FFFF66AllStat|r на 15."
+
+[I02O]
+Art=war3mapImported\BTNCultist_Ring.blp
+Buttonpos=,2
+Description="방어력 12, HP 재생 28, HP 400, |c00FFFF66AllStat|r 18 증가."
+Hotkey=A
+Name=,
+Ubertip="방어력 12, HP 재생 28, HP 400, |c00FFFF66AllStat|r 18 증가"
+
+[I02P]
+Art=war3mapImported\BTNCultist_Ring.blp
+Buttonpos=,2
+Description="방어력 20, HP 재생 28, HP 400, |c00FFFF66AllStat|r 20 증가."
+Hotkey=A
+Name=봉인된 헬링: "악마의 눈"
+Tip=봉인된 헬링: "악마의 눈"
+Ubertip="방어력 20, HP 재생 28, HP 400, |c00FFFF66AllStat|r 20 증가."
+
+[I02Q]
+Art=war3mapImported\BTNEvilEye's.blp
+Buttonpos=,2
+Hotkey=A
+Name=헬링: "악마의 눈"
+Tip=헬링: "악마의 눈"
+Ubertip=,
+
+[I02R]
+Art=war3mapImported\BTNFireOrbBig.blp
+Description=영웅의 |c00FF5555STR|r을 20 증가시킵니다.1500 반경 이내에 아군과 자신에게 6만큼의 HP 재생 증가. |n|n액티브: "재생" - 900 범위에서 10초 동안 100 +(5 * 영웅레벨) HP를 회복합니다. |n|n재사용 대기시간: 20 초.
+Hotkey=F
+Name=파이어 오브
+Tip=파이어 오브
+Ubertip=영웅의 |c00FF5555STR|r을 20 증가시킵니다.1500 반경 이내에 아군과 자신에게 6만큼의 HP 재생 증가. |n|n액티브: "재생" - 900 범위에서 10초 동안 100 +(5 * 영웅레벨) HP를 회복합니다. |n|n재사용 대기시간: 20 초.
+
+[I02S]
+Art=war3mapImported\BTNFrozenCore.blp
+Buttonpos=2
+Hotkey=F
+Name=아이스 오브
+Tip=아이스 오브
+Ubertip=,
+
+[I02T]
+Art=war3mapImported\BTNWindOrbBig.blp
+Buttonpos=1
+Hotkey=F
+Name=윈드 오브
+Tip=윈드 오브
+Ubertip=,
+
+[I02U]
+Art=war3mapImported\BTNYamato.blp
+Hotkey=S
+Name=야마토(레시피)
+Tip=야마토(레시피)
+Ubertip=,
+
+[I02V]
+Art=war3mapImported\BTNYamato.blp
+Buttonpos=,1
+Name=야마토
+Tip=야마토
+Ubertip=,
+
+[I02W]
+Art=war3mapImported\BTNFireWalk.blp
+Buttonpos=,1
+Hotkey=A
+Name=파이어 부츠
+Tip=파이어 부츠
+Ubertip=,
+
+[I02X]
+Art=war3mapImported\BTNFireWalk.blp
+Hotkey=S
+Name=파이어 부츠(레시피)
+Tip=파이어 부츠(레시피)
+Ubertip=,
+
+[I02Y]
+Art=war3mapImported\BTNFrostGloves.blp
+Buttonpos=,1
+Hotkey=A
+Name=얼음 장갑
+Tip=얼음 장갑
+Ubertip=,
+
+[I02Z]
+Art=war3mapImported\BTNFrostGloves.blp
+Hotkey=S
+Name=얼음 장갑 (레시피)
+Tip=얼음 장갑 (레시피)
+Ubertip=,
+
+[I030]
+Art=war3mapImported\BTNSpell_Shadow_BurningSpirit.blp
+Description=Изменяет облик героя. |n|n|cFFFF0000Требуется минимум 15 убийств|r|n|nНебесная кара: остановка времени в радиусе 500 вокруг героя на 5 сек.
+Hotkey=A
+Name=Крылья падшего ангела
+Tip=Крылья падшего ангела
+Ubertip=Изменяет облик героя. |n|n|cFFFF0000Требуется минимум 15 убийств|r|n|nНебесная кара: остановка времени в радиусе 500 вокруг героя на 5 сек.
+
+[I031]
+Art=war3mapImported\BTNPatriot.blp
+Buttonpos=1
+Name=애국자
+Tip=애국자
+Ubertip=,
+
+[I032]
+Art=war3mapImported\BTNMadaoEyes.blp
+Description=HP 450 증가 및 DEF 7 증가.
+Hotkey=A
+Name=마다오 안경
+Tip=마다오 안경
+Ubertip=HP 450 증가 및 DEF 7 증가.
+
+[I033]
+Art=war3mapImported\BTNMadaoHat.blp
+Buttonpos=1
+Description="HP 재생 10, 마나 75%, DEF 6 증가"
+Hotkey=A
+Name=마다오 모자
+Tip=마다오 모자
+Ubertip="HP 재생 10, 마나 75%, DEF 6 증가"
+[I034]
+Art=war3mapImported\BTNMadaoDog.blp
+Buttonpos=3
+Description="5초 동안 주변 700 반경 내의 은신 유닛을 감지하고 이를 공격할 때 공격을 75만큼 증가시킵니다.|n|n쿨다운: 20초"
+Hotkey=A
+Name=마다오 개
+Tip=마다오 개
+Ubertip="5초 동안 주변 700 반경 내의 은신 유닛을 감지하고 이를 공격할 때 공격을 75만큼 증가시킵니다.|n|n쿨다운: 20초"
+
+[I035]
+Art=war3mapImported\BTNMadaoBox.blp
+Buttonpos=2
+Description="|c00FFFF66AllStat|r 15, DEF +6 증가"
+Hotkey=A
+Name=마다오 박스
+Tip=마다오 박스
+Ubertip="|c00FFFF66AllStat|r 15, DEF +6 증가"
+
+[I036]
+Art=war3mapImported\BTNMadaoSet.blp
+Buttonpos=2
+Hotkey=A
+Name=마다오 세트
+Tip=마다오 세트
+Ubertip=,
+
+[I037]
+Art=war3mapImported\BTNBashosen.blp
+Buttonpos=2
+Name=파초선
+Tip=파초선
+Ubertip=,
+
+[I038]
+Art=war3mapImported\BTNScytheOfDeath.blp
+Name=사신의 낫
+Tip=사신의 낫
+Ubertip=,
+
+[I039]
+Art=war3mapImported\BTNLuckyBox.blp
+Buttonpos=2,1
+Description=개봉 시 무작위 아이템 1개를 떨어뜨립니다.
+Hotkey=A
+Name=행운의 상자
+Tip=행운의 상자
+Ubertip=개봉 시 무작위 아이템 1개를 떨어뜨립니다.
+
+[I03A]
+Art=war3mapImported\BTNAlastor.blp
+Buttonpos=1,1
+Hotkey=A
+Name=아라스톨
+Tip=아라스톨
+Ubertip=,
+
+[I03B]
+Art=war3mapImported\BTNAnbuSword.blp
+Buttonpos=2,1
+Description="공격 속도가 30% 증가하고 공격할 때마다 55의 추가 피해를 줍니다. 순수 피해, 효과는 중첩되지 않습니다."
+Hotkey=A
+Name=암부 검
+Tip=암부 검
+Ubertip="공격 속도가 30% 증가하고 공격할 때마다 55의 추가 피해를 줍니다. 순수 피해, 효과는 중첩되지 않습니다."
+
+[I03C]
+Art=war3mapImported\BTNAnbuKirass.blp
+Buttonpos=1,1
+Description="HP가 500 증가하고 물리 공격을 받을 때마다 HP가 35 회복됩니다. 효과는 중첩되지 않습니다."
+Hotkey=A
+Name=암부 조끼
+Tip=암부 조끼
+Ubertip="HP가 500 증가하고 물리 공격을 받을 때마다 HP가 35 회복됩니다. 효과는 중첩되지 않습니다."
+
+[I03D]
+Art=war3mapImported\BTNAnbuMask.blp
+Buttonpos=,1
+Description="MP 500 증가, |c003CFF3CAGI|r을 15만큼 증가 |c00FF5555STR|r을 10만큼 증가합니다."
+Hotkey=A
+Name=암부 가면
+Tip=암부 가면
+Ubertip="MP 500 증가, |c003CFF3CAGI|r을 15만큼 증가 |c00FF5555STR|r을 10만큼 증가합니다."
+
+[I03E]
+Art=war3mapImported\BTNAnbuShues.blp
+Buttonpos=3,1
+Description="35%의 확률로 적중을 회피하고, 활성화되면 4초 동안 달리기 속도가 최대로 증가합니다.|n|n쿨다운: 15초"
+Hotkey=A
+Name=암부 신발
+Tip=암부 신발
+Ubertip="35%의 확률로 적중을 회피하고, 활성화되면 4초 동안 달리기 속도가 최대로 증가합니다.|n|n쿨다운: 15초"
+
+[I03F]
+Art=war3mapImported\BTNAnbuSet.blp
+Buttonpos=1,1
+Description=35%의 확률로 기본 공격을 회피할 수 있으며 물리 공격을 받을 때마다 50의 피해를 회복합니다. MP와 HP 500 증가. |c003CFF3CAGI|r을 45만큼. |c00FF5555STR|r을 10만큼 증가시킵니다.|n• "바꿔치기술" - 치명적인 피해를 입으면 캐릭터가 교체 기술을 사용하여 최대 체력의 15%를 회복합니다. 쿨타임: 50초|n|n액티브: 4초 동안 최대 이동 속도 증가|n|n쿨타임: 15초.
+Hotkey=A
+Name=암부 세트
+Tip=암부 세트
+Ubertip=35%의 확률로 기본 공격을 회피할 수 있으며(길가메쉬의 칼날은 50%) 물리 공격을 받을 때마다 50의 피해를 회복합니다. MP와 HP 500 증가. |c003CFF3CAGI|r을 45만큼. |c00FF5555STR|r을 10만큼 증가시킵니다.|n• "바꿔치기술" - 치명적인 피해를 입으면 캐릭터가 교체 기술을 사용하여 최대 체력의 15%를 회복합니다. 쿨타임: 50초|n|n액티브: 4초 동안 최대 이동 속도 증가|n|n쿨타임: 15초.
+
+[I03G]
+Art=war3mapImported\BTNX_Gloves.blp
+Buttonpos=1,1
+Description=영웅의 전투 속도를 45% 증가시킵니다.
+Name=봉고레 장갑 레벨 1
+Tip=봉고레 장갑 레벨 1
+Ubertip=영웅의 전투 속도를 45% 증가시킵니다.
+
+[I03H]
+Art=war3mapImported\BTNX_Gloves.blp
+Buttonpos=1,1
+Description="영웅의 전투 속도가 75% 증가하고 |c00FFFF66AllStat|r이 6만큼 증가합니다."
+Name=봉고레 장갑 레벨 2
+Tip=봉고레 장갑 레벨 2
+Ubertip="영웅의 전투 속도가 75% 증가하고 |c00FFFF66AllStat|r이 6만큼 증가합니다."
+
+[I03I]
+Art=war3mapImported\BTNX_Gloves.blp
+Buttonpos=1,1
+Description="영웅의 전투 속도가 105% 증가하고, |c00FFFF66AllStat|r이 12만큼 증가합니다."
+Name=봉고레 장갑 레벨 3
+Tip=봉고레 장갑 레벨 3
+Ubertip="영웅의 전투 속도가 105% 증가하고, |c00FFFF66AllStat|r이 12만큼 증가합니다."
+
+[I03J]
+Art=war3mapImported\BTNX_Gloves.blp
+Buttonpos=1,1
+Description="영웅의 전투 속도가 135% 증가하고, |c00FFFF66AllStat|r이 18만큼 증가합니다."
+Name=봉고레 장갑 레벨 4
+Tip=봉고레 장갑 레벨 4
+Ubertip="영웅의 전투 속도가 135% 증가하고, |c00FFFF66AllStat|r이 18만큼 증가합니다."
+
+[I03K]
+Art=war3mapImported\BTNX_Gloves.blp
+Buttonpos=1,1
+Description="영웅의 전투 속도가 175%, |c00FFFF66AllStat|r이 24만큼 증가합니다."
+Name=봉고레 장갑 레벨 5
+Tip=봉고레 장갑 레벨 5
+Ubertip="영웅의 전투 속도가 175%, |c00FFFF66AllStat|r이 24만큼 증가합니다."
+
+[I03L]
+Art=war3mapImported\BTNXGlovesVerX.blp
+Name=봉고레 장갑 Ver. X
+Tip=봉고레 장갑 Ver. X
+Ubertip=,
+
+[I03M]
+Art=war3mapImported\BTNXGlovesVerX.blp
+Buttonpos=1,1
+Name=봉고레 장갑 Ver. X(레시피)
+Tip=봉고레 장갑 Ver. X(레시피)
+Ubertip=,
+
+[I03N]
+Art=war3mapImported\BTNsamehada.blp
+Buttonpos=2,1
+Description="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 50, AS 50% 증가. 모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. 2) 트루 데미지 150 + 공격력의 40%."
+Hotkey=A
+Name=사메하다(마나번)
+Tip=사메하다(마나번)
+Ubertip="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 50, AS 50% 증가. 모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. 2) 트루 데미지 150 + 공격력의 40%."
+
+[I03O]
+Art=war3mapImported\BTNsamehada.blp
+Buttonpos=2,1
+Description="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 50, AS 50% 증가. 모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. 2) 트루 데미지 150 + 공격력의 40%."
+Hotkey=A
+Name=사메하다(출혈)
+Tip=사메하다(출혈)
+Ubertip="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 50, AS 50% 증가. 모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. 2) 트루 데미지 150 + 공격력의 40%."
+
+[I03P]
+Art=war3mapImported\BTNTimeSphere.blp
+Buttonpos=3
+Description=|c00FFFF66Allstat|r을 30만큼 증가시킵니다.|n|n액티브: 시간 회귀 - 즉시 사용한 영웅의 4초 전의 위치로 순간 이동시킵니다.|cFF00A5FF|n|n쿨타임: 10초|r
+Hotkey=F
+Name=시간의 오브
+Tip=시간의 오브
+Ubertip=|c00FFFF66Allstat|r을 30만큼 증가시킵니다.|n|n액티브: 시간 회귀 - 즉시 사용한 영웅의 4초 전의 위치로 순간 이동시킵니다.|cFF00A5FF|n|n쿨타임: 10초|r
+
+[I03Q]
+Art=war3mapImported\BTNArcaneSphere.blp
+Buttonpos=3,1
+Description=|c00FFFF66Allstat|r을 30만큼 증가시키며 MP 재생을 25% 만큼 증가시킵니다.|n|n액티브: "공간 이동" - 즉시 타겟한 대상(자신 제외한 아군과 적)을 4초 전의 위치로 순간 이동시킵니다.|n(무검에 있는 대상에 시전 시 공간 이동이 되지 않고 3초 간의 스턴을 부여합니다.)|n|n|cFF00A5FF쿨타임: 10초|r
+Hotkey=F
+Name=공간의 오브
+Tip=공간의 오브
+Ubertip=|c00FFFF66Allstat|r을 30만큼 증가시키며 MP 재생을 25% 만큼 증가시킵니다.|n|n액티브: "공간 이동" - 즉시 타겟한 대상(자신 제외한 아군과 적)을 4초 전의 위치로 순간 이동시킵니다.|n(무검에 있는 대상에 시전 시 공간 이동이 되지 않고 3초 간의 스턴을 부여합니다.)|n|n|cFF00A5FF쿨타임: 10초|r
+
+[I03R]
+Art=war3mapImported\BTNVoidSphere.blp
+Buttonpos=,2
+Description=|c00FFFF66Allstat|r을 30만큼 증가시킵니다.|n(보로스 아머와 동시 보유할 수 없습니다.)|n|n패시브: "허무의 실드" - 적의 스킬을 한 번 막아냅니다.|n(발동 조건 데미지 하한량: 500)|n|n|cFF00A5FF쿨타임: 30초|r
+Hotkey=F
+Name=공허의 오브
+Tip=공허의 오브
+Ubertip=|c00FFFF66Allstat|r을 30만큼 증가시킵니다.|n(보로스 아머와 동시 보유할 수 없습니다.)|n|n패시브: "허무의 실드" - 적의 스킬을 한 번 막아냅니다.|n(발동 조건 데미지 하한량: 500)|n|n|cFF00A5FF쿨타임: 30초|r
+
+[I03S]
+Art=ReplaceableTextures\CommandButtons\BTNCancel.blp
+Buttonpos=,1
+Hotkey=F
+Name=공허의 오브
+Tip=공허의 오브
+Ubertip=,
+
+[I03T]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description=Clean
+Hotkey=R
+Name=Clean
+Tip=Clean
+Ubertip=Clean
+
+[I03U]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description=Clean
+Hotkey=R
+Name=Clean
+Tip=Clean
+Ubertip=Clean
+
+[I03V]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description=공허의 오브
+Hotkey=R
+Name=공허의 오브
+Tip=공허의 오브
+Ubertip=공허의 오브
+
+[I03W]
+Art=war3mapImported\BTNAkatsukiRing.blp
+Buttonpos=3,2
+Description=Повышение регенерации на 15 ед. HP на 500 ед.
+Hotkey=A
+Name=아카츠키 반지
+Tip=아카츠키 반지
+Ubertip=HP 재생력이 15만큼 증가합니다. HP가 500만큼 증가합니다.
+
+[I03X]
+Art=war3mapImported\BTNAkatsukiCloac.blp
+Buttonpos=3,2
+Description=DEF를 10포인트 증가시킵니다. 마법 방어력이 10% 증가합니다.
+Hotkey=A
+Name=아카츠키 로브
+Tip=아카츠키 로브
+Ubertip=DEF를 10포인트 증가시킵니다. 마법 방어력이 10% 증가합니다.
+
+[I03Y]
+Art=war3mapImported\BTNAkatsukiHat.blp
+Buttonpos=,2
+Description=마나 재생이 75% 증가하고 |c00FFFF66AllStat|r이 13만큼 증가합니다.
+Hotkey=A
+Name=아카츠키 모자
+Tip=아카츠키 모자
+Ubertip=마나 재생이 75% 증가하고 |c00FFFF66AllStat|r이 13만큼 증가합니다.
+
+[I03Z]
+Art=war3mapImported\BTNAkatsukiprotector.blp
+Buttonpos=1,2
+Description=|c00FFFF66AllStat|r을 16만큼 증가 및 물리 데미지 100% 중에서 40만큼 감소합니다.
+Hotkey=A
+Name=아카츠키 서클렛
+Tip=아카츠키 서클렛
+Ubertip=|c00FFFF66AllStat|r을 16만큼 증가 및 물리 데미지 100% 중에서 40만큼 감소합니다.
+
+[I040]
+Art=war3mapImported\BTNAkatsukiSet.blp
+Buttonpos=2,1
+Hotkey=A
+Name=아카츠키 세트
+Tip=아카츠키 세트
+Ubertip=,
+
+[I041]
+Art=ReplaceableTextures\CommandButtons\BTNPotionGreen.blp
+Description="Восстановление 250 ед. HP в течении 10 сек., требуется находиться на одном месте."
+Hotkey=M
+Name=Healing Potion
+Tip=Healing Potion
+Ubertip="Восстановление 250 ед. HP в течении 10 сек., требуется находиться на одном месте."
+
+[I042]
+Art=war3mapImported\BTNCaptainFullSet.blp
+Buttonpos=3,1
+Hotkey=A
+Name=캡틴 세트
+Tip=캡틴 세트
+Ubertip=,
+
+[I043]
+Art=war3mapImported\BTNorboflegend_large.blp
+Buttonpos=2,2
+Description="HP와 MP가 2000, MP 재생이 150%, HP 재생이 20 증가합니다. |n|n액티브: 1750 이내의 모든 적의 현재 HP의 8%를 훔쳐 자신에게 가져옵니다.|n|n쿨타임: 20초"
+Hotkey=F
+Name=피의 오브
+Tip=피의 오브
+Ubertip="HP와 MP가 2000, MP 재생이 150%, HP 재생이 20 증가합니다. |n|n액티브: 1750 이내의 모든 적의 현재 HP의 8%를 훔쳐 자신에게 가져옵니다.|n|n쿨타임: 20초"
+
+[I044]
+Art=war3mapImported\BTNInvoke_icon.blp
+Buttonpos=1,2
+Name=원소의 인장
+Tip=원소의 인장
+Ubertip=,
+
+[I045]
+Art=war3mapImported\BTNInvoke_icon.blp
+Buttonpos=1,2
+Name=원소의 인장(레시피)
+Tip=원소의 인장(레시피)
+Ubertip=,
+
+[I046]
+Art=war3mapImported\BTNWindBoots.blp
+Buttonpos=1,1
+Hotkey=A
+Name=허리케인 부츠
+Tip=허리케인 부츠
+Ubertip=,
+
+[I047]
+Art=war3mapImported\BTNWindBoots.blp
+Buttonpos=1
+Hotkey=S
+Name=허리케인 부츠(레시피)
+Tip=허리케인 부츠(레시피)
+Ubertip=,
+
+[I048]
+Art=war3mapImported\BTNGungnir.blp
+Buttonpos=1
+Name=궁니르
+Tip=궁니르
+Ubertip=,
+
+[I049]
+Art=war3mapImported\BTNSpikedRing.blp
+Buttonpos=,2
+Description="공격력이 20만큼 증가하고, |c00FFFF66AllStat|r 3만큼 증가합니다. 500 이내 적의 방어력 4 감소."
+Hotkey=A
+Name='지옥의 반지: "666", 등급 D'
+Tip='지옥의 반지: "666", 등급 D'
+Ubertip="공격력이 20만큼 증가하고, |c00FFFF66AllStat|r 3만큼 증가합니다. 500 이내 적의 방어력 4 감소."
+
+[I04A]
+Art=war3mapImported\BTNSpikedRing.blp
+Buttonpos=,2
+Description="공격력이 35만큼 증가하고, |c00FFFF66AllStat|r 6만큼 증가합니다. 500 이내 적의 방어력 8 감소."
+Hotkey=A
+Name='지옥의 반지: "666", 등급 C'
+Tip='지옥의 반지: "666", 등급 C'
+Ubertip="공격력이 35만큼 증가하고, |c00FFFF66AllStat|r 6만큼 증가합니다. 500 이내 적의 방어력 8 감소."
+
+[I04B]
+Art=war3mapImported\BTNSpikedRing.blp
+Buttonpos=,2
+Description="공격력이 50만큼 증가하고, |c00FFFF66AllStat|r 9만큼 증가합니다. 500 이내 적의 방어력 12 감소."
+Hotkey=A
+Name='지옥의 반지: "666", 등급 B'
+Tip='지옥의 반지: "666", 등급 B'
+Ubertip="공격력이 50만큼 증가하고, |c00FFFF66AllStat|r 9만큼 증가합니다. 500 이내 적의 방어력 12 감소."
+
+[I04C]
+Art=war3mapImported\BTNSpikedRing.blp
+Buttonpos=,2
+Description="공격력이 65 증가하고, |c00FFFF66AllStat|r 12만큼 증가합니다. 500 이내 적의 방어력 16 감소."
+Hotkey=A
+Name='지옥의 반지: "666", 등급 A'
+Tip='지옥의 반지: "666", 등급 A'
+Ubertip="공격력이 65 증가하고, |c00FFFF66AllStat|r 12만큼 증가합니다. 500 이내 적의 방어력 16 감소."
+
+[I04D]
+Art=war3mapImported\BTNSpikedRing.blp
+Buttonpos=,2
+Description="공격력이 80 증가하고, |c00FFFF66AllStat|r 15만큼 증가합니다. 500 이내 적의 방어력 20 감소."
+Hotkey=A
+Name='봉인된 지옥의 반지: "666"'
+Tip='봉인된 지옥의 반지: "666"'
+Ubertip="공격력이 80 증가하고, |c00FFFF66AllStat|r 15만큼 증가합니다. 500 이내 적의 방어력 20 감소."
+
+[I04E]
+Art=war3mapImported\BTN666HellRing.blp
+Buttonpos=,2
+Description="공격력이 100 증가하고, |c00FFFF66AllStat|r 24만큼 증가합니다. 700 이내 적의 방어력 24 감소.|n|n강타: 상대를 공격할 시 40% 확률로 0.06초 동안 기절시키고 0.45초 동안 빗나감이 뜨지 않는다."
+Hotkey=A
+Name=지옥의 반지: "666"
+Tip=지옥의 반지: "666"
+Ubertip="공격력이 100 증가하고, |c00FFFF66AllStat|r 24만큼 증가합니다. 700 이내 적의 방어력 24 감소.|n|n강타: 상대를 공격할 시 40% 확률로 0.06초 동안 기절시키고 0.45초 동안 빗나감이 뜨지 않는다."
+
+[I04F]
+Art=ReplaceableTextures\CommandButtons\BTNExcalibur.blp
+Buttonpos=3
+Name=엑스칼리버
+Tip=엑스칼리버
+Ubertip=,
+
+[I04G]
+Art=war3mapImported\BTNYasuo.blp
+Buttonpos=3
+Hotkey=F
+Name=서풍의 지팡이
+Tip=서풍의 지팡이
+Ubertip=,
+
+[I04H]
+Art=ReplaceableTextures\CommandButtons\BTNSentryWard.blp
+Buttonpos=1,1
+Hotkey=F
+Name=센트리 와드
+Tip=센트리 와드
+Ubertip=,
+
+[I04I]
+Art=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
+Buttonpos=,2
+Hotkey=F
+Name=센트리 와드 mk.ll
+Tip=센트리 와드 mk.ll
+Ubertip=,
+
+[I04J]
+Art=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
+Hotkey=F
+Name=센트리 와드 mk.ll (레시피)
+Tip=센트리 와드 mk.ll (레시피)
+Ubertip=,
+
+[I04K]
+Art=ReplaceableTextures\CommandButtons\BTNBootsOfSpeed.blp
+Description=Ускорение перемещения героя на 60 ед.
+Hotkey=S
+Name=Boots of Speed
+Tip=Purchase Boots of |cffffcc00S|rpeed
+Ubertip=영웅의 이동 속도를 60만큼 높입니다.
+
+[I04L]
+Art=ReplaceableTextures\CommandButtons\BTNMoonStone.blp
+Buttonpos=3,2
+Hotkey=F
+Name=얼음의 정수
+Tip=얼음의 정수
+Ubertip=,
+
+[I04M]
+Art=ReplaceableTextures\CommandButtons\BTNSlow.blp
+Description=|c00FFFF66AllStat|r을 10만큼 증가시킵니다.
+Hotkey=A
+Name="마레 스카이 링, 등급 D"
+Tip="마레 스카이 링, 등급 D"
+Ubertip=|c00FFFF66AllStat|r을 10만큼 증가시킵니다.
+
+[I04N]
+Art=ReplaceableTextures\CommandButtons\BTNSlow.blp
+Buttonpos=2,1
+Description=|c00FFFF66AllStat|r을 15만큼 증가시킵니다.
+Hotkey=A
+Name="마레 스카이 링, 등급 C"
+Tip="마레 스카이 링, 등급 C"
+Ubertip=|c00FFFF66AllStat|r을 15만큼 증가시킵니다.
+
+[I04O]
+Art=ReplaceableTextures\CommandButtons\BTNSlow.blp
+Buttonpos=2,1
+Description=|c00FFFF66AllStat|r을 20만큼 증가시킵니다.
+Hotkey=A
+Name="마레 스카이 링, 등급 B"
+Tip="마레 스카이 링, 등급 B"
+Ubertip=|c00FFFF66AllStat|r을 20만큼 증가시킵니다.
+
+[I04P]
+Art=ReplaceableTextures\CommandButtons\BTNSlow.blp
+Buttonpos=2,1
+Description=|c00FFFF66AllStat|r을 25만큼 증가시킵니다.
+Hotkey=A
+Name="마레 스카이 링, 등급 A"
+Tip="마레 스카이 링, 등급 A"
+Ubertip=|c00FFFF66AllStat|r을 25만큼 증가시킵니다.
+
+[I04Q]
+Art=ReplaceableTextures\CommandButtons\BTNSlow.blp
+Buttonpos=2,1
+Description=|c00FFFF66AllStat|r을 35만큼 증가시킵니다.
+Hotkey=A
+Name=가짜 마레 스카이 링
+Tip=가짜 마레 스카이 링
+Ubertip=|c00FFFF66AllStat|r을 35만큼 증가시킵니다.
+
+[I04R]
+Art=war3mapImported\BTNMare_Sky_Ring.blp
+Description=|c00FFFF66AllStat|r을 35만큼 증가시킵니다.|n|nActive: "맑은 하늘" - 2초 동안 캐릭터의 부정적인 효과를 제거하고 최대 HP의 12%를 회복합니다. 유지의 D 효과를 제거합니다.|n|n쿨타임: 15초
+Hotkey=A
+Name=진정한 마레 스카이 링
+Tip=진정한 마레 스카이 링
+Ubertip=|c00FFFF66AllStat|r을 35만큼 증가시킵니다.|n|nActive: "맑은 하늘" - 2초 동안 캐릭터의 부정적인 효과를 제거하고 최대 HP의 12%를 회복합니다. 유지의 D 효과를 제거합니다.|n|n쿨타임: 15초
+
+[I04S]
+Art=ReplaceableTextures\CommandButtons\BTNMoonStone.blp
+Buttonpos=2,1
+Name=얼음의 정수(레시피)
+Tip=얼음의 정수(레시피)
+Ubertip=,
+
+[I04T]
+Art=war3mapImported\BTNSusanoo_Yata's_Mirror_.blp
+Description=|c00FFFF66AllStat|r 40. 마나 재생 50%. DEF 15 증가. 패시브: "반사" - 입은 마법 피해의 40%를 반사합니다. 반사 피해는 상대방의 마법 저항력에 비례합니다.
+Hotkey=A
+Name=야타의 거울
+Tip=야타의 거울
+Ubertip=|c00FFFF66AllStat|r 40. 마나 재생 50%. DEF 15 증가. 패시브: "반사" - 입은 마법 피해의 40%를 반사합니다. 반사 피해는 상대방의 마법 저항력에 비례합니다.
+
+[I04U]
+Art=war3mapImported\BTNCaptainFullSet.blp
+Description="|c00FFFF66AllStat|r 35, HP 재생 20, DEF 10만큼 증가합니다.|n|n쿨타임: 20초|n|n빌드 : A급 검 + 바람의 오브 + 레시피가 필요합니다."
+Hotkey=A
+Name=캡틴 세트(레시피)
+Tip=캡틴 세트(레시피)
+Ubertip="|c00FFFF66AllStat|r: 35, HP 재생 20, DEF가 10만큼 증가합니다.|n|n쿨타임: 20초|n|n빌드 : A급 검 + 바람의 오브 + 레시피가 필요합니다."
+
+[I04V]
+Art=war3mapImported\BTNToaru_Majutsu_no_Index.blp
+Buttonpos=2
+Hotkey=A
+Name=이매진 브레이커
+Tip=이매진 브레이커
+Ubertip=,
+
+[I04W]
+Art=war3mapImported\BTNToaru_Majutsu_no_Index.blp
+Buttonpos=2
+Hotkey=A
+Name=이매진 브레이커 (레시피)
+Tip=이매진 브레이커 (레시피)
+Ubertip=,
+
+[I04X]
+Art=ReplaceableTextures\CommandButtons\BTNExcalibur.blp
+Buttonpos=3
+Name=엑스칼리버(레시피)
+Tip=엑스칼리버(레시피)
+Ubertip=,
+
+[I04Y]
+Art=war3mapImported\BTNAlastor.blp
+Buttonpos=1,1
+Hotkey=A
+Name=알래스터(레시피)
+Tip=알래스터(레시피)
+Ubertip=,
+
+[I04Z]
+Art=war3mapImported\BTNsamehada.blp
+Buttonpos=3,1
+Description="|c00FF5555STR|r 및 |c00169EFAINT|r 35 증가, 공격력 150 증가 (출혈 시 50 증가.), AS 50% 증가. 모드 간 전환: 1)  현재의 마나의 6% + 치유 2) 트루 데미지 150 + 공격력의 40%.|n|n빌드: 삼대 귀철, 레시피."
+Hotkey=A
+Name=사메하다(레시피)
+Tip=사메하다(레시피)
+Ubertip="|c00FF5555STR|r 및 |c00169EFAINT|r 35 증가, 공격력 150 증가 (출혈 시 50 증가.), AS 50% 증가. 모드 간 전환: 1)  현재의 마나의 6% + 치유 2) 트루 데미지 150 + 공격력의 40%.|n|n빌드: 삼대 귀철, 레시피."
+
+[I050]
+Art=war3mapImported\BTNBasher.blp
+Buttonpos=2
+Name=오형두
+Tip=오형두
+Ubertip=,
+
+[I051]
+Art=war3mapImported\BTNBasher.blp
+Buttonpos=2
+Name=오형두(레시피)
+Tip=오형두(레시피)
+Ubertip=,
+
+[I052]
+Art=war3mapImported\BTNYasuo.blp
+Buttonpos=1,2
+Hotkey=F
+Name=서풍의 지팡이 (레시피)
+Tip=서풍의 지팡이 (레시피)
+Ubertip=,
+
+[I053]
+Art=war3mapImported\BTNScytheOfDeath.blp
+Buttonpos=,2
+Name=사신의 낫(레시피)
+Tip=사신의 낫(레시피)
+Ubertip=,
+
+[I054]
+Art=ReplaceableTextures\CommandButtons\BTNINV_Boots_Plate_05
+Buttonpos=2,1
+Hotkey=A
+Name=아이스 부츠
+Tip=아이스 부츠
+Ubertip=,
+
+[I055]
+Art=ReplaceableTextures\CommandButtons\BTNINV_Boots_Plate_05
+Buttonpos=2
+Hotkey=A
+Name=아이스 부츠(레시피)
+Tip=아이스 부츠(레시피)
+Ubertip=,
+
+[I056]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Buttonpos=1
+Description=|c00FFFF66AllStat|r을 9만큼 늘립니다.
+Hotkey=A
+Name="마레 썬더 링, 등급 D"
+Tip="마레 썬더 링, 등급 D"
+Ubertip=|c00FFFF66AllStat|r을 9만큼 늘립니다.
+
+[I057]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Buttonpos=2,1
+Description=|c00FFFF66AllStat|r을 13만큼 늘립니다.
+Hotkey=A
+Name="마레 썬더 링, 등급 C"
+Tip="마레 썬더 링, 등급 C"
+Ubertip=|c00FFFF66AllStat|r을 13만큼 늘립니다.
+
+[I058]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Buttonpos=2,1
+Description=|c00FFFF66AllStat|r을 16만큼 늘립니다.
+Hotkey=A
+Name="마레 썬더 링, 등급 B"
+Tip="마레 썬더 링, 등급 B"
+Ubertip=|c00FFFF66AllStat|r을 16만큼 늘립니다.
+
+[I059]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Buttonpos=2,1
+Description=|c00FFFF66AllStat|r을 19만큼 늘립니다.
+Hotkey=A
+Name="마레 썬더 링, 등급 A"
+Tip="마레 썬더 링, 등급 A"
+Ubertip=|c00FFFF66AllStat|r을 19만큼 늘립니다.
+
+[I05A]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Buttonpos=2,1
+Description=|c00FFFF66AllStat|r을 22만큼 늘립니다.
+Hotkey=A
+Name=가짜 마레 썬더 링
+Tip=가짜 마레 썬더 링
+Ubertip=|c00FFFF66AllStat|r을 22만큼 늘립니다.
+
+[I05B]
+Art=ReplaceableTextures\CommandButtons\BTNMare_Thunder_Ring.blp
+Buttonpos=1
+Description="|c00FFFF66AllStat|r 30, MP 500 증가 최대 HP의 7% 이상의 피해를 입으면 피해를 입은 영웅이 1.5초 동안 기절하고, 무적 상태일 때 - 0.5초 동안 침묵합니다.|n|n액티브: 반경 1100 이내 적의 최대 MP의 17%를 흡수, 적에게 남은 마나가 없으면 2초 동안 기절시킵니다. 캐릭터가 무적 상태이면 50% 효율로 작동하고 MP가 없으면 2초간 침묵이 된다.|n|n쿨다운: 30초"
+Hotkey=A
+Name=진정한 마레 썬더 링
+Tip=진정한 마레 썬더 링
+Ubertip="|c00FFFF66AllStat|r 30, MP 500 증가 최대 HP의 7% 이상의 피해를 입으면 피해를 입은 영웅이 1.5초 동안 기절하고, 무적 상태일 때 - 0.5초 동안 침묵합니다.|n|n액티브: 반경 1100 이내 적의 최대 MP의 17%를 흡수, 적에게 남은 마나가 없으면 2초 동안 기절시킵니다. 캐릭터가 무적 상태이면 50% 효율로 작동하고 MP가 없으면 2초간 침묵이 된다.|n|n쿨다운: 30초"
+
+[I05C]
+Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
+Buttonpos=2
+Description="|c00FF5555STR|r을 10만큼, HP 재생을 |c00169EFAINT|r의 10% 만큼 늘립니다.
+Hotkey=A
+Name="마레 썬 링, 등급 D"
+Tip="마레 썬 링, 등급 D"
+Ubertip="|c00FF5555STR|r을 10만큼, HP 재생을 |c00169EFAINT|r의 10% 만큼 늘립니다.
+
+[I05D]
+Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
+Buttonpos=2
+Description="|c00FF5555STR|r을 15만큼, HP 재생을 |c00169EFAINT|r의 11% 만큼 늘립니다.
+Hotkey=A
+Name="마레 썬 링, 등급 С"
+Tip="마레 썬 링, 등급 С"
+Ubertip="|c00FF5555STR|r을 15만큼, HP 재생을 |c00169EFAINT|r의 11% 만큼 늘립니다.
+
+[I05E]
+Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
+Buttonpos=2
+Description="|c00FF5555STR|r을 20만큼, HP 재생을 |c00169EFAINT|r의 12% 만큼 늘립니다.
+Hotkey=A
+Name="마레 썬 링, 등급 B"
+Tip="마레 썬 링, 등급 B"
+Ubertip="|c00FF5555STR|r을 20만큼, HP 재생을 |c00169EFAINT|r의 12% 만큼 늘립니다.
+
+[I05F]
+Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
+Buttonpos=2
+Description="|c00FF5555STR|r을 25만큼, HP 재생을 |c00169EFAINT|r의 13% 만큼 늘립니다.
+Hotkey=A
+Name="마레 썬 링, 등급 A"
+Tip="마레 썬 링, 등급 A"
+Ubertip="|c00FF5555STR|r을 25만큼, HP 재생을 |c00169EFAINT|r의 13% 만큼 늘립니다.
+
+[I05G]
+Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
+Buttonpos=2
+Description="|c00FF5555STR|r을 30만큼, HP 재생을 |c00169EFAINT|r의 14% 만큼 늘립니다."
+Hotkey=A
+Name=가짜 마레 썬 링
+Tip=가짜 마레 썬 링
+Ubertip="|c00FF5555STR|r을 30만큼, HP 재생을 |c00169EFAINT|r의 14% 만큼 늘립니다."
+
+[I05H]
+Art=ReplaceableTextures\CommandButtons\BTNMare_Sun_Ring.blp
+Buttonpos=1
+Description="|c00FF5555STR|r을 35만큼, HP 재생을 |c00169EFAINT|r의 15% 만큼 늘립니다.|n패시브: 5초 동안 받은 피해의 10%(최소 100데미지)만큼 HP를 재생합니다.|n|n액티브: 10초 동안 패시브의 효율을 3배로 만듭니다.|n|n쿨타임: 25초"
+Hotkey=A
+Name=진정한 마레 썬 링
+Tip=진정한 마레 썬 링
+Ubertip="|c00FF5555STR|r을 35만큼, HP 재생을 |c00169EFAINT|r의 15% 만큼 늘립니다.|n패시브: 5초 동안 받은 피해의 10%(최소 100데미지)만큼 HP를 재생합니다.|n|n액티브: 10초 동안 패시브의 효율을 3배로 만듭니다.|n|n쿨타임: 25초"
+
+[I05I]
+Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 15만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다.
+Hotkey=A
+Name="마레 스톰 링, 등급 D"
+Tip="마레 스톰 링, 등급 D"
+Ubertip="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 15만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다."
+
+[I05J]
+Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 20만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다."
+Hotkey=A
+Name="마레 스톰 링, 등급 C"
+Tip="마레 스톰 링, 등급 C"
+Ubertip="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 20만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다."
+
+[I05K]
+Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 25만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다."
+Hotkey=A
+Name="마레 스톰 링, 등급 B"
+Tip="마레 스톰 링, 등급 B"
+Ubertip="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 25만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다."
+
+[I05L]
+Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 30만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다."
+Hotkey=A
+Name="마레 스톰 링, 등급 A"
+Tip="마레 스톰 링, 등급 A"
+Ubertip="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 30만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다."
+
+[I05M]
+Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 35만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다."
+Hotkey=A
+Name=가짜 마레 스톰 링
+Tip=가짜 마레 스톰 링
+Ubertip="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 35만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다."
+
+[I05N]
+Art=ReplaceableTextures\CommandButtons\BTNMare_Storm_Ring.blp
+Buttonpos=3
+Description="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 40만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다.|n|n액티브: 시전 즉시 착용자 주변 반경 400 범위 내 모든 적들에게 피격되는 적마다의 최대 체력의 30% 만큼의 데미지를 주며 넉백시킵니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+Hotkey=A
+Name=진정한 마레 스톰 링
+Tip=진정한 마레 스톰 링
+Ubertip="|c003CFF3CAGI|r과 |cFF00A5FFINT|r를 40만큼 증가시키며 착용자가 데미지를 줄 때마다 준 데미지의 25% 만큼 타격 대상의 주변 반경 600 범위 내 적들에게도 데미지를 가합니다.|n|n액티브: 시전 즉시 착용자 주변 반경 400 범위 내 모든 적들에게 피격되는 적마다의 최대 체력의 30% 만큼의 데미지를 주며 넉백시킵니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+
+[I05O]
+Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
+Buttonpos=,1
+Description="|c00FF5555STR|r과 |c003CFF3CAGI|r을 10만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 30% 만큼 감소시킵니다."
+Hotkey=A
+Name="마레 레인 링, 등급 D"
+Tip="마레 레인 링, 등급 D"
+Ubertip="|c00FF5555STR|r과 |c003CFF3CAGI|r을 10만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 30% 만큼 감소시킵니다."
+
+[I05P]
+Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
+Buttonpos=,1
+Description="|c00FF5555STR|r과 |c003CFF3CAGI|r을 15만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 60% 만큼 감소시킵니다."
+Hotkey=A
+Name="마레 레인 링, 등급 C"
+Tip="마레 레인 링, 등급 C"
+Ubertip="|c00FF5555STR|r과 |c003CFF3CAGI|r을 15만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 60% 만큼 감소시킵니다."
+
+[I05Q]
+Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
+Buttonpos=,1
+Description="|c00FF5555STR|r과 |c003CFF3CAGI|r을 20만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 90% 만큼 감소시킵니다."
+Hotkey=A
+Name="마레 레인 링, 등급 B"
+Tip="마레 레인 링, 등급 B"
+Ubertip="|c00FF5555STR|r과 |c003CFF3CAGI|r을 20만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 90% 만큼 감소시킵니다."
+
+[I05R]
+Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
+Buttonpos=,1
+Description="|c00FF5555STR|r과 |c003CFF3CAGI|r을 25만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 120% 만큼 감소시킵니다."
+Hotkey=A
+Name="마레 레인 링, 등급 A"
+Tip="마레 레인 링, 등급 A"
+Ubertip="|c00FF5555STR|r과 |c003CFF3CAGI|r을 25만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 120% 만큼 감소시킵니다."
+
+[I05S]
+Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
+Buttonpos=,1
+Description="|c00FF5555STR|r과 |c003CFF3CAGI|r을 30만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 150% 만큼 감소시킵니다."
+Hotkey=A
+Name=가짜 마레 레인 링
+Tip=가짜 마레 레인 링
+Ubertip="|c00FF5555STR|r과 |c003CFF3CAGI|r을 30만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 150% 만큼 감소시킵니다."
+
+[I05T]
+Art=ReplaceableTextures\CommandButtons\BTNMare_Rain_Ring.blp
+Buttonpos=1
+Description="|c00FF5555STR|r과 |c003CFF3CAGI|r을 35만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 230% 만큼 감소시킵니다.|n|n액티브: 15초 동안 |c00FF5555STR|r과 |c003CFF3CAGI|r을 13% 증폭시킵니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+Hotkey=A
+Name=진정한 마레 레인 링
+Tip=진정한 마레 레인 링
+Ubertip="|c00FF5555STR|r과 |c003CFF3CAGI|r을 35만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 230% 만큼 감소시킵니다.|n|n액티브: 15초 동안 |c00FF5555STR|r과 |c003CFF3CAGI|r을 13% 증폭시킵니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+
+[I05U]
+Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
+Buttonpos=1,1
+Description=|c00169EFAINT|r를 10만큼. |c00FF5555STR|r을 5만큼 증가시킵니다.
+Hotkey=A
+Name="마레 미스트 링, 등급 D"
+Tip="마레 미스트 링, 등급 D"
+Ubertip=|c00169EFAINT|r를 10만큼. |c00FF5555STR|r을 5만큼 증가시킵니다.
+
+[I05V]
+Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
+Buttonpos=1,1
+Description=|c00169EFAINT|r를 15만큼. |c00FF5555STR|r을 10만큼 증가시킵니다.
+Hotkey=A
+Name="마레 미스트 링, 등급 С"
+Tip="마레 미스트 링, 등급 С"
+Ubertip=|c00169EFAINT|r를 15만큼. |c00FF5555STR|r을 10만큼 증가시킵니다.
+
+[I05W]
+Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
+Buttonpos=1,1
+Description=|c00169EFAINT|r를 20만큼. |c00FF5555STR|r을 15만큼 증가시킵니다.
+Hotkey=A
+Name="마레 미스트 링, 등급 B"
+Tip="마레 미스트 링, 등급 B"
+Ubertip=|c00169EFAINT|r를 20만큼. |c00FF5555STR|r을 15만큼 증가시킵니다.
+
+[I05X]
+Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
+Buttonpos=1,1
+Description=|c00169EFAINT|r를 25만큼. |c00FF5555STR|r을 20만큼 증가시킵니다.
+Hotkey=A
+Name="마레 미스트 링, 등급 A"
+Tip="마레 미스트 링, 등급 A"
+Ubertip=|c00169EFAINT|r를 25만큼. |c00FF5555STR|r을 20만큼 증가시킵니다.
+
+[I05Y]
+Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
+Buttonpos=1,1
+Description=|c00169EFAINT|r를 30만큼. |c00FF5555STR|r을 25만큼 증가시킵니다.
+Hotkey=A
+Name=가짜 마레 미스트 링
+Tip=가짜 마레 미스트 링
+Ubertip=|c00169EFAINT|r를 30만큼. |c00FF5555STR|r을 25만큼 증가시킵니다.
+
+[I05Z]
+Art=ReplaceableTextures\CommandButtons\BTNMare_Mist_Ring.blp
+Buttonpos=1
+Description="|c00169EFAINT|r과 |c00FF5555STR|r을 40만큼, 아머를 15만큼 증가시킵니다.|n|n액티브: 시전 후 6 초 내로 착용자가 죽을 시 5초 후에 근처에서 체력과 마나를 35% 만큼 가진 채로 부활합니다.|cFF00A5FF|n|n쿨타임: 40초|r"
+Hotkey=A
+Name=진정한 마레 미스트 링
+Tip=진정한 마레 미스트 링
+Ubertip="|c00169EFAINT|r과 |c00FF5555STR|r을 40만큼, 아머를 15만큼 증가시킵니다.|n|n액티브: 시전 후 6 초 내로 착용자가 죽을 시 5초 후에 근처에서 체력과 마나를 35% 만큼 가진 채로 부활합니다.|cFF00A5FF|n|n쿨타임: 40초|r"
+
+[I060]
+Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
+Buttonpos=2,1
+Description="|c003CFF3CAGI|r을 15만큼 증가시키며 평타 데미지를 받을 시 30 데미지만큼 무효화합니다."
+Hotkey=A
+Name="마레 클라우드 링, 등급 D"
+Tip="마레 클라우드 링, 등급 D"
+Ubertip="|c003CFF3CAGI|r을 15만큼 증가시키며 평타 데미지를 받을 시 30 데미지만큼 무효화합니다."
+
+[I061]
+Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
+Buttonpos=2,2
+Description="|c003CFF3CAGI|r을 20만큼 증가시키며 평타 데미지를 받을 시 50 데미지만큼 무효화합니다."
+Hotkey=A
+Name="마레 클라우드 링, 등급 С"
+Tip="마레 클라우드 링, 등급 С"
+Ubertip="|c003CFF3CAGI|r을 20만큼 증가시키며 평타 데미지를 받을 시 50 데미지만큼 무효화합니다."
+
+[I062]
+Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
+Buttonpos=2,2
+Description="|c003CFF3CAGI|r을 25만큼 증가시키며 평타 데미지를 받을 시 70 데미지만큼 무효화합니다."
+Hotkey=A
+Name="마레 클라우드 링, 등급 B"
+Tip="마레 클라우드 링, 등급 B"
+Ubertip="|c003CFF3CAGI|r을 25만큼 증가시키며 평타 데미지를 받을 시 70 데미지만큼 무효화합니다."
+
+[I063]
+Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
+Buttonpos=2,2
+Description="|c003CFF3CAGI|r을 30만큼 증가시키며 평타 데미지를 받을 시 90 데미지만큼 무효화합니다."
+Hotkey=A
+Name="마레 클라우드 링, 등급 A"
+Tip="마레 클라우드 링, 등급 A"
+Ubertip="|c003CFF3CAGI|r을 30만큼 증가시키며 평타 데미지를 받을 시 90 데미지만큼 무효화합니다."
+
+[I064]
+Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
+Buttonpos=2,2
+Description="|c003CFF3CAGI|r을 35만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다."
+Hotkey=A
+Name=가짜 마레 클라우드 링
+Tip=가짜 마레 클라우드 링
+Ubertip="|c003CFF3CAGI|r을 35만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다."
+
+[I065]
+Art=ReplaceableTextures\CommandButtons\BTNMare_Cloud_Ring.blp
+Buttonpos=2,1
+Description="|c003CFF3CAGI|r을 40만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다. 착용자가 최대 체력의 5%만큼의 체력을 잃을 때마다 10초 동안|c00FF5555STR|r을 10만큼 얻습니다.|n|n액티브: 착용자 주변으로 반경 700 범위 내 적이 있을 때 사용할 시 착용자는 자신의 주변 반경 900 범위 내 모든 아군에게(자신 포함) 상대방의 면역을 무시하는 버프와 방어력을 25 올려주는 5초간 부여합니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+Hotkey=A
+Name=진정한 마레 클라우드 링
+Tip=진정한 마레 클라우드 링
+Ubertip="|c003CFF3CAGI|r을 40만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다. 착용자가 최대 체력의 5%만큼의 체력을 잃을 때마다 10초 동안|c00FF5555STR|r을 10만큼 얻습니다.|n|n액티브: 착용자 주변으로 반경 700 범위 내 적이 있을 때 사용할 시 착용자는 자신의 주변 반경 900 범위 내 모든 아군에게(자신 포함) 상대방의 면역을 무시하는 버프와 방어력 25 올려주는 버프를 5초간 부여합니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+
+[I066]
+Art=ReplaceableTextures\CommandButtons\BTNGlyph.blp
+Buttonpos=1,2
+Hotkey=F
+Name=센트리 와드 mk.lll
+Tip=센트리 와드 mk.lll
+Ubertip=,
+
+[I067]
+Art=ReplaceableTextures\CommandButtons\BTNGlyph.blp
+Buttonpos=1
+Hotkey=F
+Name=센트리 와드 mk.lll (레시피)
+Tip=센트리 와드 mk.lll (레시피)
+Ubertip=,
+
+[I068]
+Art=ReplaceableTextures\CommandButtons\BTNHolyGrail.blp
+Hotkey=A
+Name=성배
+Tip=성배
+Ubertip=,
+
+[I069]
+Art=ReplaceableTextures\CommandButtons\BTNHolyGrail.blp
+Buttonpos=1
+Hotkey=A
+Name=성배 (레시피)
+Tip=성배 (레시피)
+Ubertip=,
+
+[I06B]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description=HeroXPurge
+Hotkey=R
+Name=HeroXPurge
+Tip=HeroXPurge
+Ubertip=HeroXPurge
+
+[I06C]
+Art=war3mapImported\BTNDarkWand.blp
+Buttonpos=,1
+Description="50 공격력 증가, AS +50%, |c00FFFF66AllStat|r 24 증가|n|n다크 오라: 적의 공격력 50% 감소"
+Name=봉인된 어둠의 지팡이
+Tip=봉인된 어둠의 지팡이
+Ubertip="50 공격력 증가, AS +50%, |c00FFFF66AllStat|r 24 증가|n|n다크 오라: 적의 공격력 50% 감소"
+
+[I06D]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description="Подарок, секрет внутри... :)"
+Hotkey=R
+Name=Подарочек :)
+Tip=Подарочек :)
+Ubertip="Подарок, секрет внутри... :)"
+
+[I06E]
+Art=ReplaceableTextures\CommandButtons\BTNSaiyanArmor.blp
+Buttonpos=,1
+Hotkey=A
+Name=사이어인 세트
+Tip=사이어인 세트
+Ubertip=,
+
+[I06F]
+Art=ReplaceableTextures\CommandButtons\BTNSA2.blp
+Buttonpos=1
+Description=|c00FF5555STR|r을 20 증가.|n
+Hotkey=A
+Name=사이어인 장갑
+Tip=사이어인 장갑
+Ubertip=|c00FF5555STR|r을 20 증가.|n
+
+[I06G]
+Art=ReplaceableTextures\CommandButtons\BTNSA1.blp
+Description="|c00FF5555STR|r을 10씩, |c003CFF3CAGI|r을 20씩 증가.|n"
+Hotkey=A
+Name=사이어인 부츠
+Tip=사이어인 부츠
+Ubertip="|c00FF5555STR|r을 10씩, |c003CFF3CAGI|r을 20씩 증가.|n"
+
+[I06H]
+Art=ReplaceableTextures\CommandButtons\BTNSA3.blp
+Buttonpos=2
+Description=영웅의 DEF가 15만큼 증가합니다.|n
+Hotkey=A
+Name=사이어인 갑옷
+Tip=사이어인 갑옷
+Ubertip=영웅의 DEF가 15만큼 증가합니다.|n
+
+[I06I]
+Art=ReplaceableTextures\CommandButtons\BTNSA4.blp
+Buttonpos=3
+Description="|c00FF5555STR|r 10 증가, 공격력 50|n"
+Hotkey=A
+Name=스카우터
+Tip=스카우터
+Ubertip="|c00FF5555STR|r 10 증가, 공격력 50|n"
+
+[I06J]
+Art=ReplaceableTextures\CommandButtons\BTNQuicySet.blp
+Buttonpos=3
+Description=|c00FFFF66Allstat|r을 40만큼, 이동 속도를 30%만큼 증가시키며 착용자 주위 반경 500 범위 내 모든 적의 마나를 초당 해당 적의 최대 마나량의 1% 만큼 태웁니다.|n|n액티브: 잔액 - 타겟한 적에게 7초간 마크를 남깁니다.|n마크된 적이 7초 내로 스킬을 사용 시 타겟된 적의 |c00FFFF66Allstat|r*2 보다 큰 데미지를 해당 적이 입을 시 추가로 |c00FFFF66Allstat|r*0.75 만큼의 데미지를 입습니다.|n마크된 적이 7초 내로 아이템을 사용 시 사용 직후 3초간 아이템과 스킬을 사용할 수 없는 침묵 상태가 됩니다.|n|n|cFF00A5FF쿨타임: 30초|r
+Hotkey=A
+Name=퀸시 세트
+Tip=퀸시 세트
+Ubertip=|c00FFFF66Allstat|r을 40만큼, 이동 속도를 30%만큼 증가시키며 착용자 주위 반경 500 범위 내 모든 적의 마나를 초당 해당 적의 최대 마나량의 1% 만큼 태웁니다.|n|n액티브: 잔액 - 타겟한 적에게 7초간 마크를 남깁니다.|n마크된 적이 7초 내로 스킬을 사용 시 타겟된 적의 |c00FFFF66Allstat|r*2 보다 큰 데미지를 해당 적이 입을 시 추가로 |c00FFFF66Allstat|r*0.75 만큼의 데미지를 입습니다.|n마크된 적이 7초 내로 아이템을 사용 시 사용 직후 3초간 아이템과 스킬을 사용할 수 없는 침묵 상태가 됩니다.|n|n|cFF00A5FF쿨타임: 30초|r
+
+[I06K]
+Art=ReplaceableTextures\CommandButtons\BTNQS1.blp
+Buttonpos=,1
+Description="|c00FFFF66AllStat|r 13 증가, 공격력 40 증가.|n"
+Hotkey=A
+Name=퀸시 장갑
+Tip=퀸시 장갑
+Ubertip="|c00FFFF66AllStat|r 13 증가, 공격력 40 증가.|n"
+
+[I06L]
+Art=ReplaceableTextures\CommandButtons\BTNQS2.blp
+Buttonpos=1,1
+Description=재생력을 20 증가시킵니다.
+Hotkey=A
+Name=퀸시 크로스
+Tip=퀸시 크로스
+Ubertip=HP 재생력을 20 증가시킵니다.
+
+[I06M]
+Art=ReplaceableTextures\CommandButtons\BTNQS3.blp
+Buttonpos=2,1
+Description=HP를 1000 증가시킵니다.
+Hotkey=A
+Name=퀸시 메달리온
+Tip=퀸시 메달리온
+Ubertip=HP를 1000 증가시킵니다.
+
+[I06N]
+Art=ReplaceableTextures\CommandButtons\BTNQS4.blp
+Buttonpos=3,1
+Description="이동 속도가 20% 증가하고 스탯이 10 증가합니다."
+Hotkey=A
+Name=퀸시 오버코트
+Tip=퀸시 오버코트
+Ubertip="이동 속도가 20% 증가하고 스탯이 10 증가합니다."
+
+[I06O]
+Art=ReplaceableTextures\CommandButtons\BTNShadowGrail.blp
+Buttonpos=,1
+Hotkey=A
+Name=암흑의 성배
+Tip=암흑의 성배
+Ubertip=,
+
+[I06P]
+Art=ReplaceableTextures\CommandButtons\BTNShadowGrail.blp
+Buttonpos=1,1
+Name=암흑의 성배(레시피)
+Tip=암흑의 성배(레시피)
+Ubertip=,
+
+[I06Q]
+Art=ReplaceableTextures\CommandButtons\BTNKaleido1.blp
+Buttonpos=2,1
+Hotkey=A
+Name=칼레이도로드 루비
+Tip=칼레이도로드 루비
+Ubertip=,
+
+[I06R]
+Art=ReplaceableTextures\CommandButtons\BTNKaleido2.blp
+Buttonpos=,2
+Hotkey=A
+Name=칼레이도로드 사파이어
+Tip=칼레이도로드 사파이어
+Ubertip=,
+
+[I06S]
+Art=ReplaceableTextures\CommandButtons\BTNKaleido1.blp
+Buttonpos=3,1
+Name=칼레이도로드 루비 (레시피)
+Tip=칼레이도로드 루비 (레시피)
+Ubertip=,
+
+[I06T]
+Art=ReplaceableTextures\CommandButtons\BTNKaleido2.blp
+Buttonpos=1,2
+Name=칼레이도로드 사파이어 (레시피)
+Tip=칼레이도로드 사파이어 (레시피)
+Ubertip=,
+
+[I06U]
+Art=ReplaceableTextures\CommandButtons\BTNHolyGrail.blp
+Buttonpos=1
+Hotkey=A
+Name=성배 (레시피)
+Tip=성배 (레시피)
+Ubertip=,
+
+[I06V]
+Art=ReplaceableTextures\CommandButtons\BTNQuicySet.blp
+Buttonpos=2
+Description=|c00FFFF66Allstat|r을 40만큼, 이동 속도를 30%만큼 증가시키며 착용자 주위 반경 500 범위 내 모든 적의 마나를 초당 해당 적의 최대 마나량의 1% 만큼 태웁니다.|n|n액티브: 잔액 - 타겟한 적에게 7초간 마크를 남깁니다.|n마크된 적이 7초 내로 스킬을 사용 시 타겟된 적의 |c00FFFF66Allstat|r*2 보다 큰 데미지를 해당 적이 입을 시 추가로 |c00FFFF66Allstat|r*0.75 만큼의 데미지를 입습니다.|n마크된 적이 7초 내로 아이템을 사용 시 사용 직후 3초간 아이템과 스킬을 사용할 수 없는 침묵 상태가 됩니다.|n|n|cFF00A5FF쿨타임: 30초|r|n|n조합법: 퀸시 장갑 + 퀸시 크로스 + 퀸시 메달리온 + 퀸시 오버코트
+Hotkey=A
+Name=퀸시 세트 (레시피)
+Tip=퀸시 세트 (레시피)
+Ubertip=|c00FFFF66Allstat|r을 40만큼, 이동 속도를 30%만큼 증가시키며 착용자 주위 반경 500 범위 내 모든 적의 마나를 초당 해당 적의 최대 마나량의 1% 만큼 태웁니다.|n|n액티브: 잔액 - 타겟한 적에게 7초간 마크를 남깁니다.|n마크된 적이 7초 내로 스킬을 사용 시 타겟된 적의 |c00FFFF66Allstat|r*2 보다 큰 데미지를 해당 적이 입을 시 추가로 |c00FFFF66Allstat|r*0.75 만큼의 데미지를 입습니다.|n마크된 적이 7초 내로 아이템을 사용 시 사용 직후 3초간 아이템과 스킬을 사용할 수 없는 침묵 상태가 됩니다.|n|n|cFF00A5FF쿨타임: 30초|r|n|n조합법: 퀸시 장갑 + 퀸시 크로스 + 퀸시 메달리온 + 퀸시 오버코트
+
+[I06W]
+Art=war3mapImported\BTNGrimoir1.blp
+Buttonpos=1,1
+Description="|c00169EFAINT|r을 60 증가시키고 마법 저항력을 15% 증가시킵니다. 패시브(누르면 전환): 초당 MP 3.5%당 HP 2% 재생. HP가 가득 차면 MP가 소비되지 않습니다. |n"
+Hotkey=A
+Name=그리모어 프렐라티
+Tip=그리모어 프렐라티
+Ubertip="|c00169EFAINT|r을 60 증가시키고 마법 저항력을 15% 증가시킵니다. 패시브(누르면 전환): 초당 MP 3.5%당 HP 2% 재생. HP가 가득 차면 MP가 소비되지 않습니다. |n"
+
+[I06X]
+Art=war3mapimported\BTNGrimoir2.blp
+Buttonpos=1,1
+Description="|c00169EFAINT|r을 60 증가시키고 마법 저항력을 15% 증가시킵니다. 패시브(누르면 전환): 초당 2% HP당 MP 3.5% 재생. MP가 가득 차면 HP가 소비되지 않습니다.|n"
+Hotkey=A
+Name=그리모어 프렐라티
+Tip=그리모어 프렐라티
+Ubertip="|c00169EFAINT|r을 60 증가시키고 마법 저항력을 15% 증가시킵니다. 패시브(누르면 전환): 초당 2% HP당 MP 3.5% 재생. 마나가 가득 차면 체력이 소비되지 않습니다.|n"
+
+[I06Z]
+Art=war3mapimported\BTNgrimoir.blp
+Buttonpos=1,1
+Description="|c00169EFAINT|r을 60 증가시키고 마법 저항력을 15% 증가시킵니다. 패시브(누르면 전환): 비활성화됩니다. |n"
+Hotkey=A
+Name=그리모어 프렐라티
+Tip=그리모어 프렐라티
+Ubertip="|c00169EFAINT|r 60 증가시키고 마법 저항력을 15% 증가시킵니다. 패시브(누르면 토글됨): 비활성화됩니다. |n"
+
+[I12R]
+Art=war3mapImported\BTNRibbonItem.blp
+Buttonpos=2,1
+Description="HP가 500 증가하고 착용자의 강인함이 20% 감소합니다."
+Hotkey=F
+Name=리본
+Tip=리본
+Ubertip="HP가 500 증가하고 착용자의 강인함이 20% 증가합니다."
+
+[I13R]
+Art=war3mapImported\BTNBorosArmor.blp
+Buttonpos=1
+Description=|c00FFFF66Allstat|r을 30 만큼 증가시키며 체력을 500 만큼 늘려주며 25% 확률로 착용자의 스턴과 침묵 디버프의 지속 시간을 감소시킵니다.|n패시브: 한계 포텐셜 - 적의 스킬을 한 번 막아낸 후 5초 동안 |c00FF5555STR|r을 25 만큼 증가시키며 기본 옵션의 디버프 시간 감소율을 랜덤하게 25~75% 만큼 증폭시킵니다.|n(페시브 발동 최소 데미지량: 500)|n|n|cFFFF0000이매진 브레이커와 동시에 착용이 불가능합니다.|r|n|n|cFF00A5FF쿨타임: 30초|r
+Hotkey=F
+Name=보로스 갑옷
+Tip=보로스 갑옷
+Ubertip=|c00FFFF66Allstat|r을 30 만큼 증가시키며 체력을 500 만큼 늘려주며 25% 확률로 착용자의 스턴과 침묵 디버프의 지속 시간을 감소시킵니다.|n패시브: 한계 포텐셜 - 적의 스킬을 한 번 막아낸 후 5초 동안 |c00FF5555STR|r을 25 만큼 증가시키며 기본 옵션의 디버프 시간 감소율을 랜덤하게 25~75% 만큼 증폭시킵니다.|n(페시브 발동 최소 데미지량: 500)|n|n|cFFFF0000이매진 브레이커와 동시에 착용이 불가능합니다.|r|n|n|cFF00A5FF쿨타임: 30초|r
+
+[I13S]
+Art=ReplaceableTextures\CommandButtons\BTNCancel.blp
+Buttonpos=,1
+Description=|c00FFFF66Allstat|r을 30 만큼 증가시키며 체력을 500 만큼 늘려주며 25% 확률로 착용자의 스턴과 침묵 디버프의 지속 시간을 감소시킵니다.|n패시브: 한계 포텐셜 - 적의 스킬을 한 번 막아낸 후 5초 동안 |c00FF5555STR|r을 25 만큼 증가시키며 기본 옵션의 디버프 시간 감소율을 랜덤하게 25~75% 만큼 증폭시킵니다.|n(페시브 발동 최소 데미지량: 500)|n|n|cFFFF0000이매진 브레이커와 동시에 착용이 불가능합니다.|r|n|n|cFF00A5FF쿨타임: 30초|r
+Hotkey=F
+Name=보로스 갑옷
+Tip=보로스 갑옷
+Ubertip=|c00FFFF66Allstat|r을 30 만큼 증가시키며 체력을 500 만큼 늘려주며 25% 확률로 착용자의 스턴과 침묵 디버프의 지속 시간을 감소시킵니다.|n패시브: 한계 포텐셜 - 적의 스킬을 한 번 막아낸 후 5초 동안 |c00FF5555STR|r을 25 만큼 증가시키며 기본 옵션의 디버프 시간 감소율을 랜덤하게 25~75% 만큼 증폭시킵니다.|n(페시브 발동 최소 데미지량: 500)|n|n|cFFFF0000이매진 브레이커와 동시에 착용이 불가능합니다.|r|n|n|cFF00A5FF쿨타임: 30초|r
+
+[I13V]
+Art=ReplaceableTextures\CommandButtons\BTNRune.blp
+Description=Boros Armor
+Hotkey=R
+Name=Boros Armor
+Tip=Boros Armor
+Ubertip=Boros Armor
+
+[I14R]
+Art=war3mapImported\BTNBorosArmor.blp
+Buttonpos=2,2
+Description=|c00FFFF66Allstat|r을 30 만큼 증가시키며 체력을 500 만큼 늘려주며 25% 확률로 착용자의 스턴과 침묵 디버프의 지속 시간을 감소시킵니다.|n패시브: 한계 포텐셜 - 적의 스킬을 한 번 막아낸 후 5초 동안 |c00FF5555힘|r을 25 만큼 증가시키며 기본 옵션의 디버프 시간 감소율을 랜덤하게 25~75% 만큼 증폭시킵니다.|n(페시브 발동 최소 데미지량: 500)|n|n|cFFFF0000이매진 브레이커와 동시에 착용이 불가능합니다.|r|n|n|cFF00A5FF쿨타임: 30초|r|n|n조합법: 공허의 구체 + 리본
+Hotkey=F
+Name=보로스 갑옷 (레시피)
+Tip=보로스 갑옷 (레시피)
+Ubertip=|c00FFFF66Allstat|r을 30 만큼 증가시키며 체력을 500 만큼 늘려주며 25% 확률로 착용자의 스턴과 침묵 디버프의 지속 시간을 감소시킵니다.|n패시브: 한계 포텐셜 - 적의 스킬을 한 번 막아낸 후 5초 동안 |c00FF5555힘|r을 25 만큼 증가시키며 기본 옵션의 디버프 시간 감소율을 랜덤하게 25~75% 만큼 증폭시킵니다.|n(페시브 발동 최소 데미지량: 500)|n|n|cFFFF0000이매진 브레이커와 동시에 착용이 불가능합니다.|r|n|n|cFF00A5FF쿨타임: 30초|r|n|n조합법: 공허의 구체 + 리본
+
+[I1S4]
+Art=ReplaceableTextures\CommandButtons\BTNOnizukaSet_5.blp
+Buttonpos=1,1
+Description="|c00FFFF66AllStat|r을 25, HP를 600, DMG를 100, AS를 50% 증가시킵니다. |n패시브: 30 이상의 피해를 입히면 추가로 0.2*|c00FFFF66AllStat|r의 순수 차단 가능한 피해를 입히고 재생 HP를 5초 동안 25% 늦춥니다. (유키린 시계와 함께 작동하지 않음) 착용자의 최대 HP/MP를 1%/0.5% 회복합니다. |nCD: 1초|n액티브: 5초 동안 패시브 쿨다운이 0.2로 감소합니다. |nCD: 20초"
+Hotkey=A
+Name=오니즈카 세트
+Tip=오니즈카 세트
+Ubertip="|c00FFFF66AllStat|r을 25, HP를 600, DMG를 100, AS를 50% 증가시킵니다. |n패시브: 30 이상의 피해를 입히면 추가로 0.2*|c00FFFF66AllStat|r의 순수 차단 가능한 피해를 입히고 재생 HP를 5초 동안 25% 늦춥니다. (유키린 시계와 함께 작동하지 않음) 착용자의 최대 HP/MP를 1%/0.5% 회복합니다. |nCD: 1초|n액티브: 5초 동안 패시브 쿨다운이 0.2로 감소합니다. |nCD: 20초"
+
+[IGDi]
+Art=ReplaceableTextures\CommandButtons\BTNItemGaeDearg.blp
+Buttonpos=3
+Description="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 100%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n"
+Hotkey=F
+Name=파마의 홍장미 - 게이 저그
+Tip=파마의 홍장미 - 게이 저그
+Ubertip="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 100%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n"
+
+[IGDr]
+Art=ReplaceableTextures\CommandButtons\BTNItemGaeDearg.blp
+Description="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 100%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n|n빌드: 트루 봉골라 스톰 링 + 레시피|n"
+Hotkey=F
+Name=파마의 홍장미 - 게이 저그 (레시피)
+Tip=파마의 홍장미 - 게이 저그 (레시피)
+Ubertip="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 100%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n|n빌드: 트루 봉골라 스톰 링 + 레시피|n"
+
+[IHYi]
+Art=ReplaceableTextures\CommandButtons\BTNHourglass_Yukirin.blp
+Buttonpos=,1
+Hotkey=F
+Name=유키린의 모래시계
+Tip=유키린의 모래시계
+Ubertip="|c00FF5555STR|r 및 |c003CFF3CAGI|r 35 증가, |c00169EFAINT|r 20.|n|n • [|c0000FFFFTrial of Time|r] - 피해를 입히면 대상의 HP 재생 효율이 5초씩 감소합니다. 피해를 입힐 때마다 피해를 입힙니다. 새로 고침 -25/50/75% 지속 시간 및 버프 치유 회복: 충전당 0.5초의 재사용 대기시간 3회 충전 시 적의 회복되지 않은 HP의 절반이 착용자에게 이전됩니다.|n 퍼지로 제거됩니다.|n |n 빌드: 레시피 + 훌륭한 대화수단 + 마레 태양 링 B등급|n"
+
+[IHYr]
+Art=ReplaceableTextures\CommandButtons\BTNHourglass_Yukirin.blp
+Buttonpos=,2
+Hotkey=F
+Name=유키린의 모래시계(레시피)
+Tip=유키린의 모래시계(레시피)
+Ubertip="|c00FF5555STR|r 및 |c003CFF3CAGI|r 35 증가, |c00169EFAINT|r 20.|n|n • [|c0000FFFFTrial of Time|r] - 피해를 입히면 대상의 HP 재생 효율이 5초씩 감소합니다. 피해를 입힐 때마다 피해를 입힙니다. 새로 고침 -25/50/75% 지속 시간 및 버프 치유 회복: 충전당 0.5초의 재사용 대기시간 3회 충전 시 적의 회복되지 않은 HP의 절반이 착용자에게 이전됩니다.|n 퍼지로 제거됩니다.|n |n 빌드: 레시피 + 훌륭한 대화수단 + 마레 태양 링 B등급|n"
+
+[IMDi]
+Art=ReplaceableTextures\CommandButtons\BTNPetrification-Device.blp
+Hotkey=F
+Name=메두사 - Dr.Stone
+Tip=메두사 - Dr.Stone
+Ubertip="|c003CFF3CAGI|r 30, |c00169EFAINT|r 20, |c00FF5555STR|r 20, |c00169EFAMP|r 500만큼 증가.|n|n사용 시 2초동안 자신을 돌로 만들어 무적 상태가 되고 풀리면 체력 15%를 회복합니다.|n[ESC]로도 사용가능.|n|n[보로스 갑옷, 이매진 브레이커와 함께 구매불가]|n|nCD: 55초.|n"
+
+[IMDr]
+Art=ReplaceableTextures\CommandButtons\BTNPetrification-Device.blp
+Hotkey=F
+Name=메두사 - Dr.Stone (레시피)
+Tip=메두사 - Dr.Stone (레시피)
+Ubertip=|c003CFF3CAGI|r 35, |c00169EFAINT|r 20, |c00FF5555STR|r 20, |c00169EFAMP|r 500만큼 증가.|n|n사용 시 2초동안 자신을 돌로 만들어 무적 상태가 되고 풀리면 최대 체력 15%를 회복합니다.|n[ESC]로도 사용가능.|n|n[보로스 갑옷, 이매진 브레이커와 함께 구매불가]|n|nCD: 55초.|n|n조합법: 암부 가면 + 바람의 오브 + 마레 미스트링 B"
+
+[IOS1]
+Art=ReplaceableTextures\CommandButtons\BTNOnizukaSet_1.blp
+Buttonpos=,2
+Hotkey=F
+Name=헤어 무스
+Tip=헤어 무스
+Ubertip="공격력 50 증가, AS 50% 증가. |n• [|c008000FF파거스 과다복용|r] - 30이 넘는 피해를 입힐 때마다 30의 고정 피해를 추가로 입힙니다. 오니즈카 세트에는 적용되지 않습니다. 쿨다운: 1초.|n"
+
+[IOS2]
+Art=ReplaceableTextures\CommandButtons\BTNOnizukaSet_2.blp
+Buttonpos=1,2
+Hotkey=F
+Name=스타일리쉬 재킷
+Tip=스타일리쉬 재킷
+Ubertip="|c0000FF00HP|r 500 증가, HP 재생력이 5만큼 증가합니다.|n|n • [|c0000FFFF너무 스타일리시|r] - 피해를 입을 때 MP로 10% 전환. CD: 10초.|n"
+
+[IOS3]
+Art=ReplaceableTextures\CommandButtons\BTNOnizukaSet_3.blp
+Buttonpos=2,2
+Hotkey=F
+Name=훌륭한 대화수단
+Tip=훌륭한 대화수단
+Ubertip=|c00FFFF66AllStat|r을 12 증가|n|n • [|c008000FF변하지 않는 파쇄기|r] - 50 이상의 피해를 입힐 때마다 대상의 재생력이 5초 동안 25% 감소합니다. 유키린의 모래시계에 의해 억제되어 오니즈카 세트와 함께 작동하지 않습니다.|n
+
+[IOS4]
+Art=ReplaceableTextures\CommandButtons\BTNOnizukaSet_4.blp
+Buttonpos=3,2
+Description="|c0000FF00HP|r 300 증가, |c00169EFAINT|r 5 증가, MP 재생 50%.|n|n • [|c000080FF기이함|r] - 피해를 입힐 때 최대 HP의 5%에 해당하는 HP를 회복합니다. 쿨다운: 10초 .|n"
+Hotkey=F
+Name=오니즈카 귀걸이
+Tip=오니즈카 귀걸이
+Ubertip="|c0000FF00HP|r 300 증가, |c00169EFAINT|r 5 증가, MP 재생 50%.|n|n • [|c000080FFExtraordinary|r] - 피해를 입힐 때 최대 HP의 5%에 해당하는 HP를 회복합니다. 쿨다운: 10초 .|n"
+
+[IPar]
+Art=war3mapImported\BTNPatriot.blp
+Buttonpos=1
+Name=애국자 (레시피)
+Tip=애국자 (레시피)
+Ubertip=|c00FFFF66Allstat|r을 25만큼 증가시키고 기본 공격 데미지를 150만큼 올립니다.|n패시브: 애국심 - 착용자가 평타 공격할 때마다 타격 대상의 적의 |c00FFFF66Allstat|r을 10 초간 3 만큼 낮춥니다.|n|n액티브: 무정 - 15 초 동안 타겟한 적의 |c00FFFF66Allstat|r 30을 훔치며 착용자가 타겟 대상을 공격 시 4 초간 절대 빗나가지 않습니다.|n(시전 사거리가 있습니다.)|ncFF00A5FF쿨타임: 45 초|n|n조합법: 강검 + 용기의 메달 + 레시피
+
+[ISDi]
+Art=war3mapImported\BTNScytheOfDeath.blp
+Hotkey=F
+Name=사신의 낫
+Tip=사신의 낫
+Ubertip=|c003CFF3CAGI|r을 50만큼, 기본 공격 데미지 150을 증가시키고 체력을 500만큼 늘립니다.|n|n패시브: 클리빙 - 착용자가 평타 공격할 때마다 타격 대상의 적 주변 반경 700 범위로 타격 데미지의 70% 만큼 스플레시 데미지를 줍니다.|n|n액티브: 죽음의 사냥 - 해당 방향으로 1 초간 스턴, 착용자의 |c003CFF3CAGI|rх6 만큼의 데미지를 가지는 쇼크웨이브 공격을 날립니다.|n|n|cFF00A5FF쿨타임: 25 초|r|n|n조합법: 검 등급 B + 암부 검 + 사신의 낫 레시피
+
+[ISTi]
+Art=ReplaceableTextures\CommandButtons\BTNItemStigmata.blp
+Buttonpos=2,1
+Hotkey=F
+Name=성흔 테서랙트
+Tip=성흔 테서랙트
+Ubertip="|c00169EFAINT|r 35 증가, 데미지 저항 10% 증가, AS 50% 증가, 공격력 50 증가, MP 재생 50% 증가.|n|n • [|c008080C0베타 스티그마|r] - 60 이상의 피해는 대상의 최대 HP의 5%만큼 순수 방어 불가 피해로 증가합니다. 환상에는 작동하지 않습니다. CD: 3초|n • [|c008000FF알파 스티그마|r] - 대상 적은 6초 동안 방패 파괴 표식을 받습니다. 표식을 사용하면 대상의 보호막을 뚫을 수 있습니다. CD: 25 초. |n|n 빌드: 레시피(400) + 헤어 무스(1400) + 아카츠키 모자(1100) + 아이스 오브(2000)|n"
+
+[ISTr]
+Art=ReplaceableTextures\CommandButtons\BTNItemStigmata.blp
+Buttonpos=,2
+Hotkey=F
+Name=성흔 테서랙트 (레시피)
+Tip=성흔 테서랙트 (레시피)
+Ubertip="|c00169EFAINT|r 35 증가, 데미지 저항 10% 증가, AS 50% 증가, 공격력 50 증가, MP 재생 50% 증가.|n|n • [|c008080C0베타 스티그마|r] - 60 이상의 피해는 대상의 최대 HP의 5%만큼 순수 방어 불가 피해로 증가합니다. 환상에는 작동하지 않습니다. CD: 3초|n • [|c008000FF알파 스티그마|r] - 대상 적은 6초 동안 방패 파괴 표식을 받습니다. 표식을 사용하면 대상의 보호막을 뚫을 수 있습니다. CD: 25 초. |n|n 빌드: 레시피(400) + 헤어 무스(1400) + 아카츠키 모자(1100) + 아이스 오브(2000)|n"
+
+[Ibrk]
+Art=ReplaceableTextures\CommandButtons\BTNCancel.blp
+Description=Этот предмет временно разрушен.
+Name=Broken item
+Tip=Broken item
+Ubertip=Этот предмет временно разрушен.
+
+[afac]
+Art=ReplaceableTextures\CommandButtons\BTNAlleriaFlute.blp
+Description=Nearby units' missile attacks do more damage.
+Name=Alleria's Flute of Accuracy
+Tip=Purchase Alleria's Flute of Accuracy
+Ubertip=Increases nearby ranged units' damage by 10%. |nDoes not stack with Trueshot Aura.
+
+[ajen]
+Art=ReplaceableTextures\CommandButtons\BTNJanggo.blp
+Description=Nearby units move and attack more swiftly.
+Name=Ancient Janggo of Endurance
+Tip=Purchase Ancient Janggo of Endurance
+Ubertip=Grants the Hero and friendly nearby units increased attack rate and movement speed. |nDoes not stack with Endurance Aura.
+
+[ankh]
+Art=ReplaceableTextures\CommandButtons\BTNAnkh.blp
+Description=Allows reincarnation upon death.
+Hotkey=A
+Name=Ankh of Reincarnation
+Tip=Purchase |cffffcc00A|rnkh of Reincarnation
+Ubertip=Automatically brings the Hero back to life with 1000 hit points when the Hero wearing the Ankh dies.
+
+[belv]
+Art=ReplaceableTextures\CommandButtons\BTNBoots.blp
+Description=Provides a bonus to Agility.
+Hotkey=E
+Name=Boots of Quel'Thalas +6
+Tip=Purchase Boots of Qu|cffffcc00e|rl'Thalas
+Ubertip=Increases the Agility of the Hero by 6 when worn.
+
+[bgst]
+Art=ReplaceableTextures\CommandButtons\BTNBelt.blp
+Description=Provides a bonus to Strength.
+Hotkey=B
+Name=Belt of Giant Strength +6
+Tip=Purchase |cffffcc00B|relt of Giant Strength
+Ubertip=Increases the Strength of the Hero by 6 when worn.
+
+[brac]
+Art=ReplaceableTextures\CommandButtons\BTNRunedBracers.blp
+Description=Reduces Magic damage to Hero.
+Hotkey=R
+Name=Runed Bracers
+Tip=Purchase |cffffcc00R|runed Bracers
+Ubertip=Reduces Magic damage dealt to the Hero by 33%.
+
+[bspd]
+Art=ReplaceableTextures\CommandButtons\BTNBootsOfSpeed.blp
+Description=Increases movement rate.
+Hotkey=S
+Name=Boots of Speed
+Tip=Purchase Boots of |cffffcc00S|rpeed
+Ubertip=Increases the movement speed of the Hero when worn.
+
+[ciri]
+Art=ReplaceableTextures\CommandButtons\BTNRobeOfTheMagi.blp
+Description=Provides a bonus to Intelligence.
+Hotkey=R
+Name=Robe of the Magi +6
+Tip=Purchase |cffffcc00R|robe of the Magi
+Ubertip=Increases the Intelligence of the Hero by 6 when worn.
+
+[ckng]
+Art=ReplaceableTextures\CommandButtons\BTNHelmutPurple.blp
+Description="Provides a +5 bonus to Agility, Strength, and Intelligence."
+Hotkey=K
+Name=Crown of Kings +5
+Tip=Purchase Crown of |cffffcc00K|rings
+Ubertip="Increases the Strength, Intelligence, and Agility of the Hero by 5 when worn."
+
+[clfm]
+Art=ReplaceableTextures\CommandButtons\BTNCloakOfFlames.blp
+Description=Surrounds the Hero with damaging flames.
+Name=Cloak of Flames
+Tip=Purchase Cloak of Flames
+Ubertip=Engulfs the Hero in fire which deals 10 damage per second to nearby enemy land units. |nDoes not stack with Immolation.
+
+[clsd]
+Art=ReplaceableTextures\CommandButtons\BTNCloak.blp
+Description=Provides the Shadowmeld ability.
+Hotkey=C
+Name=Cloak of Shadows
+Tip=Purchase |cffffcc00C|rloak of Shadows
+Ubertip="Provides the Hero with invisibility at night when worn. An invisible Hero is untargetable by the enemy unless detected. If the Hero moves, attacks, uses an ability, or casts a spell, the invisibility effect is lost."
+
+[cnob]
+Art=ReplaceableTextures\CommandButtons\BTNCirclet.blp
+Description="Provides a +2 bonus to Strength, Agility and Intelligence."
+Hotkey=C
+Name=Circlet of Nobility
+Tip=Purchase |cffffcc00C|rirclet of Nobility
+Ubertip="Increases the Strength, Agility and Intelligence of the Hero by 2 when worn."
+
+[crys]
+Art=ReplaceableTextures\CommandButtons\BTNCrystalBall.blp
+Description=Permits the viewing of distant areas.
+Hotkey=C
+Name=Crystal Ball
+Tip=Purchase |cffffcc00C|rrystal Ball
+Ubertip=Reveals a targeted area. Invisible units are also revealed by the Crystal Ball's effect. |nLasts 10 seconds.
+
+[desc]
+Art=ReplaceableTextures\CommandButtons\BTNDaggerOfEscape.blp
+Description=Teleports the Hero a short distance.
+Hotkey=E
+Name=Kelen's Dagger of Escape
+Tip=Purchase Dagger of |cffffcc00E|rscape
+Ubertip=Allows the Hero to teleport a short distance.
+
+[dust]
+Art=ReplaceableTextures\CommandButtons\BTNDustOfAppearance.blp
+Buttonpos=3
+Description=Reveals invisible units.
+Hotkey=D
+Name=Dust of Appearance
+Tip=Purchase |cffffcc00D|rust of Appearance
+Ubertip=Reveals enemy invisible units in an area around the Hero. |nContains 2 charges. |nLasts 20 seconds.
+
+[evtl]
+Art=ReplaceableTextures\CommandButtons\BTNTalisman.blp
+Description=Makes the Hero harder to hit.
+Name=Talisman of Evasion
+Tip=Purchase Talisman of Evasion
+Ubertip=Causes attacks against the wearer to miss 15% of the time. |nDoes not stack with Evasion or Drunken Brawler.
+
+[fgdg]
+Art=ReplaceableTextures\CommandButtons\BTNDoomGuard.blp
+Description=Summons a Doom Guard.
+Name=Demonic Figurine
+Tip=Purchase Demonic Figurine
+Ubertip=Summons a Doom Guard to fight for you. |nLasts 180 seconds.
+
+[fgfh]
+Art=ReplaceableTextures\CommandButtons\BTNFelHound.blp
+Description=Summons a Fel Stalker.
+Name=Spiked Collar
+Tip=Purchase Spiked Collar
+Ubertip=Summons a Fel Stalker to fight for you. |nLasts 180 seconds.
+
+[fgrd]
+Art=ReplaceableTextures\CommandButtons\BTNRedDragon.blp
+Description=Summons a Red Drake.
+Hotkey=E
+Name=Red Drake Egg
+Tip=Purchase Drake |cffffcc00E|rgg
+Ubertip=Summons a Red Drake to fight for you. |nLasts 180 seconds.
+
+[fgrg]
+Art=ReplaceableTextures\CommandButtons\BTNRockGolem.blp
+Description=Summons a Rock Golem.
+Name=Stone Token
+Tip=Purchase Stone Token
+Ubertip=Summons a Rock Golem to fight for you. |nLasts 180 seconds.
+
+[fgsk]
+Art=ReplaceableTextures\CommandButtons\BTNBookOfTheDead.blp
+Description=Summons skeletons.
+Name=Book of the Dead
+Tip=Purchase Book of the Dead
+Ubertip=Summons 4 Skeleton Warriors and 4 Skeleton Archers to fight for you. |nLasts 120 seconds.
+
+[gcel]
+Art=ReplaceableTextures\CommandButtons\BTNGlove.blp
+Description=Increases attack speed.
+Name=Gloves of Haste
+Tip=Purchase Gloves of Haste
+Ubertip=Increases the attack speed of the Hero by 15% when worn.
+
+[hcun]
+Art=ReplaceableTextures\CommandButtons\BTNHoodOfCunning.blp
+Description=Provides bonuses to Agility and Intelligence.
+Name=Hood of Cunning
+Tip=Purchase Hood of Cunning
+Ubertip=Increases the Agility and Intelligence of the Hero by 4 when worn.
+
+[hlst]
+Art=ReplaceableTextures\CommandButtons\BTNHealthStone.blp
+Description="Provides faster regeneration, and can be consumed for hit points."
+Name=Health Stone
+Tip=Purchase Health Stone
+Ubertip=Increases the life regeneration rate of the Hero by 1 hit points per second when worn. Can be consumed for 500 health.
+
+[hval]
+Art=ReplaceableTextures\CommandButtons\BTNHelmOfValor.blp
+Description=Provides bonuses to Strength and Agility.
+Name=Helm of Valor
+Tip=Purchase Helm of Valor
+Ubertip=Increases the Strength and Agility of the Hero by 4 when worn.
+
+[infs]
+Art=ReplaceableTextures\CommandButtons\BTNInfernalStone.blp
+Description=Brings down an Infernal Demon.
+Name=Inferno Stone
+Tip=Purchase Inferno Stone
+Ubertip="Calls an Infernal down from the sky, dealing 50 damage and stunning enemy land units for 4 seconds in an area. The Infernal lasts 180 seconds."
+
+[kpin]
+Art=ReplaceableTextures\CommandButtons\BTNPipeOfInsight.blp
+Description=Nearby units regain mana more swiftly.
+Name=Khadgar's Pipe of Insight
+Tip=Purchase Khadgar's Pipe of Insight
+Ubertip=Grants the Hero and friendly nearby units a bonus to mana regeneration. |nDoes not stack with Brilliance Aura.
+
+[lgdh]
+Art=ReplaceableTextures\CommandButtons\BTNHornOfDoom.blp
+Description=Nearby units heal and move more swiftly.
+Name=Legion Doom-Horn
+Tip=Purchase Legion Doom-Horn
+Ubertip=Grants the Hero and friendly nearby units increased life regeneration and movement speed. |nDoes not stack with Unholy Aura.
+
+[lhst]
+Art=ReplaceableTextures\CommandButtons\BTNLionHorn.blp
+Description=Generates a protective aura around the Hero.
+Name=The Lion Horn of Stormwind
+Tip=Purchase the Lion Horn of Stormwind
+Ubertip=Grants the Hero and friendly nearby units 1 bonus armor. |nDoes not stack with Devotion Aura.
+
+[mcou]
+Art=ReplaceableTextures\CommandButtons\BTNMedalionOfCourage.blp
+Description=Provides bonuses to Strength and Intelligence.
+Name=Medallion of Courage
+Tip=Purchase Medallion of Courage
+Ubertip=Increases the Strength and Intelligence of the Hero by 4 when worn.
+
+[mnst]
+Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
+Description="Provides faster mana regeneration, and can be consumed for mana."
+Name=Mana Stone
+Tip=Purchase Mana Stone
+Ubertip=Increases the mana regeneration rate of the Hero by 25% when worn. Can be consumed for 300 mana.
+
+[modt]
+Art=ReplaceableTextures\CommandButtons\BTNMaskOfDeath.blp
+Description=This mask causes the Hero's attacks to drain life.
+Name=Mask of Death
+Tip=Purchase Mask of Death
+Ubertip="While wearing this mask, a Hero will recover hit points equal to 50% of the attack damage dealt to an enemy unit."
+
+[moon]
+Art=ReplaceableTextures\CommandButtons\BTNMoonStone.blp
+Description=Makes it night time.
+Hotkey=N
+Name=Moonstone
+Tip=Purchase Moo|cffffcc00n|rstone
+Ubertip=Causes an eclipse that blocks out the sun and creates an artificial night. |nLasts 30 seconds.
+
+[odef]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Description=Attacks can create Dark Minions.
+Hotkey=B
+Name=Orb of Darkness
+Tip=Purchase Or|cffffcc00b|r of Darkness
+Ubertip=Adds 6 bonus damage to the attack of a Hero when carried. The Hero's attack also becomes ranged when attacking air and will create a Dark Minion when it is the killing blow on an enemy unit. The Dark Minion lasts 80 seconds.
+
+[ofro]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
+Description=Attacks cause Frost Shock.
+Hotkey=R
+Name=Orb of Frost
+Tip=Purchase Orb of F|cffffcc00r|rost
+Ubertip=Adds 6 bonus cold damage to the attack of a Hero when carried. The Hero's attacks also become ranged when attacking air and slow the movement speed and attack rate of the enemy for 3 seconds.
+
+[oven]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
+Buttonpos=,2
+Description=Attacks cause poison damage.
+Hotkey=V
+Name=Orb of Venom
+Requires=etoe
+Tip=Purchase Orb of |cffffcc00V|renom
+Ubertip=Adds 5 bonus damage to the attack of a Hero when carried. The Hero's attacks also become ranged when attacking air and poison enemy units for 6 seconds.
+
+[pams]
+Art=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
+Buttonpos=1,2
+Description=Renders Hero immune to magic.
+Hotkey=A
+Name=Anti-magic Potion
+Requires=etoe
+Tip=Purchase |cffffcc00A|rnti-magic Potion
+Ubertip=Gives the Hero immunity to magical spells for 15 seconds.
+
+[pdiv]
+Art=ReplaceableTextures\CommandButtons\BTNPotionOfDivinity.blp
+Description=Turns Hero invulnerable.
+Hotkey=D
+Name=Potion of Divinity
+Tip=Purchase Potion of |cffffcc00D|rivinity
+Ubertip=Turns the Hero invulnerable for 25 seconds.
+
+[penr]
+Art=ReplaceableTextures\CommandButtons\BTNPendantOfEnergy.blp
+Description=Provides additional mana.
+Name=Pendant of Energy
+Tip=Purchase Pendant of Energy
+Ubertip=Increases the mana capacity of the Hero by 150 when worn.
+
+[pghe]
+Art=ReplaceableTextures\CommandButtons\BTNPotionGreen.blp
+Description=Restores lost hit points.
+Hotkey=R
+Name=Potion of Greater Healing
+Tip=Purchase Potion of G|cffffcc00r|reater Healing
+Ubertip=Heals 500 hit points when used.
+
+[pgma]
+Art=ReplaceableTextures\CommandButtons\BTNPotionBlueBig.blp
+Description=Restores lost mana.
+Hotkey=M
+Name=Potion of Greater Mana
+Tip=Purchase Potion of Greater |cffffcc00M|rana
+Ubertip=Restores 300 mana when used.
+
+[phea]
+Art=ReplaceableTextures\CommandButtons\BTNPotionGreenSmall.blp
+Buttonpos=,1
+Description=Restores lost hit points.
+Hotkey=P
+Name=Potion of Healing
+Requires=TWN2
+Tip=Purchase |cffffcc00P|rotion of Healing
+Ubertip=Heals 250 hit points when used.
+
+[plcl]
+Art=ReplaceableTextures\CommandButtons\BTNLesserClarityPotion.blp
+Buttonpos=1
+Description=Regenerates mana over time.
+Hotkey=C
+Name=Lesser Clarity Potion
+Tip=Purchase Lesser |cffffcc00C|rlarity Potion
+Ubertip=|cff87ceebNon-Combat Consumable|r|nRegenerates the Hero's mana by 100 over 30 seconds when used.
+
+[pman]
+Art=ReplaceableTextures\CommandButtons\BTNPotionBlueSmall.blp
+Buttonpos=1,1
+Description=Restores lost mana.
+Hotkey=M
+Name=Potion of Mana
+Requires=TWN2
+Tip=Purchase Potion of |cffffcc00M|rana
+Ubertip=Restores 150 mana when used.
+
+[pmna]
+Art=ReplaceableTextures\CommandButtons\BTNPendantOfMana.blp
+Description=Provides additional mana.
+Name=Pendant of Mana
+Tip=Purchase Pendant of Mana
+Ubertip=Increases the mana capacity of the Hero by 250 when worn.
+
+[pnvl]
+Art=ReplaceableTextures\CommandButtons\BTNLesserInvulneralbility.blp
+Buttonpos=2,2
+Description=Renders Hero temporarily invulnerable.
+Hotkey=N
+Name=Potion of Lesser Invulnerability
+Tip=Purchase Potion of Lesser I|cffffcc00n|rvulnerability
+Ubertip=Makes the Hero invulnerable to damage for 7 seconds when used. An invulnerable Hero may not be the target of spells or effects.
+
+[pnvu]
+Art=ReplaceableTextures\CommandButtons\BTNGreaterInvulneralbility.blp
+Description=Renders Hero temporarily invulnerable.
+Hotkey=I
+Name=Potion of Invulnerability
+Tip=Purchase Potion of |cffffcc00I|rnvulnerability
+Ubertip=Makes the Hero invulnerable to damage for 15 seconds when used. An invulnerable Hero may not be the target of spells or effects.
+
+[pomn]
+Art=ReplaceableTextures\CommandButtons\BTNPotionOfOmniscience.blp
+Description=Reveals the entire map.
+Hotkey=O
+Name=Potion of Omniscience
+Tip=Purchase Potion of |cffffcc00O|rmniscience
+Ubertip=Reveals the entire map for 5 seconds when used.
+
+[pres]
+Art=ReplaceableTextures\CommandButtons\BTNPotionOfRestoration.blp
+Description=Restores lost hit points and mana.
+Hotkey=R
+Name=Potion of Restoration
+Tip=Purchase Potion of |cffffcc00R|restoration
+Ubertip=Restores 500 hit points and 200 mana of the Hero when used.
+
+[prvt]
+Art=ReplaceableTextures\CommandButtons\BTNPeriapt.blp
+Buttonpos=1
+Description=Increases the hit points of the Hero.
+Hotkey=V
+Name=Periapt of Vitality
+Tip=Purchase Periapt of |cffffcc00V|ritality
+Ubertip=Increases the hit points of the Hero by 150 when worn.
+
+[rag1]
+Art=ReplaceableTextures\CommandButtons\BTNSlippersOfAgility.blp
+Description=Boosts Agility by 3.
+Hotkey=A
+Name=Slippers of Agility +3
+Tip=Purchase Slippers of |cffffcc00A|rgility +3
+Ubertip=Increases the Agility of the Hero by 3 when worn.
+
+[rat6]
+Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
+Description=Boosts attack damage by 6.
+Name=Claws of Attack +6
+Tip=Purchase Claws of Attack +6
+Ubertip=Increases the attack damage of the Hero by 6 when worn.
+
+[rat9]
+Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
+Description=Boosts attack damage by 9.
+Hotkey=C
+Name=Claws of Attack +9
+Tip=Purchase |cffffcc00C|rlaws of Attack +9
+Ubertip=Increases the attack damage of the Hero by 9 when worn.
+
+[ratc]
+Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
+Description=Boosts attack damage by 12.
+Name=Claws of Attack +12
+Tip=Purchase Claws of Attack +12
+Ubertip=Increases the attack damage of the Hero by 12 when worn.
+
+[ratf]
+Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
+Description=Boosts attack damage by 15.
+Name=Claws of Attack +15
+Tip=Purchase Claws of Attack +15
+Ubertip=Increases the attack damage of the Hero by 15 when worn.
+
+[rde1]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Description=Boosts armor by 2.
+Hotkey=2
+Name=Ring of Protection +2
+Tip=Purchase Ring of Protection +|cffffcc002|r
+Ubertip=Increases the armor of the Hero by 2 when worn.
+
+[rde2]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Description=Boosts armor by 3.
+Hotkey=3
+Name=Ring of Protection +3
+Tip=Purchase Ring of Protection +|cffffcc003|r
+Ubertip=Increases the armor of the Hero by 3 when worn.
+
+[rde3]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Description=Boosts armor by 4.
+Hotkey=4
+Name=Ring of Protection +4
+Tip=Purchase Ring of Protection +|cffffcc004|r
+Ubertip=Increases the armor of the Hero by 4 when worn.
+
+[rde4]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Description=Boosts armor by 5.
+Hotkey=5
+Name=Ring of Protection +5
+Tip=Purchase Ring of Protection +|cffffcc005|r
+Ubertip=Increases the armor of the Hero by 5 when worn.
+
+[rej3]
+Art=ReplaceableTextures\CommandButtons\BTNRejuvPotion.blp
+Description=Regenerates health and mana.
+Hotkey=R
+Name=Replenishment Potion
+Tip=Purchase |cffffcc00R|replenishment Potion
+Ubertip=|cff87ceebNon-Combat Consumable|r|nRegenerates 200 hit points and 75 mana of the Hero over 30 seconds.
+
+[rhth]
+Art=ReplaceableTextures\CommandButtons\BTNPeriapt1.blp
+Description=Increases the hit points of the Hero.
+Hotkey=H
+Name=Khadgar's Gem of Health
+Tip=Purchase Khadgar's Gem of |cffffcc00H|realth
+Ubertip=Increases the hit points of the Hero by 300 when worn.
+
+[rin1]
+Art=ReplaceableTextures\CommandButtons\BTNMantleOfIntelligence.blp
+Description=Boosts Intelligence by 3.
+Hotkey=I
+Name=Mantle of Intelligence +3
+Tip=Purchase Mantle of |cffffcc00I|rntelligence +3
+Ubertip=Increases the Intelligence of the Hero by 3 when worn.
+
+[rlif]
+Art=ReplaceableTextures\CommandButtons\BTNRingSkull.blp
+Description=Provides regeneration.
+Hotkey=R
+Name=Ring of Regeneration
+Tip=Purchase Ring of |cffffcc00R|regeneration
+Ubertip=Increases the Hero's hit point regeneration by 2 hit points per second.
+
+[rst1]
+Art=ReplaceableTextures\CommandButtons\BTNGauntletsOfOgrePower.blp
+Description=Boosts Strength by 3.
+Hotkey=S
+Name=Gauntlets of Ogre Strength +3
+Tip=Purchase Gauntlets of Ogre |cffffcc00S|rtrength +3
+Ubertip=Increases the Strength of the Hero by 3 when worn.
+
+[rwiz]
+Art=ReplaceableTextures\CommandButtons\BTNSobiMask.blp
+Buttonpos=2
+Description=Increases mana regeneration rate.
+Hotkey=B
+Name=Sobi Mask
+Tip=Purchase So|cffffcc00b|ri Mask
+Ubertip=Increases the Hero's rate of mana regeneration by 50% when worn.
+
+[sand]
+Art=ReplaceableTextures\CommandButtons\BTNSnazzyScrollPurple.blp
+Description=Animates the dead to fight for you.
+Name=Scroll of Animate Dead
+Tip=Purchase Scroll of Animate Dead
+Ubertip=Raises 6 nearby dead units to fight for 40 seconds.
+
+[sbch]
+Art=ReplaceableTextures\CommandButtons\BTNBoneChimes.blp
+Description=Nearby units gain some life from damage they deal to enemy units.
+Name=Scourge Bone Chimes
+Tip=Purchase Scourge Bone Chimes
+Ubertip=Grants a melee Hero and friendly nearby melee units life stealing attacks which take 15% of the damage they deal and convert it into life. |nDoes not stack with Vampiric Aura.
+
+[shar]
+Art=ReplaceableTextures\CommandButtons\BTNIceShard.blp
+Description=Summons an Ice Revenant.
+Name=Ice Shard
+Tip=Purchase Ice Shard
+Ubertip=Summons an Ice Revenant. The Ice Revenant lasts 180 seconds.
+
+[spre]
+Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
+Buttonpos=3,1
+Description=Teleports a target unit home.
+Hotkey=E
+Name=Staff of Preservation
+Requires=etoa
+Tip=Purchase Staff of Pr|cffffcc00e|rservation
+Ubertip=Teleports a target friendly unit to its highest level town hall.
+
+[spsh]
+Art=ReplaceableTextures\CommandButtons\BTNSpellShieldAmulet.blp
+Description=Blocks enemy spells.
+Hotkey=A
+Name=Amulet of Spell Shield
+Tip=Purchase |cffffcc00A|rmulet of Spell Shield
+Ubertip=Blocks a negative spell that an enemy casts on the Hero once every 40 seconds.
+
+[sres]
+Art=ReplaceableTextures\CommandButtons\BTNScrollOfHealing.blp
+Description=Restores hit points and mana to nearby units.
+Hotkey=R
+Name=Scroll of Restoration
+Tip=Purchase Scroll of |cffffcc00R|restoration
+Ubertip=Restores 300 hit points and 150 mana of friendly non-mechanical units in an area around your Hero.
+
+[sror]
+Art=ReplaceableTextures\CommandButtons\BTNSnazzyScrollGreen.blp
+Description=Boosts friendly unit combat damage.
+Name=Scroll of the Beast
+Tip=Purchase Scroll of the Beast
+Ubertip=Gives friendly nearby units a 25% bonus to damage for 45 seconds.
+
+[srrc]
+Art=ReplaceableTextures\CommandButtons\BTNSnazzyScroll.blp
+Description=Resurrects your dead to fight again.
+Name=Scroll of Resurrection
+Tip=Purchase Scroll of Resurrection
+Ubertip=Brings 6 of your nearby dead units back to life.
+
+[ssil]
+Art=ReplaceableTextures\CommandButtons\BTNStaffOfSilence.blp
+Description=Stops enemy spellcasting.
+Hotkey=E
+Name=Staff of Silence
+Tip=Purchase Staff of Sil|cffffcc00e|rnce
+Ubertip=Stops all enemies in a target area from casting spells.
+
+[stwp]
+Art=ReplaceableTextures\CommandButtons\BTNScrollUber.blp
+Buttonpos=2,1
+Description=Transports troops to friendly town hall.
+Hotkey=T
+Name=Scroll of Town Portal
+Requires=TWN2
+Tip=Purchase Scroll of |cffffcc00T|rown Portal
+Ubertip=Teleports the Hero and any of its nearby troops to a target friendly town hall.
+
+[totw]
+Art=ReplaceableTextures\CommandButtons\BTNStone.blp
+Description=Summons Furbolgs.
+Name=Talisman of the Wild
+Tip=Purchase Talisman of the Wild
+Ubertip=This mystic stone summons a Furbolg to fight for you. |nContains 3 charges. |nLasts 180 seconds.
+
+[ward]
+Art=ReplaceableTextures\CommandButtons\BTNDrum.blp
+Description=Increases combat effectiveness of nearby units.
+Hotkey=W
+Name=Warsong Battle Drums
+Tip=Purchase |cffffcc00W|rarsong Battle Drums
+Ubertip=Increases the attack damage of nearby friendly units by 10% when worn. |nDoes not stack with Command Aura.
+
+[wcyc]
+Art=ReplaceableTextures\CommandButtons\BTNWandOfCyclone.blp
+Description=Casts Cyclone.
+Name=Wand of the Wind
+Tip=Purchase Wand of the Wind
+Ubertip="Allows the Hero to cast Cyclone. Cyclone tosses a target enemy unit into the air, rendering it unable to attack, move or cast spells. |nContains 3 charges. |nLasts 20 seconds."
+
+[whwd]
+Art=ReplaceableTextures\CommandButtons\BTNHealingWard.blp
+Description=Conjures a Healing Ward.
+Name=Healing Wards
+Tip=Purchase Healing Wards
+Ubertip=Drops a ward that heals nearby friendly units for 30 seconds. |nContains 3 charges.
+
+[wild]
+Art=ReplaceableTextures\CommandButtons\BTNAmuletOftheWild.blp
+Description=Summons a Furbolg.
+Name=Amulet of the Wild
+Tip=Purchase Amulet of the Wild
+Ubertip=Summons a Furbolg Warrior. The Furbolg lasts 180 seconds.
+
+[will]
+Art=ReplaceableTextures\CommandButtons\BTNWand.blp
+Description=Creates a phantom double.
+Hotkey=I
+Name=Wand of Illusion
+Tip=Purchase Wand of |cffffcc00I|rllusion
+Ubertip="Create an illusory double of the targeted unit when used. The illusory double deals no damage to enemy units, takes 2 times the damage from enemy attacks, and will disappear after 60 seconds or when its hit points reach zero. |nContains 3 charges."
+
+[wlsd]
+Art=ReplaceableTextures\CommandButtons\BTNStarWand.blp
+Description=Casts Lightning Shield.
+Name=Wand of Lightning Shield
+Tip=Purchase Wand of Lightning Shield
+Ubertip="Allows the Hero to cast Lightning Shield on a target unit. Lightning Shield surrounds a unit with electricity, dealing 20 damage per second to nearby units. |nContains 3 charges. |nLasts 20 seconds."
+
+[woms]
+Art=ReplaceableTextures\CommandButtons\BTNWandOfManaSteal.blp
+Description=Steals mana.
+Hotkey=W
+Name=Wand of Mana Stealing
+Tip=Purchase |cffffcc00W|rand of Mana Stealing
+Ubertip=Steals mana from a target unit and gives it to the Hero. |nContains 2 charges.
+
+[wshs]
+Art=ReplaceableTextures\CommandButtons\BTNWandOfShadowSight.blp
+Description=Grants vision of a target unit.
+Hotkey=W
+Name=Wand of Shadowsight
+Tip=Purchase |cffffcc00W|rand of Shadowsight
+Ubertip=Gives the player vision of a target unit until that unit is dispelled. |nContains 2 charges.
+
+[wswd]
+Art=ReplaceableTextures\CommandButtons\BTNSentryWard.blp
+Description=센트리 와드를 소환합니다.
+Name=센트리 와드
+Tip=센트리 와드 구매
+Ubertip=300초 동안 지역을 감시하는 센트리 와드를 떨어뜨립니다. |n3개의 와드가 포함되어 있습니다.

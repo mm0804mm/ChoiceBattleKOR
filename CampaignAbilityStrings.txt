@@ -84,15 +84,15 @@ Art=war3mapImported\BTNSasuke 1.blp
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=화둔 호화구의 술\ 화둔 호룡화의 술
+Name=화둔 호화구의 술 \ 화둔 호룡화의 술
 Order=channel
 ResearchArt=war3mapImported\BTNSasuke 1.blp
 Researchhotkey=Q
 Researchtip="Katon Goukakyuu No Jutsu\ Katon Gouryuuka No Jutsu, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip="Саске создает гигантский огненный шар,который поджигает противников и наносит урон.|n|n|cFF00A5FF|nУрон(мгновенно): 75\150\225\300\375+1\2\3\4\5*|r|c003CFF3CAGI|r|cFF00A5FF|nУрон(горение): 1(1)\1.5(2)\2(3)\2.5(4)\3(5)*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 7 (14) сек.|nПерезарядка: 20 сек.|r"
 Targetattach=origin
-Tip="화둔 호화구의 술 \ 화둔 호룡화의 술, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","화둔 호화구의 술 \ 화둔 호룡화의 술, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","화둔 호화구의 술 \ 화둔 호룡화의 술, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","화둔 호화구의 술 \ 화둔 호룡화의 술, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","화둔 호화구의 술 \ 화둔 호룡화의 술, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
-Ubertip="사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 75+1*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 1(1)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초|n재사용 대기시간: 20초|r","사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 150+2*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 1.5(2)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초.|n재사용 대기시간: 20초.|r","사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 225+3*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 2(3)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초|n재사용 대기시간: 20초.|r","사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 300+4*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 2.5(4)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초|n재사용 대기시간: 20초.|r","사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 375+5*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 3(5)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초|n재사용 대기시간: 20초.|r"
+Tip="화둔 호화구의 술 / 화둔 호룡화의 술, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","화둔 호화구의 술 / 화둔 호룡화의 술, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","화둔 호화구의 술 / 화둔 호룡화의 술, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","화둔 호화구의 술 / 화둔 호룡화의 술, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","화둔 호화구의 술 / 화둔 호룡화의 술, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip="사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 75+1*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 1(1)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초|n재사용 대기시간: 20초|r","사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 150+2*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 1.5(2)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초|n재사용 대기시간: 20초|r","사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 225+3*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 2(3)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초|n재사용 대기시간: 20초|r","사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 300+4*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 2.5(4)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초|n재사용 대기시간: 20초|r","사스케가 지정한 위치로 호화구의 술을 날립니다 / 윤회안 버프가 켜져있는 상태일 경우에는 호룡화의 술을 날립니다.|n|n|cFF00A5FF|n계수(스킬): 375+5*|r|c003CFF3CAGI|r|cFF00A5FF|n계수(도트): 3(5)*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 7(14)초|n재사용 대기시간: 20초|r"
 
 [A007]
 Animnames=Attack,two,Spell
@@ -117,7 +117,7 @@ Art=war3mapImported\BTNTsukuyomi.blp
 Buttonpos=2,2
 Casterattach=origin
 Hotkey=E
-Name=Tsukiyomi
+Name=츠쿠요미
 Order=channel
 ResearchArt=war3mapImported\BTNTsukuyomi.blp
 Researchbuttonpos=2
@@ -125,14 +125,14 @@ Researchhotkey=E
 Researchtip="Tsukiyomi, [|cffffcc00Уровень %d|r] (|cffffcc00E|r)"
 Researchubertip="Итачи создает мощнейшую иллюзию с помощью мангёку шарингана, которая наносит противнику существенный урон,как физический, так и психический.|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFУрон: 1.5\2\2.5\3\3.5*|r|c00169EFAINT|r|cFF00A5FF каждую секунду.|nОглушение: 0.5 сек.|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r"
 Targetattach=origin
-Tip="Tsukiyomi, [|cffffcc00Уровень 1|r] (|cffffcc00E|r)","Tsukiyomi, [|cffffcc00Уровень 2|r] (|cffffcc00E|r)","Tsukiyomi, [|cffffcc00Уровень 3|r] (|cffffcc00E|r)","Tsukiyomi, [|cffffcc00Уровень 4|r] (|cffffcc00E|r)","Tsukiyomi, [|cffffcc00Уровень 5|r] (|cffffcc00E|r)"
-Ubertip="Итачи создает мощнейшую иллюзию с помощью мангёку шарингана, которая наносит противнику существенный урон,как физический, так и психический.|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFУрон: 1.5*|r|c00169EFAINT|r|cFF00A5FF каждую секунду.|nОглушение: 0.5 сек.|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r","Итачи создает мощнейшую иллюзию с помощью мангёку шарингана, которая наносит противнику существенный урон,как физический, так и психический.|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFУрон: 2*|r|c00169EFAINT|r|cFF00A5FF каждую секунду.|nОглушение: 0.5 сек.|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r","Итачи создает мощнейшую иллюзию с помощью мангёку шарингана, которая наносит противнику существенный урон,как физический, так и психический.|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFУрон: 2.5*|r|c00169EFAINT|r|cFF00A5FF каждую секунду.|nОглушение: 0.5 сек.|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r","Итачи создает мощнейшую иллюзию с помощью мангёку шарингана, которая наносит противнику существенный урон,как физический, так и психический.|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFУрон: 3*|r|c00169EFAINT|r|cFF00A5FF каждую секунду.|nОглушение: 0.5 сек.|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r","Итачи создает мощнейшую иллюзию с помощью мангёку шарингана, которая наносит противнику существенный урон,как физический, так и психический.|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFУрон: 3.5*|r|c00169EFAINT|r|cFF00A5FF каждую секунду.|nОглушение: 0.5 сек.|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r"
+Tip="츠쿠요미, [|cffffcc00레벨 1|r] (|cffffcc00E|r)","츠쿠요미, [|cffffcc00레벨 2|r] (|cffffcc00E|r)","츠쿠요미, [|cffffcc00레벨 3|r] (|cffffcc00E|r)","츠쿠요미, [|cffffcc00레벨 4|r] (|cffffcc00E|r)","츠쿠요미, [|cffffcc00레벨 5|r] (|cffffcc00E|r)"
+Ubertip="이타치가 만화경 사륜안으로 강력한 환상을 만들어 적에게 상당한 피해를 입힙니다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF계수: 1.5*|r|c00169EFAINT|r|cFF00A5FF 매초마다.|n기절시간: 0.5초|n지속시간: 3초|n쿨타임: 20초|r","이타치가 만화경 사륜안으로 강력한 환상을 만들어 적에게 상당한 피해를 입힙니다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF계수: 2*|r|c00169EFAINT|r|cFF00A5FF 매초마다.|n기절시간: 0.5초|n지속시간: 3초|n쿨타임: 20초|r","이타치가 만화경 사륜안으로 강력한 환상을 만들어 적에게 상당한 피해를 입힙니다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF계수: 2.5*|r|c00169EFAINT|r|cFF00A5FF 매초마다.|n기절시간: 0.5초|n지속시간: 3초|n쿨타임: 20초|r","이타치가 만화경 사륜안으로 강력한 환상을 만들어 적에게 상당한 피해를 입힙니다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF계수: 3*|r|c00169EFAINT|r|cFF00A5FF 매초마다.|n기절시간: 0.5초|n지속시간: 3초|n쿨타임: 20초|r","이타치가 만화경 사륜안으로 강력한 환상을 만들어 적에게 상당한 피해를 입힙니다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF계수: 3.5*|r|c00169EFAINT|r|cFF00A5FF 매초마다.|n기절시간: 0.5초|n지속시간: 3초|n쿨타임: 20초|r"
 
 [A009]
 Art=war3mapImported\BTNGenjutsu.blp
 Buttonpos=1,1
 Hotkey=F
-Name=Genjutsu Master
+Name=환술 마스터
 Order=windwalk
 Requires=h046
 ResearchArt=war3mapImported\BTNGenjutsu.blp
@@ -140,8 +140,8 @@ Researchbuttonpos=1
 Researchhotkey=F
 Researchtip="Bunshin no Jutsu, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip="Итачи создает клона, которого нельзя отличить от него, а сам становится невидимым для противников.|nКлон взрывается через 5 секунд и наносит урон, если клона убить раньше времени, то он не взорвется.|n|n|cFF00A5FFВремя действия: 5 сек.|nУрон: 3\4\5\6\7*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 15 сек.|r"
-Tip="Genjutsu Master, [|cffffcc00Уровень 1|r] (|cffffcc00F|r)"
-Ubertip="Итачи создает клона, которого нельзя отличить от него|nКлон взрывается через 3 секунды и наносит урон, если клона убить раньше времени, то он не взорвется.|n|nПассивно: При каждом применении заклинания делает героя невидимым на 3 сек.|n|n|n|cFF00A5FFВремя действия: 3 сек.|nУрон: 4*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 20 сек.|r"
+Tip="환술 마스터, [|cffffcc00레벨 1|r] (|cffffcc00F|r)"
+Ubertip="이타치가 자신과 똑같은 분신을 생성합니다.|n분신은 3초 후에 폭발하여 피해를 입힙니다. 단 분신이 너무 일찍 죽으면 폭발하지 않습니다.|n|n지속 효과: 시전할 때마다 영웅이 3초 동안 은신됩니다.|n|n|n|cFF00A5FF지속시간: 3초|n계수: 4*|r|c00169EFAINT|r|cFF00A5FF|n쿨타임: 20초|r"
 
 [A00A]
 Art=ReplaceableTextures\CommandButtons\BTNSilence.blp
@@ -161,19 +161,19 @@ Animnames=spell,channel
 Art=war3mapImported\BTNAmaterasu.blp
 Buttonpos=3,2
 Hotkey=R
-Name=Amaterasu
+Name=아마테라스
 Order=flamestrike
 ResearchArt=war3mapImported\BTNAmaterasu.blp
 Researchbuttonpos=3
 Researchhotkey=R
 Researchtip="Amaterasu, [|cffffcc00Уровень %d|r] (|cffffcc00R|r)"
-Tip="Amaterasu, [|cffffcc00Уровень 1|r] (|cffffcc00R|r)"
+Tip="아마테라스, [|cffffcc00У레벨 1|r] (|cffffcc00R|r)"
 
 [A00C]
 Art=ReplaceableTextures\CommandButtons\BTNSusanoItachi.blp
 Buttonpos=2,1
 Hotkey=V
-Name=Susano
+Name=스사노오
 Order=divineshield
 Requires=h03J
 ResearchArt=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
@@ -181,7 +181,7 @@ Researchbuttonpos=1
 Researchhotkey=D
 Researchtip=Learn |cffffcc00D|rivine Shield - [|cffffcc00Level %d|r]
 Researchubertip="An impenetrable shield surrounds the Paladin, protecting him from all damage and spells for a set amount of time. |n|n|cffffcc00Level 1|r - Lasts 15 seconds. |n|cffffcc00Level 2|r - Lasts 30 seconds. |n|cffffcc00Level 3|r - Lasts 45 seconds."
-Tip="Susano, (|cffffcc00V|r)"
+Tip="스사노오, (|cffffcc00V|r)"
 Unart=ReplaceableTextures\CommandButtons\BTNSusanoItachi.blp
 UnButtonpos=2,2
 Unhotkey=V
@@ -227,15 +227,15 @@ Art=ReplaceableTextures\CommandButtons\BTNLambo0.blp
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=Electorico Reverse
+Name=일렉트리코 리버스
 Order=channel
 ResearchArt=ReplaceableTextures\CommandButtons\BTNLambo0.blp
 Researchhotkey=Q
 Researchtip="Thunder Reverse, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip=Ламбо атакует всех проnивников вокруг нанося им урон и оглушая.|n|n|cFF00A5FFУрон: 75 + 2\3\4\5\6*|r|c00FF5555STR|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 15 сек.
 Targetattach=origin
-Tip="Thunder Reverse, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","Thunder Reverse, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","Thunder Reverse, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","Thunder Reverse, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","Thunder Reverse, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip=Ламбо атакует всех проnивников вокруг нанося им урон и оглушая.|n|n|cFF00A5FFУрон: 75 + 2*|r|c00FF5555STR|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 15 сек.,Ламбо атакует всех проnивников вокруг нанося им урон и оглушая.|n|n|cFF00A5FFУрон: 75 + 3*|r|c00FF5555STR|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 15 сек.,Ламбо атакует всех проnивников вокруг нанося им урон и оглушая.|n|n|cFF00A5FFУрон: 75 + 4*|r|c00FF5555STR|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 15 сек.,Ламбо атакует всех проnивников вокруг нанося им урон и оглушая.|n|n|cFF00A5FFУрон: 75 + 5*|r|c00FF5555STR|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 15 сек.,Ламбо атакует всех проnивников вокруг нанося им урон и оглушая.|n|n|cFF00A5FFУрон: 75 + 6*|r|c00FF5555STR|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 15 сек.
+Tip="썬더 리버스, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","썬더 리버스, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","썬더 리버스, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","썬더 리버스, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","썬더 리버스, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip=람보가 주변의 모든 적을 공격하여 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF계수: 75 + 2*|r|c00FF5555STR|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 15초,람보가 주변의 모든 적을 공격하여 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF계수: 75 + 3*|r|c00FF5555STR|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 15초,람보가 주변의 모든 적을 공격하여 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF계수: 75 + 4*|r|c00FF5555STR|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 15초,람보가 주변의 모든 적을 공격하여 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF계수: 75 + 5*|r|c00FF5555STR|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 15초,람보가 주변의 모든 적을 공격하여 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF계수: 75 + 6*|r|c00FF5555STR|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 15초
 
 [A00P]
 Animnames=Spell,Slam
@@ -243,7 +243,7 @@ Art=war3mapImported\BTNElectrico_Cornuta.blp
 Buttonpos=1,2
 Casterattach=origin
 Hotkey=W
-Name=Elettrico Cornata
+Name=일렉트리코 코르나타
 Order=channel
 ResearchArt=war3mapImported\BTNElectrico_Cornuta.blp
 Researchbuttonpos=1
@@ -251,20 +251,20 @@ Researchhotkey=W
 Researchtip="Elettrico Cornata, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip=Ламбо вбирает в свои рога эллектричество и атакует ими противников.|n|n|cFF00A5FFЗатрачиваемая мана: 10\20\40\80\120 ед.|nУрон: 5%\10%\15%\20%\25% от Max HP противников +50\100\150\200\250 ед.|nПерезарядка: 10 сек.|r
 Targetattach=origin
-Tip="Elettrico Cornata, [|cffffcc00Уровень 1|r] (|cffffcc00W|r)","Elettrico Cornata, [|cffffcc00Уровень 2|r] (|cffffcc00W|r)","Elettrico Cornata, [|cffffcc00Уровень 3|r] (|cffffcc00W|r)","Elettrico Cornata, [|cffffcc00Уровень 4|r] (|cffffcc00W|r)","Elettrico Cornata, [|cffffcc00Уровень 5|r] (|cffffcc00W|r)"
-Ubertip=Ламбо вбирает в свои рога эллектричество и атакует ими противников.|n|n|cFF00A5FFЗатрачиваемая мана: 10 ед.|nУрон: 5% от Max HP противников +50 ед.|nПерезарядка: 10 сек.|r,Ламбо вбирает в свои рога эллектричество и атакует ими противников.|n|n|cFF00A5FFЗатрачиваемая мана: 20 ед.|nУрон: 10% от Max HP противников +100 ед.|nПерезарядка: 10 сек.|r,Ламбо вбирает в свои рога эллектричество и атакует ими противников.|n|n|cFF00A5FFЗатрачиваемая мана: 40 ед.|nУрон: 15% от Max HP противников +150 ед.|nПерезарядка: 10 сек.|r,Ламбо вбирает в свои рога эллектричество и атакует ими противников.|n|n|cFF00A5FFЗатрачиваемая мана: 80 ед.|nУрон: 20% от Max HP противников +200 ед.|nПерезарядка: 10 сек.|r,Ламбо вбирает в свои рога эллектричество и атакует ими противников.|n|n|cFF00A5FFЗатрачиваемая мана: 120 ед.|nУрон: 25% от Max HP противников +250 ед.|nПерезарядка: 10 сек.|r
+Tip="일렉트리코 코르나타, [|cffffcc00레벨 1|r] (|cffffcc00W|r)","일렉트리코 코르나타, [|cffffcc00레벨 2|r] (|cffffcc00W|r)","일렉트리코 코르나타, [|cffffcc00레벨 3|r] (|cffffcc00W|r)","일렉트리코 코르나타, [|cffffcc00레벨 4|r] (|cffffcc00W|r)","일렉트리코 코르나타, [|cffffcc00레벨 5|r] (|cffffcc00W|r)"
+Ubertip=람보가 뿔에 전기를 흡수하여 앞으로 돌진합니다.|n|n|cFF00A5FF계수: 상대 최대체력 5% + 50.|n쿨타임: 10 초|r,람보가 뿔에 전기를 흡수하여 앞으로 돌진합니다.|n|n|cFF00A5FF계수: 상대 최대체력 10% +100 .|n쿨타임: 10 초|r,람보가 뿔에 전기를 흡수하여 앞으로 돌진합니다.|n|n|cFF00A5FF계수: 상대 최대체력 15% +150 .|n쿨타임: 10 초|r,람보가 뿔에 전기를 흡수하여 앞으로 돌진합니다.|n|n|cFF00A5FF계수: 상대 최대체력 20% +200 .|n쿨타임: 10 초|r,람보가 뿔에 전기를 흡수하여 앞으로 돌진합니다.|n|n|cFF00A5FF계수: 상대 최대체력 25% +250 .|n쿨타임: 10 초|r
 
 [A00Q]
 Art=war3mapImported\BTNLampos_Shield.blp
 Buttonpos=1,1
-Name=Lambo's Shield
+Name=람보의 방패
 ResearchArt=war3mapImported\BTNLampos_Shield.blp
 Researchbuttonpos=2
 Researchhotkey=E
 Researchtip="Lambo's Shield, [|cffffcc00Уровень %d|r] (|cffffcc00E|r)"
 Researchubertip=Ламбо изпользует щит Лампо чтобы отражать и защищать себя от вражеских атак.|n|n|cFF00A5FFШанс: 10%\20%\30%\40%\50%|nУрона отражено\поглащено: 25%|r
-Tip="Lambo's Shield, [|cffffcc00Уровень 1|r]"
-Ubertip=Ламбо изпользует щит Лампо чтобы отражать и защищать себя от вражеских атак.|n|n|cFF00A5FFШанс: 50%|nУменьшение урона по Ламбо: 20%|nВозвращено урона: 40%|r
+Tip="람보의 방패, [|cffffcc00레벨 1|r]"
+Ubertip=람보가 방패를 사용하여 적의 공격을 반사하고 자신을 보호합니다.|n|n|cFF00A5FF반사 확률: 50%|n데미지 감소: 20%|n피해 반사: 40%|r
 
 [A00R]
 Animnames=Spell,Slam
@@ -272,7 +272,7 @@ Art=ReplaceableTextures\CommandButtons\BTNLambo 4.blp
 Buttonpos=3,2
 Casterattach=origin
 Hotkey=R
-Name=Gyuudon
+Name=규동
 Order=channel
 ResearchArt=ReplaceableTextures\CommandButtons\BTNLambo 4.blp
 Researchbuttonpos=3
@@ -280,8 +280,8 @@ Researchhotkey=R
 Researchtip="Gyuudon, [|cffffcc00Уровень %d|r] (|cffffcc00R|r)"
 Researchubertip="Ламбо вызывает быка из коробочки, который последовательно атакует врагов, если врагов нет, бык исчезает.|n|n|cFF00A5FF|nУрон: 1.5*|r|c00FF5555STR|r|cFF00A5FF|nМакс. кол-во ударов: 4\5\6\7\8|nОглушение: 2 сек.|nПерезарядка: 30 сек.|r"
 Targetattach=origin
-Tip="Gyuudon, [|cffffcc00Уровень 1|r] (|cffffcc00R|r)","Gyuudon, [|cffffcc00Уровень 2|r] (|cffffcc00R|r)","Gyuudon, [|cffffcc00Уровень 3|r] (|cffffcc00R|r)","Gyuudon, [|cffffcc00Уровень 4|r] (|cffffcc00R|r)","Gyuudon, [|cffffcc00Уровень 5|r] (|cffffcc00R|r)"
-Ubertip="Ламбо вызывает быка из коробочки, который последовательно атакует врагов, если врагов нет, бык исчезает.|n|n|cFF00A5FF|nУрон: 1.5*|r|c00FF5555STR|r|cFF00A5FF|nМакс. кол-во ударов: 4|nОглушение: 2 сек.|nПерезарядка: 30 сек.|r","Ламбо вызывает быка из коробочки, который последовательно атакует врагов, если врагов нет, бык исчезает.|n|n|cFF00A5FF|nУрон: 1.5*|r|c00FF5555STR|r|cFF00A5FF|nМакс. кол-во ударов: 5|nОглушение: 2 сек.|nПерезарядка: 30 сек.|r","Ламбо вызывает быка из коробочки, который последовательно атакует врагов, если врагов нет, бык исчезает.|n|n|cFF00A5FF|nУрон: 1.5*|r|c00FF5555STR|r|cFF00A5FF|nМакс. кол-во ударов: 6|nОглушение: 2 сек.|nПерезарядка: 30 сек.|r","Ламбо вызывает быка из коробочки, который последовательно атакует врагов, если врагов нет, бык исчезает.|n|n|cFF00A5FF|nУрон: 1.5*|r|c00FF5555STR|r|cFF00A5FF|nМакс. кол-во ударов: 7|nОглушение: 2 сек.|nПерезарядка: 30 сек.|r","Ламбо вызывает быка из коробочки, который последовательно атакует врагов, если врагов нет, бык исчезает.|n|n|cFF00A5FF|nУрон: 1.5*|r|c00FF5555STR|r|cFF00A5FF|nМакс. кол-во ударов: 8|nОглушение: 2 сек.|nПерезарядка: 30 сек.|r"
+Tip="규동, [|cffffcc00레벨 1|r] (|cffffcc00R|r)","규동, [|cffffcc00레벨 2|r] (|cffffcc00R|r)","규동, [|cffffcc00레벨 3|r] (|cffffcc00R|r)","규동, [|cffffcc00레벨 4|r] (|cffffcc00R|r)","규동, [|cffffcc00레벨 5|r] (|cffffcc00R|r)"
+Ubertip="람보가 상자에서 규동을 소환해 적을 차례대로 공격하며, 적이 주변에 없으면 규동은 사라진다.|n|n|cFF00A5FF|n계수: 1.5*|r|c00FF5555STR|r|cFF00A5FF|n최대 타격수: 4|n기절시간: 2초|n 쿨타임: 30초|r","람보가 상자에서 규동을 소환해 적을 차례대로 공격하며, 적이 주변에 없으면 규동은 사라진다.|n|n|cFF00A5FF|n계수: 1.5*|r|c00FF5555STR|r|cFF00A5FF|n최대 타격수: 5|n기절시간: 2초|n 쿨타임: 30초|r","람보가 상자에서 규동을 소환해 적을 차례대로 공격하며, 적이 주변에 없으면 규동은 사라진다.|n|n|cFF00A5FF|n계수: 1.5*|r|c00FF5555STR|r|cFF00A5FF|n최대 타격수: 6|n기절시간: 2초|n 쿨타임: 30초|r","람보가 상자에서 규동을 소환해 적을 차례대로 공격하며, 적이 주변에 없으면 규동은 사라진다.|n|n|cFF00A5FF|n계수: 1.5*|r|c00FF5555STR|r|cFF00A5FF|n최대 타격수: 7|n기절시간: 2초|n 쿨타임: 30초|r","람보가 상자에서 규동을 소환해 적을 차례대로 공격하며, 적이 주변에 없으면 규동은 사라진다.|n|n|cFF00A5FF|n계수: 1.5*|r|c00FF5555STR|r|cFF00A5FF|n최대 타격수: 8|n기절시간: 2초|n 쿨타임: 30초|r"
 
 [A00S]
 Animnames=stand
@@ -289,7 +289,7 @@ Art=ReplaceableTextures\CommandButtons\BTNLambo 5.blp
 Buttonpos=1,1
 Casterattach=origin
 Hotkey=T
-Name=Corna Fulmine
+Name=코르나 포르미네
 Order=channel
 ResearchArt=ReplaceableTextures\CommandButtons\BTNLambo 5.blp
 Researchbuttonpos=,1
@@ -297,8 +297,8 @@ Researchhotkey=T
 Researchtip="Corna Fulmine, [|cffffcc00Уровень 1|r] (|cffffcc00T|r)"
 Researchubertip="Ламбо с помощью своего щита выпукает молнии и атакует всех врагов вокруг, а так же дает микрооглушение.|n|n|cFFFF0000Channeling|r |n|n|cFF00A5FFУрон: ~16*|r|c00FF5555STR|r|cFF00A5FF(за все время)|nВремя действия: 7 сек.|nПерезарядка: 25 сек."
 Targetattach=origin
-Tip="Corna Fulmine, (|cffffcc00T|r)"
-Ubertip="Ламбо с помощью своего щита выпукает молнии и атакует всех врагов вокруг, а так же дает микрооглушение.|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFУрон: ~16*|r|c00FF5555STR|r|cFF00A5FF(за все время)|nВремя действия: 7 сек.|nПерезарядка: 25 сек."
+Tip="코르나 포르미네, (|cffffcc00T|r)"
+Ubertip="람보가 방패를 사용하여 번개를 방출하여 주변의 모든 적을 공격하고 지속적으로 기절시킵니다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF계수: ~16*|r|c00FF5555STR|r|cFF00A5FF(지속데미지)|n지속시간: 7초|n쿨타임: 25초"
 
 [A00T]
 Animnames=Spell,two
@@ -306,15 +306,15 @@ Art=war3mapImported\BTNZeropointFirst.tga
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=Zero Point Breakthrough: First Edition
+Name=제로 지점 돌파 : 퍼스트 에디션
 Order=channel
 ResearchArt=war3mapImported\BTNZeropointFirst.tga
 Researchhotkey=Q
 Researchtip="Zero Point Breakthrough: First Edition, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip=Тсуна замораживает всех противников вокруг.|n|n|cFF00A5FFУрон: 75\150\225\300\375 +2\3\4\5\6*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 2 сек.|nПерезарядка: 15 сек.
 Targetattach=origin
-Tip="Zero Point Breakthrough: First Edition, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","Zero Point Breakthrough: First Edition, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","Zero Point Breakthrough: First Edition, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","Zero Point Breakthrough: First Edition, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","Zero Point Breakthrough: First Edition, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip=Тсуна замораживает всех противников вокруг.|n|n|cFF00A5FFУрон: 75 +2*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 2 сек.|nПерезарядка: 15 сек.,Тсуна замораживает всех противников вокруг.|n|n|cFF00A5FFУрон: 150 +3*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 2 сек.|nПерезарядка: 15 сек.,Тсуна замораживает всех противников вокруг.|n|n|cFF00A5FFУрон: 225 +4*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 2 сек.|nПерезарядка: 15 сек.,Тсуна замораживает всех противников вокруг.|n|n|cFF00A5FFУрон: 300 +5*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 2 сек.|nПерезарядка: 15 сек.,Тсуна замораживает всех противников вокруг.|n|n|cFF00A5FFУрон: 375 +6*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 2 сек.|nПерезарядка: 15 сек.
+Tip="제로 지점 돌파 : 퍼스트 에디션, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","제로 지점 돌파 : 퍼스트 에디션, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","제로 지점 돌파 : 퍼스트 에디션, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","제로 지점 돌파 : 퍼스트 에디션, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","제로 지점 돌파 : 퍼스트 에디션, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip=츠나가 주변의 모든 적을 얼립니다.|n|n|cFF00A5FF계수: 75 +2*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 2초|n쿨타임: 15초,츠나가 주변의 모든 적을 얼립니다.|n|n|cFF00A5FF계수: 150 +3*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 2초|n쿨타임: 15초,츠나가 주변의 모든 적을 얼립니다.|n|n|cFF00A5FF계수: 225 +4*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 2초|n쿨타임: 15초,츠나가 주변의 모든 적을 얼립니다.|n|n|cFF00A5FF계수: 300 +5*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 2초|n쿨타임: 15초,츠나가 주변의 모든 적을 얼립니다.|n|n|cFF00A5FF계수: 375 +6*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 2초|n쿨타임: 15초
 
 [A00U]
 Animnames=spell,throw
@@ -335,15 +335,15 @@ Ubertip="Throws a magical hammer at a target enemy unit, dealing 100 damage and 
 Art=ReplaceableTextures\CommandButtons\BTNThoriumMelee.blp
 Buttonpos=1,1
 Hotkey=F
-Name=Swap Ability
+Name=어빌리티 교체
 Order=berserk
 ResearchArt=war3mapImported\BTNPrimomantle.tga
 Researchbuttonpos=1
 Researchhotkey=W
 Researchtip="Mantello di Vongola Primo, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip="Тсуна использует защитную камбио форму, чтобы защатиться от урона.|n|n|cFF00A5FFВремя действия: 3,3.5,4,4.5,5 сек.|nПерезарядка: 30\31\32\33\34 сек. |r"
-Tip="Swap Ability, [|cffffcc00Уровень 1|r]","Swap Ability, [|cffffcc00Уровень 2|r]","Swap Ability, [|cffffcc00Уровень 3|r]","Swap Ability, [|cffffcc00Уровень 4|r]","Swap Ability, [|cffffcc00Уровень 5|r]"
-Ubertip=Меняет эффект 1 способности. |n|n|cFF00A5FF|nПерезарядка: 20 сек.,Меняет эффект 1 способности. |n|n|cFF00A5FF|nПерезарядка: 18 сек.,Меняет эффект 1 способности. |n|n|cFF00A5FF|nПерезарядка: 16 сек.,Меняет эффект 1 способности. |n|n|cFF00A5FF|nПерезарядка: 14 сек.,Меняет эффект 1 способности. |n|n|cFF00A5FF|nПерезарядка: 12 сек.
+Tip="어빌리티 교체, [|cffffcc00레벨 1|r]","어빌리티 교체, [|cffffcc00레벨 2|r]","어빌리티 교체, [|cffffcc00레벨 3|r]","어빌리티 교체, [|cffffcc00레벨 4|r]","어빌리티 교체, [|cffffcc00레벨 5|r]"
+Ubertip=1 능력의 효과 변경. |n|n|cFF00A5FF|n쿨타임: 20초,1 능력의 효과 변경. |n|n|cFF00A5FF|n쿨타임: 18초,1 능력의 효과 변경. |n|n|cFF00A5FF|n쿨타임: 16초,1 능력의 효과 변경. |n|n|cFF00A5FF|n쿨타임: 14초,1 능력의 효과 변경. |n|n|cFF00A5FF|n쿨타임: 12초
 
 [A00W]
 Animnames=spell,two
@@ -351,7 +351,7 @@ Art=war3mapImported\BTNZeropointRevised.blp
 Buttonpos=2,2
 Casterattach=origin
 Hotkey=E
-Name=Zero Point Breakthrough - Revised
+Name=제로 지점 돌파 : 리바이스
 Order=channel
 ResearchArt=war3mapImported\BTNZeropointRevised.blp
 Researchbuttonpos=2
@@ -359,8 +359,8 @@ Researchhotkey=E
 Researchtip="Zero Point Breakthrough - Revised, [|cffffcc00Уровень %d|r] (|cffffcc00E|r)"
 Researchubertip="Тсуна принимает особую стойку в которой он поглащает пламя противников и делает его своим, увеличивая |c00FFFF66AllStat|r от поглощенного урона и восстанавливая ману.|nТак же, с него снимаются все дебафы. Не пробивается эффектом колец Облака.|n|n|cFF00A5FF|nВремя действия: 3 сек.|nВосстановление маны: 1 ед. маны за каждые 3 урона.|nСила усиления: +1 к |c00FFFF66AllStat|r|cFF00A5FF за каждые 35 урона.|nВремя усиления: 15 сек.|nПерезарядка: 28\26\24\22\20 сек."
 Targetattach=origin
-Tip="Zero Point Breakthrough - Revised, [|cffffcc00Уровень 1|r] (|cffffcc00E|r)","Zero Point Breakthrough - Revised, [|cffffcc00Уровень 2|r] (|cffffcc00E|r)","Zero Point Breakthrough - Revised, [|cffffcc00Уровень 3|r] (|cffffcc00E|r)","Zero Point Breakthrough - Revised, [|cffffcc00Уровень 4|r] (|cffffcc00E|r)","Zero Point Breakthrough - Revised, [|cffffcc00Уровень 5|r] (|cffffcc00E|r)"
-Ubertip="Тсуна принимает особую стойку в которой он поглащает пламя противников и делает его своим, увеличивая |c00FFFF66AllStat|r от поглощенного урона и восстанавливая ману.|nТак же, с него снимаются все дебафы. Не пробивается эффектом колец Облака.|n|n|cFF00A5FF|nВремя действия: 3 сек.|nВосстановление маны: 1 ед. маны за каждые 3 урона.|nСила усиления: +1 к |c00FFFF66AllStat|r|cFF00A5FF за каждые 35 урона.|nВремя усиления: 15 сек.|nПерезарядка: 28 сек.","Тсуна принимает особую стойку в которой он поглащает пламя противников и делает его своим, увеличивая |c00FFFF66AllStat|r от поглощенного урона и восстанавливая ману.|nТак же, с него снимаются все дебафы. Не пробивается эффектом колец Облака.|n|n|cFF00A5FF|nВремя действия: 3 сек.|nВосстановление маны: 1 ед. маны за каждые 3 урона.|nСила усиления: +1 к |c00FFFF66AllStat|r|cFF00A5FF за каждые 35 урона.|nВремя усиления: 15 сек.|nПерезарядка: 26 сек.","Тсуна принимает особую стойку в которой он поглащает пламя противников и делает его своим, увеличивая |c00FFFF66AllStat|r от поглощенного урона и восстанавливая ману.|nТак же, с него снимаются все дебафы. Не пробивается эффектом колец Облака.|n|n|cFF00A5FF|nВремя действия: 3 сек.|nВосстановление маны: 1 ед. маны за каждые 3 урона.|nСила усиления: +1 к |c00FFFF66AllStat|r|cFF00A5FF за каждые 35 урона.|nВремя усиления: 15 сек.|nПерезарядка: 24 сек.","Тсуна принимает особую стойку в которой он поглащает пламя противников и делает его своим, увеличивая |c00FFFF66AllStat|r от поглощенного урона и восстанавливая ману.|nТак же, с него снимаются все дебафы. Не пробивается эффектом колец Облака.|n|n|cFF00A5FF|nВремя действия: 3 сек.|nВосстановление маны: 1 ед. маны за каждые 3 урона.|nСила усиления: +1 к |c00FFFF66AllStat|r|cFF00A5FF за каждые 35 урона.|nВремя усиления: 15 сек.|nПерезарядка: 22 сек.","Тсуна принимает особую стойку в которой он поглащает пламя противников и делает его своим, увеличивая |c00FFFF66AllStat|r от поглощенного урона и восстанавливая ману.|nТак же, с него снимаются все дебафы. Не пробивается эффектом колец Облака.|n|n|cFF00A5FF|nВремя действия: 3 сек.|nВосстановление маны: 1 ед. маны за каждые 3 урона.|nСила усиления: +1 к |c00FFFF66AllStat|r|cFF00A5FF за каждые 35 урона.|nВремя усиления: 15 сек.|nПерезарядка: 20 сек."
+Tip="제로 지점 돌파 : 리바이스, [|cffffcc00계수 1|r] (|cffffcc00E|r)","제로 지점 돌파 : 리바이스, [|cffffcc00계수 2|r] (|cffffcc00E|r)","제로 지점 돌파 : 리바이스, [|cffffcc00계수 3|r] (|cffffcc00E|r)","제로 지점 돌파 : 리바이스, [|cffffcc00계수 4|r] (|cffffcc00E|r)","제로 지점 돌파 : 리바이스, [|cffffcc00계수 5|r] (|cffffcc00E|r)"
+Ubertip="츠나가 상대의 화염을 흡수하여 자신의 것으로 만드는 특별한 자세를 취합니다. |c00FFFF66올스텟|r 획득 및 마나 회복.|n또한 모든 디버프가 제거되고 클라우드 링이 관통할 수 없습니다.|n|n|cFF00A5FF|n지속시간: 3초|n마나회복: 1데미지당 3마나회복.|n스텟획득: 35데미지마다 +1  |c00FFFF66올스텟|r|cFF00A5FF 획득.|n획득한 스텟 지속시간: 15초|n쿨타임: 28초","츠나가 상대의 화염을 흡수하여 자신의 것으로 만드는 특별한 자세를 취합니다. |c00FFFF66올스텟|r 획득 및 마나 회복.|n또한 모든 디버프가 제거되고 클라우드 링이 관통할 수 없습니다.|n|n|cFF00A5FF|n지속시간: 3초|n마나회복: 1데미지당 3마나회복.|n스텟획득: 35데미지마다 +1  |c00FFFF66올스텟|r|cFF00A5FF 획득.|n획득한 스텟 지속시간: 15초|n쿨타임: 26초","츠나가 상대의 화염을 흡수하여 자신의 것으로 만드는 특별한 자세를 취합니다. |c00FFFF66올스텟|r 획득 및 마나 회복.|n또한 모든 디버프가 제거되고 클라우드 링이 관통할 수 없습니다.|n|n|cFF00A5FF|n지속시간: 3초|n마나회복: 1데미지당 3마나회복.|n스텟획득: 35데미지마다 +1  |c00FFFF66올스텟|r|cFF00A5FF 획득.|n획득한 스텟 지속시간: 15초|n쿨타임: 24초","츠나가 상대의 화염을 흡수하여 자신의 것으로 만드는 특별한 자세를 취합니다. |c00FFFF66올스텟|r 획득 및 마나 회복.|n또한 모든 디버프가 제거되고 클라우드 링이 관통할 수 없습니다.|n|n|cFF00A5FF|n지속시간: 3초|n마나회복: 1데미지당 3마나회복.|n스텟획득: 35데미지마다 +1  |c00FFFF66올스텟|r|cFF00A5FF 획득.|n획득한 스텟 지속시간: 15초|n쿨타임: 22초","츠나가 상대의 화염을 흡수하여 자신의 것으로 만드는 특별한 자세를 취합니다. |c00FFFF66올스텟|r 획득 및 마나 회복.|n또한 모든 디버프가 제거되고 클라우드 링이 관통할 수 없습니다.|n|n|cFF00A5FF|n지속시간: 3초|n마나회복: 1데미지당 3마나회복.|n스텟획득: 35데미지마다 +1  |c00FFFF66올스텟|r|cFF00A5FF 획득.|n획득한 스텟 지속시간: 15초|n쿨타임: 20초"
 
 [A00Y]
 Animnames=stand,channel
@@ -368,7 +368,7 @@ Art=war3mapImported\BTNX-burner.blp
 Buttonpos=3,2
 Casterattach=origin
 Hotkey=R
-Name=X-Burner
+Name=X - 버너
 Order=channel
 ResearchArt=war3mapImported\BTNX-burner.blp
 Researchbuttonpos=3
@@ -376,22 +376,22 @@ Researchhotkey=R
 Researchtip="X-Burner, [|cffffcc00Уровень %d|r] (|cffffcc00R|r)"
 Researchubertip=Особая атака тсуны которой он научился во время штурма базы "Иреи Шоучи".|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFЗатрачиваемая мана: 14% от Max MP в сек.|nУрон: 5\6\7\8\9*|r|c003CFF3CAGI|r|cFF00A5FF ед каждую секунду.|nДальность: 3000|nAoE: 325|nПерезарядка: 30 сек.|r
 Targetattach=origin
-Tip="X-Burner, [|cffffcc00Уровень 1|r] (|cffffcc00R|r)","X-Burner, [|cffffcc00Уровень 2|r] (|cffffcc00R|r)","X-Burner, [|cffffcc00Уровень 3|r] (|cffffcc00R|r)","X-Burner, [|cffffcc00Уровень 4|r] (|cffffcc00R|r)","X-Burner, [|cffffcc00Уровень 5|r] (|cffffcc00R|r)"
-Ubertip=Особая атака тсуны которой он научился во время штурма базы "Иреи Шоучи".|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFЗатрачиваемая мана: 14% от Max MP в сек.|nУрон: 5*|r|c003CFF3CAGI|r|cFF00A5FF ед каждую секунду.|nДальность: 3000|nAoE: 325|nПерезарядка: 30 сек.|r,Особая атака тсуны которой он научился во время штурма базы "Иреи Шоучи".|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFЗатрачиваемая мана: 14% от Max MP в сек.|nУрон: 6*|r|c003CFF3CAGI|r|cFF00A5FF ед каждую секунду.|nДальность: 3000|nAoE: 325|nПерезарядка: 30 сек.|r,Особая атака тсуны которой он научился во время штурма базы "Иреи Шоучи".|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFЗатрачиваемая мана: 14% от Max MP в сек.|nУрон: 7*|r|c003CFF3CAGI|r|cFF00A5FF ед каждую секунду.|nДальность: 3000|nAoE: 325|nПерезарядка: 30 сек.|r,Особая атака тсуны которой он научился во время штурма базы "Иреи Шоучи".|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFЗатрачиваемая мана: 14% от Max MP в сек.|nУрон: 8*|r|c003CFF3CAGI|r|cFF00A5FF ед каждую секунду.|nДальность: 3000|nAoE: 325|nПерезарядка: 30 сек.|r,Особая атака тсуны которой он научился во время штурма базы "Иреи Шоучи".|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFЗатрачиваемая мана: 14% от Max MP в сек.|nУрон: 9*|r|c003CFF3CAGI|r|cFF00A5FF ед каждую секунду.|nДальность: 3000|nAoE: 325|nПерезарядка: 30 сек.|r
+Tip="X - 버너, [|cffffcc00레벨 1|r] (|cffffcc00R|r)","X - 버너, [|cffffcc00레벨 2|r] (|cffffcc00R|r)","X - 버너, [|cffffcc00레벨 3|r] (|cffffcc00R|r)","X - 버너, [|cffffcc00레벨 4|r] (|cffffcc00R|r)","X - 버너, [|cffffcc00레벨 5|r] (|cffffcc00R|r)"
+Ubertip=츠나가 지정한 방향으로 불꽃기둥을 분출한다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF초당 마나소모: 14%.|n계수: 5*|r|c003CFF3CAGI|r|cFF00A5FF 매초마다.|n사거리: 3000|n범위: 325|n쿨타임: 30초|r,츠나가 전방으로 불꽃기둥을 분출한다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF초당 마나소모: 14%.|n계수: 6*|r|c003CFF3CAGI|r|cFF00A5FF 매초마다.|n사거리: 3000|n범위: 325|n쿨타임: 30초|r,츠나가 전방으로 불꽃기둥을 분출한다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF초당 마나소모: 14%.|n계수: 7*|r|c003CFF3CAGI|r|cFF00A5FF 매초마다.|n사거리: 3000|n범위: 325|n쿨타임: 30초|r,츠나가 전방으로 불꽃기둥을 분출한다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF초당 마나소모: 14%.|n계수: 8*|r|c003CFF3CAGI|r|cFF00A5FF 매초마다.|n사거리: 3000|n범위: 325|n쿨타임: 30초|r,츠나가 전방으로 불꽃기둥을 분출한다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF초당 마나소모: 14%.|n계수: 9*|r|c003CFF3CAGI|r|cFF00A5FF 매초마다.|n사거리: 3000|n범위: 325|n쿨타임: 30초|r
 
 [A010]
 Art=war3mapImported\BTNGenjutsu.blp
 Buttonpos=1,2
 Hotkey=W
-Name=Bunshin no Jutsu
+Name=분신의 술
 Order=windwalk
 ResearchArt=war3mapImported\BTNGenjutsu.blp
 Researchbuttonpos=1
 Researchhotkey=W
 Researchtip="Bunshin no Jutsu, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip="Итачи создает клона, которого нельзя отличить от него, а сам становится невидимым для противников.|nКлон взрывается через 5 секунд и наносит урон, если клона убить раньше времени, то он не взорвется.|n|n|cFF00A5FFВремя действия: 20 сек.|nУрон: 125\250\375\500\625|nПерезарядка: 20\17\15\12\10 сек.|r"
-Tip="Bunshin no Jutsu, [|cffffcc00Уровень 1|r] (|cffffcc00W|r)","Bunshin no Jutsu, [|cffffcc00Уровень 2|r] (|cffffcc00W|r)","Bunshin no Jutsu, [|cffffcc00Уровень 3|r] (|cffffcc00W|r)","Bunshin no Jutsu, [|cffffcc00Уровень 4|r] (|cffffcc00W|r)","Bunshin no Jutsu, [|cffffcc00Уровень 5|r] (|cffffcc00W|r)"
-Ubertip="Итачи создает клона, которого нельзя отличить от него, а сам становится невидимым для противников.|nКлон взрывается через 5 секунд и наносит урон, если клона убить раньше времени, то он не взорвется и Итачи станет заметным для врагов.|n|n|cFF00A5FFВремя действия: 5 сек.|nУрон: 125|nПерезарядка: 20 сек.|r","Итачи создает клона, которого нельзя отличить от него, а сам становится невидимым для противников.|nКлон взрывается через 5 секунд и наносит урон, если клона убить раньше времени, то он не взорвется и Итачи станет заметным для врагов.|n|n|cFF00A5FFВремя действия: 5 сек.|nУрон: 250|nПерезарядка: 17 сек.|r","Итачи создает клона, которого нельзя отличить от него, а сам становится невидимым для противников.|nКлон взрывается через 5 секунд и наносит урон, если клона убить раньше времени, то он не взорвется и Итачи станет заметным для врагов.|n|n|cFF00A5FFВремя действия: 5 сек.|nУрон: 325|nПерезарядка: 15 сек.|r","Итачи создает клона, которого нельзя отличить от него, а сам становится невидимым для противников.|nКлон взрывается через 5 секунд и наносит урон, если клона убить раньше времени, то он не взорвется и Итачи станет заметным для врагов.|n|n|cFF00A5FFВремя действия: 5 сек.|nУрон: 500|nПерезарядка: 12 сек.|r","Итачи создает клона, которого нельзя отличить от него, а сам становится невидимым для противников.|nКлон взрывается через 5 секунд и наносит урон, если клона убить раньше времени, то он не взорвется и Итачи станет заметным для врагов.|n|n|cFF00A5FFВремя действия: 5 сек.|nУрон: 625|nПерезарядка: 10 сек.|r"
+Tip="분신의 술, [|cffffcc00레벨 1|r] (|cffffcc00W|r)","분신의 술, [|cffffcc00레벨 2|r] (|cffffcc00W|r)","분신의 술, [|cffffcc00레벨 3|r] (|cffffcc00W|r)","분신의 술, [|cffffcc00레벨 4|r] (|cffffcc00W|r)","분신의 술, [|cffffcc00레벨 5|r] (|cffffcc00W|r)"
+Ubertip="이타치가 분신을 소환하고 상대에게 보이지 않게 됩니다.|n분신은 5초 후에 폭발하여 피해를 줍니다. 분신이 미리 죽으면 폭발하지 않고 이타치가 적에게 보입니다.|n|n|cFF00A5FF지속시간: 5초|n계수: 125|n쿨타임: 20초|r","이타치가 분신을 소환하고 상대에게 보이지 않게 됩니다.|n분신은 5초 후에 폭발하여 피해를 줍니다. 분신이 미리 죽으면 폭발하지 않고 이타치가 적에게 보입니다.|n|n|cFF00A5FF지속시간: 5초|n계수: 250|n쿨타임: 17초|r","이타치가 분신을 소환하고 상대에게 보이지 않게 됩니다.|n분신은 5초 후에 폭발하여 피해를 줍니다. 분신이 미리 죽으면 폭발하지 않고 이타치가 적에게 보입니다.|n|n|cFF00A5FF지속시간: 5초|n계수: 325|n쿨타임: 15초|r","이타치가 분신을 소환하고 상대에게 보이지 않게 됩니다.|n분신은 5초 후에 폭발하여 피해를 줍니다. 분신이 미리 죽으면 폭발하지 않고 이타치가 적에게 보입니다.|n|n|cFF00A5FF지속시간: 5초|n계수: 500|n쿨타임: 12초|r","이타치가 분신을 소환하고 상대에게 보이지 않게 됩니다.|n분신은 5초 후에 폭발하여 피해를 줍니다. 분신이 미리 죽으면 폭발하지 않고 이타치가 적에게 보입니다.|n|n|cFF00A5FF지속시간: 5초|n계수: 625|n쿨타임: 10초|r"
 
 [A011]
 Art=ReplaceableTextures\CommandButtons\BTNWand.blp
@@ -404,7 +404,7 @@ Art=war3mapImported\BTNAce_Enkai_Hibashira.blp
 Buttonpos=1,2
 Casterattach=origin
 Hotkey=W
-Name=Enkai: Hibashira
+Name=엔카이 : 히바시라
 Order=channel
 ResearchArt=war3mapImported\BTNAce_Enkai_Hibashira.blp
 Researchbuttonpos=1
@@ -412,8 +412,13 @@ Researchhotkey=W
 Researchtip="Enkai: Hibashira, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip="Эйс создает круг огня, замедляющий врагов и взрывающийся в конце.|n|n|cFF00A5FFУрон: 4\5\6\7\8*|r|c00FF5555STR|r|cFF00A5FF|nЗамедление: 50%|nВремя действия: 5 сек.|nОглушение: 2 сек.|nПерезарядка: 20 сек."
 Targetattach=origin
-Tip="Enkai: Hibashira, [|cffffcc00Уровень 1|r] (|cffffcc00W|r)","Enkai: Hibashira, [|cffffcc00Уровень 2|r] (|cffffcc00W|r)","Enkai: Hibashira, [|cffffcc00Уровень 3|r] (|cffffcc00W|r)","Enkai: Hibashira, [|cffffcc00Уровень 4|r] (|cffffcc00W|r)","Enkai: Hibashira, [|cffffcc00Уровень 5|r] (|cffffcc00W|r)"
-Ubertip="Эйс создает круг огня, замедляющий врагов и взрывающийся в конце.|n|n|cFF00A5FFУрон: 3*|r|c00FF5555STR|r|cFF00A5FF|nЗамедление: 50%|nВремя действия: 5 сек.|nОглушение: 2 сек.|nПерезарядка: 20 сек.","Эйс создает круг огня, замедляющий врагов и взрывающийся в конце.|n|n|cFF00A5FFУрон: 4*|r|c00FF5555STR|r|cFF00A5FF|nЗамедление: 50%|nВремя действия: 5 сек.|nОглушение: 2 сек.|nПерезарядка: 20 сек.","Эйс создает круг огня, замедляющий врагов и взрывающийся в конце.|n|n|cFF00A5FFУрон: 5*|r|c00FF5555STR|r|cFF00A5FF|nЗамедление: 50%|nВремя действия: 5 сек.|nОглушение: 2 сек.|nПерезарядка: 20 сек.","Эйс создает круг огня, замедляющий врагов и взрывающийся в конце.|n|n|cFF00A5FFУрон: 6*|r|c00FF5555STR|r|cFF00A5FF|nЗамедление: 50%|nВремя действия: 5 сек.|nОглушение: 2 сек.|nПерезарядка: 20 сек.","Эйс создает круг огня, замедляющий врагов и взрывающийся в конце.|n|n|cFF00A5FFУрон: 7*|r|c00FF5555STR|r|cFF00A5FF|nЗамедление: 50%|nВремя действия: 5 сек.|nОглушение: 2 сек.|nПерезарядка: 20 сек."
+Tip="엔카이 : 히바시라, [|cffffcc00레벨 1|r] (|cffffcc00W|r)","엔카이 : 히바시라, [|cffffcc00레벨 2|r] (|cffffcc00W|r)","엔카이 : 히바시라, [|cffffcc00레벨 3|r] (|cffffcc00W|r)","엔카이 : 히바시라, [|cffffcc00레벨 4|r] (|cffffcc00W|r)","엔카이 : 히바시라, [|cffffcc00레벨 5|r] (|cffffcc00W|r)"
+Ubertip="
+에이스가 적의 이동속도를 늦추고 마지막에 폭발하는 불의 원을 생성합니다.|n|n|cFF00A5FF계수: 3*|r|c00FF5555STR|r|cFF00A5FF|n이동속도감소: 50%|n지속시간: 5초|n기절시간: 2초|n쿨타임: 20초",
+"에이스가 적의 이동속도를 늦추고 마지막에 폭발하는 불의 원을 생성합니다.|n|n|cFF00A5FF계수: 4*|r|c00FF5555STR|r|cFF00A5FF|n이동속도감소: 50%|n지속시간: 5초|n기절시간: 2초|n쿨타임: 20초",
+"에이스가 적의 이동속도를 늦추고 마지막에 폭발하는 불의 원을 생성합니다.|n|n|cFF00A5FF계수: 5*|r|c00FF5555STR|r|cFF00A5FF|n이동속도감소: 50%|n지속시간: 5초|n기절시간: 2초|n쿨타임: 20초",
+"에이스가 적의 이동속도를 늦추고 마지막에 폭발하는 불의 원을 생성합니다.|n|n|cFF00A5FF계수: 6*|r|c00FF5555STR|r|cFF00A5FF|n이동속도감소: 50%|n지속시간: 5초|n기절시간: 2초|n쿨타임: 20초",
+"에이스가 적의 이동속도를 늦추고 마지막에 폭발하는 불의 원을 생성합니다.|n|n|cFF00A5FF계수: 7*|r|c00FF5555STR|r|cFF00A5FF|n이동속도감소: 50%|n지속시간: 5초|n기절시간: 2초|n쿨타임: 20초"
 
 [A013]
 Art=ReplaceableTextures\PassiveButtons\PASBTNImmolation.blp
@@ -428,21 +433,21 @@ Art=war3mapImported\BTNAce_Hiken.blp
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=Hiken
+Name:불주먹
 Order=channel
 ResearchArt=war3mapImported\BTNAce_Hiken.blp
 Researchhotkey=Q
 Researchtip="Hiken, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip=Эйс создает поток огня поражающий противников.|n|n|cFF00A5FF|nУрон: 2\3\4\5\6*|r|c00FF5555STR|r|cFF00A5FF +100|nПерезарядка: 20 сек.|r
 Targetattach=origin
-Tip="Hiken, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","Hiken, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","Hiken, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","Hiken, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","Hiken, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip=Эйс создает поток огня поражающий противников.|n|n|cFF00A5FF|nУрон: 2*|r|c00FF5555STR|r|cFF00A5FF +100|nПерезарядка: 20 сек.|r,Эйс создает поток огня поражающий противников.|n|n|cFF00A5FF|nУрон: 3*|r|c00FF5555STR|r|cFF00A5FF +100|nПерезарядка: 20 сек.|r,Эйс создает поток огня поражающий противников.|n|n|cFF00A5FF|nУрон: 4*|r|c00FF5555STR|r|cFF00A5FF +100|nПерезарядка: 20 сек.|r,Эйс создает поток огня поражающий противников.|n|n|cFF00A5FF|nУрон: 5*|r|c00FF5555STR|r|cFF00A5FF +100|nПерезарядка: 20 сек.|r,Эйс создает поток огня поражающий противников.|n|n|cFF00A5FF|nУрон: 6*|r|c00FF5555STR|r|cFF00A5FF +100|nПерезарядка: 20 сек.|r
+Tip="불주먹, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","불주먹, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","불주먹, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","불주먹, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","불주먹, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip=에이스가 지정한 방향으로 불주먹을 날립니다.|n|n|cFF00A5FF|n계수: 2*|r|c00FF5555STR|r|cFF00A5FF +100|n쿨타임: 20초|r,에이스가 지정한 방향으로 불주먹을 날립니다.|n|n|cFF00A5FF|n계수: 3*|r|c00FF5555STR|r|cFF00A5FF +100|n쿨타임: 20초|r,에이스가 지정한 방향으로 불주먹을 날립니다.|n|n|cFF00A5FF|n계수: 4*|r|c00FF5555STR|r|cFF00A5FF +100|n쿨타임: 20초|r,에이스가 지정한 방향으로 불주먹을 날립니다.|n|n|cFF00A5FF|n계수: 5*|r|c00FF5555STR|r|cFF00A5FF +100|n쿨타임: 20초|r,에이스가 지정한 방향으로 불주먹을 날립니다.|n|n|cFF00A5FF|n계수: 6*|r|c00FF5555STR|r|cFF00A5FF +100|n쿨타임: 20초|r
 
 [A015]
 Art=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 Buttonpos=1,1
 Hotkey=F
-Name=Fire Shield
+Name=파이어 쉴드
 Order=divineshield
 Requires=h046
 ResearchArt=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
@@ -450,8 +455,8 @@ Researchbuttonpos=1
 Researchhotkey=D
 Researchtip=Learn |cffffcc00D|rivine Shield - [|cffffcc00Level %d|r]
 Researchubertip="An impenetrable shield surrounds the Paladin, protecting him from all damage and spells for a set amount of time. |n|n|cffffcc00Level 1|r - Lasts 15 seconds. |n|cffffcc00Level 2|r - Lasts 30 seconds. |n|cffffcc00Level 3|r - Lasts 45 seconds."
-Tip="Fire Shield, (|cffffcc00F|r)"
-Ubertip=Эйс окружает себя пламенем нанося всем врагам вокруг серьезный урон.|n|n|cFF00A5FFУрон: 2*|r|c00FF5555STR|r|cFF00A5FF в сек.|nБлок урона: 20%|nМаны потрачено: 1.5%\сек|r
+Tip="파이어 쉴드, (|cffffcc00F|r)"
+Ubertip=에이스가 화염으로 자신을 둘러싸고 주변의 모든 적에게 큰 피해를 입힙니다.|n|n|cFF00A5FF계수: 2*|r|c00FF5555STR|r|cFF00A5FF 매초마다.|n데미지 감소: 20%|n초당 마나소모: 1.5%|r
 Unart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 UnButtonpos=2,2
 Unhotkey=F
@@ -464,7 +469,7 @@ Art=war3mapImported\BTNAce_Hotarubi.blp
 Buttonpos=3,2
 Casterattach=origin
 Hotkey=R
-Name=Hotarubi:Hiderma
+Name=호타루비 : 화달마
 Order=channel
 ResearchArt=war3mapImported\BTNAce_Hotarubi.blp
 Researchbuttonpos=3
@@ -472,8 +477,8 @@ Researchhotkey=R
 Researchtip="Hotarubi:Hiderma, [|cffffcc00Уровень %d|r] (|cffffcc00R|r)"
 Researchubertip="Эйс создает огненные шары и запускает их в указанную область, наносит врагам урон и оглушает.|n|n|cFF00A5FF|nУрон: 0.4\0.7\1\1.3\1.6*|r|c00FF5555STR|r|cFF00A5FF за шар.|nКоличество шаров: 20.|nОглушение: 3 сек.|nПерезарядка: 25 сек.|r"
 Targetattach=origin
-Tip="Hotarubi:Hiderma, [|cffffcc00Уровень 1|r] (|cffffcc00R|r)","Hotarubi:Hiderma, [|cffffcc00Уровень 2|r] (|cffffcc00R|r)","Hotarubi:Hiderma, [|cffffcc00Уровень 3|r] (|cffffcc00R|r)","Hotarubi:Hiderma, [|cffffcc00Уровень 4|r] (|cffffcc00R|r)","Hotarubi:Hiderma, [|cffffcc00Уровень 5|r] (|cffffcc00R|r)"
-Ubertip="Эйс создает огненные шары и запускает их в указанную область, наносит врагам урон и оглушает.|n|n|cFF00A5FF|nУрон: 0.4*|r|c00FF5555STR|r|cFF00A5FF за шар.|nКоличество шаров: 20.|nОглушение: 3 сек.|nПерезарядка: 25 сек.|r","Эйс создает огненные шары и запускает их в указанную область, наносит врагам урон и оглушает.|n|n|cFF00A5FF|nУрон: 0.7*|r|c00FF5555STR|r|cFF00A5FF за шар.|nКоличество шаров: 20.|nОглушение: 3 сек.|nПерезарядка: 25 сек.|r","Эйс создает огненные шары и запускает их в указанную область, наносит врагам урон и оглушает.|n|n|cFF00A5FF|nУрон: 1*|r|c00FF5555STR|r|cFF00A5FF за шар.|nКоличество шаров: 20.|nОглушение: 3 сек.|nПерезарядка: 25 сек.|r","Эйс создает огненные шары и запускает их в указанную область, наносит врагам урон и оглушает.|n|n|cFF00A5FF|nУрон: 1.3*|r|c00FF5555STR|r|cFF00A5FF за шар.|nКоличество шаров: 20.|nОглушение: 3 сек.|nПерезарядка: 25 сек.|r","Эйс создает огненные шары и запускает их в указанную область, наносит врагам урон и оглушает.|n|n|cFF00A5FF|nУрон: 1.6*|r|c00FF5555STR|r|cFF00A5FF за шар.|nКоличество шаров: 20.|nОглушение: 3 сек.|nПерезарядка: 25 сек.|r"
+Tip="호타루비 : 화달마, [|cffffcc00레벨 1|r] (|cffffcc00R|r)","호타루비 : 화달마, [|cffffcc00레벨 2|r] (|cffffcc00R|r)","호타루비 : 화달마, [|cffffcc00레벨 3|r] (|cffffcc00R|r)","호타루비 : 화달마, [|cffffcc00레벨 4|r] (|cffffcc00R|r)","호타루비 : 화달마, [|cffffcc00레벨 5|r] (|cffffcc00R|r)"
+Ubertip="에이스가 불덩이를 여러개 만들어 대상 지역에 발사하여 적에게 피해를 주고 기절시킵니다.|n|n|cFF00A5FF|n계수: 0.4*|r|c00FF5555STR|r|cFF00A5FF 불덩이 하나당.|n불덩이 개수: 20|n기절시간: 3초|n쿨타임: 25초|r","에이스가 불덩이를 여러개 만들어 대상 지역에 발사하여 적에게 피해를 주고 기절시킵니다.|n|n|cFF00A5FF|n계수: 0.7*|r|c00FF5555STR|r|cFF00A5FF 불덩이 하나당.|n불덩이 개수: 20|n기절시간: 3초|n쿨타임: 25초|r","에이스가 불덩이를 여러개 만들어 대상 지역에 발사하여 적에게 피해를 주고 기절시킵니다.|n|n|cFF00A5FF|n계수: 1*|r|c00FF5555STR|r|cFF00A5FF 불덩이 하나당.|n불덩이 개수: 20|n기절시간: 3초|n쿨타임: 25초|r","에이스가 불덩이를 여러개 만들어 대상 지역에 발사하여 적에게 피해를 주고 기절시킵니다.|n|n|cFF00A5FF|n계수: 1.3*|r|c00FF5555STR|r|cFF00A5FF 불덩이 하나당.|n불덩이 개수: 20|n기절시간: 3초|n쿨타임: 25초|r","에이스가 불덩이를 여러개 만들어 대상 지역에 발사하여 적에게 피해를 주고 기절시킵니다.|n|n|cFF00A5FF|n계수: 1.6*|r|c00FF5555STR|r|cFF00A5FF 불덩이 하나당.|n불덩이 개수: 20|n기절시간: 3초|n쿨타임: 25초|r"
 
 [A017]
 Animnames=spell,channe,two
@@ -481,7 +486,7 @@ Art=war3mapImported\BTNAce_Daienkai_Entei.blp
 Buttonpos=1,1
 Casterattach=origin
 Hotkey=T
-Name=Dai Enkai: Entei
+Name=대 엔카이 : 엔테이
 Order=channel
 ResearchArt=war3mapImported\BTNAce_Daienkai_Entei.blp
 Researchbuttonpos=1,1
@@ -489,8 +494,8 @@ Researchhotkey=T
 Researchtip="Entei, [|cffffcc00Уровень 1|r] (|cffffcc00T|r)"
 Researchubertip="Эйс создает гигантсий огненный шар и бросает его вперед, атакуя всех задетых противников.|n|n|cFF00A5FF|nУрон: 14*|r|c00FF5555STR|r|cFF00A5FF|nПерезарядка: 35 сек.|r"
 Targetattach=origin
-Tip="Dai Enkai: Enteii,  (|cffffcc00T|r)"
-Ubertip="Эйс создает гигантсий огненный шар и бросает его вперед, атакуя всех задетых противников.|n|n|cFF00A5FF|nУрон: 14*|r|c00FF5555STR|r|cFF00A5FF|nПерезарядка: 35 сек.|r"
+Tip="대 엔카이 : 엔테이,  (|cffffcc00T|r)"
+Ubertip="에이스가 거대한 불덩어리를 만들어 지정한 방향으로 던집니다. 이때 맞은적은 불덩어리와 함께 날아갑니다.|n|n|cFF00A5FF|n계수: 14*|r|c00FF5555STR|r|cFF00A5FF|n쿨타임: 35초|r"
 
 [A018]
 Animnames=Attack
@@ -498,15 +503,15 @@ Art=war3mapImported\BTNBoneWawe.blp
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=Wave of Bones
+Name=뼈의 파동
 Order=channel
 ResearchArt=war3mapImported\BTNBoneWawe.blp
 Researchhotkey=Q
 Researchtip="Wave of Bones, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip=Кимимаро атакует всех противников в указанном направлении и замедляет их на 50%.|n|n|cFF00A5FFЗатрачиваемая мана: 10\20\40\80\120 ед.|nУрон(мгновенно): 100\200\300\400\500+1\2\3\4\5*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 5 сек.|nПерезарядка: 20 сек.|r
 Targetattach=origin
-Tip="Wave of Bones, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","Wave of Bones, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","Wave of Bones, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","Wave of Bones, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","Wave of Bones, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip=Кимимаро атакует всех противников в указанном направлении и замедляет их на 50%.|n|n|cFF00A5FF|nУрон: 100+1*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 5 сек.|nПерезарядка: 20 сек.|r,Кимимаро атакует всех противников в указанном направлении и замедляет их на 50%.|n|n|cFF00A5FF|nУрон: 200+2*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 5 сек.|nПерезарядка: 20 сек.|r,Кимимаро атакует всех противников в указанном направлении и замедляет их на 50%.|n|n|cFF00A5FF|nУрон: 300+3*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 5 сек.|nПерезарядка: 20 сек.|r,Кимимаро атакует всех противников в указанном направлении и замедляет их на 50%.|n|n|cFF00A5FF|nУрон: 400+5*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 5 сек.|nПерезарядка: 20 сек.|r,Кимимаро атакует всех противников в указанном направлении и замедляет их на 50%.|n|n|cFF00A5FF|nУрон: 500+5*|r|c003CFF3CAGI|r|cFF00A5FF|nВремя действия: 5 сек.|nПерезарядка: 20 сек.|r
+Tip="뼈의 파동, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","뼈의 파동, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","뼈의 파동, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","뼈의 파동, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","뼈의 파동, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip=키미마로가 지정한 방향의 뼈의 파동을 쏘고 적중한적의 이동속도를 감소시킵니다.|n|n|cFF00A5FF|n계수: 100+1*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 5초|n쿨타임: 20초|r,키미마로가 지정한 방향의 뼈의 파동을 쏘고 적중한적의 이동속도를 감소시킵니다.|n|n|cFF00A5FF|n계수: 200+2*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 5초|n쿨타임: 20초|r,키미마로가 지정한 방향의 뼈의 파동을 쏘고 적중한적의 이동속도를 감소시킵니다.|n|n|cFF00A5FF|n계수: 300+3*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 5초|n쿨타임: 20초|r,키미마로가 지정한 방향의 뼈의 파동을 쏘고 적중한적의 이동속도를 감소시킵니다.|n|n|cFF00A5FF|n계수: 400+5*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 5초|n쿨타임: 20초|r,키미마로가 지정한 방향의 뼈의 파동을 쏘고 적중한적의 이동속도를 감소시킵니다.|n|n|cFF00A5FF|n계수: 500+5*|r|c003CFF3CAGI|r|cFF00A5FF|n지속시간: 5초|n쿨타임: 20초|r
 
 [A019]
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
@@ -522,7 +527,7 @@ Art=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
 Buttonpos=1,2
 Casterattach=origin
 Hotkey=W
-Name=Tsubaki no Mai
+Name=동백나무의 춤
 Order=channel
 ResearchArt=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
 Researchbuttonpos=1
@@ -530,34 +535,34 @@ Researchhotkey=W
 Researchtip="Tsubaki no Mai, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip="Кимимаро быстро вращается, атакует и отбрасывает всех противников вокруг.|n|n|cFF00A5FFУрон: 75\150\225\300\375 + 1\2\3\4\5*|r|c003CFF3CAGI|r|cFF00A5FF|nAoE: 350|nПерезарядка: 10 сек.|r"
 Targetattach=origin
-Tip="Tsubaki no Mai, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","Tsubaki no Mai, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","Tsubaki no Mai, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","Tsubaki no Mai, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","Tsubaki no Mai, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip="Кимимаро быстро вращается, атакует и отбрасывает всех противников вокруг.|n|n|cFF00A5FFУрон: 75 + 1*|r|c003CFF3CAGI|r|cFF00A5FF|nAoE: 350|nПерезарядка: 10 сек.|r","Кимимаро быстро вращается, атакует и отбрасывает всех противников вокруг.|n|n|cFF00A5FFУрон: 150 + 2*|r|c003CFF3CAGI|r|cFF00A5FF|nAoE: 350|nПерезарядка: 10 сек.|r","Кимимаро быстро вращается, атакует и отбрасывает всех противников вокруг.|n|n|cFF00A5FFУрон: 225 + 3*|r|c003CFF3CAGI|r|cFF00A5FF|nAoE: 350|nПерезарядка: 10 сек.|r","Кимимаро быстро вращается, атакует и отбрасывает всех противников вокруг.|n|n|cFF00A5FFУрон: 300 + 4*|r|c003CFF3CAGI|r|cFF00A5FF|nAoE: 350|nПерезарядка: 10 сек.|r","Кимимаро быстро вращается, атакует и отбрасывает всех противников вокруг.|n|n|cFF00A5FFУрон: 375 + 5*|r|c003CFF3CAGI|r|cFF00A5FF|nAoE: 350|nПерезарядка: 10 сек.|r"
+Tip="동백나무의 춤, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","동백나무의 춤, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","동백나무의 춤, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","동백나무의 춤, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","동백나무의 춤, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip="키미마로가 빠르게 회전하여 주변의 모든 적을 공격하며 밀쳐냅니다.|n|n|cFF00A5FF계수: 75 + 1*|r|c003CFF3CAGI|r|cFF00A5FF|n범위: 350|n쿨타임: 10초|r","키미마로가 빠르게 회전하여 주변의 모든 적을 공격하며 밀쳐냅니다.|n|n|cFF00A5FF계수: 150 + 2*|r|c003CFF3CAGI|r|cFF00A5FF|n범위: 350|n쿨타임: 10초|r","키미마로가 빠르게 회전하여 주변의 모든 적을 공격하며 밀쳐냅니다.|n|n|cFF00A5FF계수: 225 + 3*|r|c003CFF3CAGI|r|cFF00A5FF|n범위: 350|n쿨타임: 10초|r","키미마로가 빠르게 회전하여 주변의 모든 적을 공격하며 밀쳐냅니다.|n|n|cFF00A5FF계수: 300 + 4*|r|c003CFF3CAGI|r|cFF00A5FF|n범위: 350|n쿨타임: 10초|r","키미마로가 빠르게 회전하여 주변의 모든 적을 공격하며 밀쳐냅니다.|n|n|cFF00A5FF계수: 375 + 5*|r|c003CFF3CAGI|r|cFF00A5FF|n범위: 350|n쿨타임: 10초|r"
 
 [A01B]
 Art=war3mapImported\BTNKimiCursedSeal.blp
 Buttonpos=2,2
 Hotkey=E
-Name=Cursed Seal
+Name=주인 해방
 Order=metamorphosis
 ResearchArt=war3mapImported\BTNKimiCursedSeal.blp
 Researchbuttonpos=2
 Researchhotkey=E
 Researchtip="Cursed Seal, [|cffffcc00Уровень %d|r] (|cffffcc00E|r)"
 Researchubertip="Кимимаро активирует проклятую печать, увеличивая все свои боевые характерестики.|n|n|cFF00A5FFПерезарядка: 20\30\40\50\60 сек.|nВремя действия: 10\20\30\40\50 сек|r"
-Tip="Cursed Seal, [|cffffcc00Уровень 1|r] (|cffffcc00E|r)","Cursed Seal, [|cffffcc00Уровень 2|r] (|cffffcc00E|r)","Cursed Seal, [|cffffcc00Уровень 3|r] (|cffffcc00E|r)","Cursed Seal, [|cffffcc00Уровень 4|r] (|cffffcc00E|r)","Cursed Seal, [|cffffcc00Уровень 5|r] (|cffffcc00E|r)"
-Ubertip="Кимимаро активирует проклятую печать, увеличивая все свои боевые характерестики.|n|n|cFF00A5FFПерезарядка: 20 сек.|nВремя действия: 10 сек|r","Кимимаро активирует проклятую печать, увеличивая все свои боевые характерестики.|n|n|cFF00A5FFПерезарядка: 30 сек.|nВремя действия: 20 сек|r","Кимимаро активирует проклятую печать, увеличивая все свои боевые характерестики.|n|n|cFF00A5FFПерезарядка: 40 сек.|nВремя действия: 30 сек|r","Кимимаро активирует проклятую печать, увеличивая все свои боевые характерестики.|n|n|cFF00A5FFПерезарядка: 50 сек.|nВремя действия: 40 сек|r","Кимимаро активирует проклятую печать, увеличивая все свои боевые характерестики.|n|n|cFF00A5FFПерезарядка: 60 сек.|nВремя действия: 50 сек|r"
+Tip="주인 해방, [|cffffcc00레벨 1|r] (|cffffcc00E|r)","주인 해방, [|cffffcc00레벨 2|r] (|cffffcc00E|r)","주인 해방, [|cffffcc00레벨 3|r] (|cffffcc00E|r)","주인 해방, [|cffffcc00레벨 4|r] (|cffffcc00E|r)","주인 해방, [|cffffcc00레벨 5|r] (|cffffcc00E|r)"
+Ubertip="키미마로가 주인의 봉인을 해방하여 모든 전투 능력치를 증가시킵니다.|n|n|cFF00A5FF쿨타임: 20초|n지속시간: 10초|r","키미마로가 주인의 봉인을 해방하여 모든 전투 능력치를 증가시킵니다.|n|n|cFF00A5FF쿨타임: 30초|n지속시간: 20초|r","키미마로가 주인의 봉인을 해방하여 모든 전투 능력치를 증가시킵니다.|n|n|cFF00A5FF쿨타임: 40초|n지속시간: 30초|r","키미마로가 주인의 봉인을 해방하여 모든 전투 능력치를 증가시킵니다.|n|n|cFF00A5FF쿨타임: 50초|n지속시간: 40초|r","키미마로가 주인의 봉인을 해방하여 모든 전투 능력치를 증가시킵니다.|n|n|cFF00A5FF쿨타임: 60초|n지속시간: 50초|r"
 
 [A01C]
 Art=war3mapImported\BTNBone Armor.blp
 Buttonpos=1,1
-Name=Bone Armor
+Name=뼈 갑옷
 ResearchArt=war3mapImported\BTNBone Armor.blp
 Researchbuttonpos=3
 Researchhotkey=R
 Researchtip="Bone Armor, [|cffffcc00Уровень %d|r] (|cffffcc00R|r)"
 Researchubertip=Кости Кимимаро уменьшают получаемый им урон.|n|n|cFF00A5FFУрона поглащено: 5% - 10%\20%\30%\40%\50%|r
-Tip=Bone Armor
-Ubertip=Кости Кимимаро уменьшают получаемый им урон.|n|n|cFF00A5FFУрона поглащено: 5% - 50%|r
+Tip=뼈 갑옷
+Ubertip=키미마로의 뼈는 그가받는 피해를 줄입니다.|n|n|cFF00A5FF피해 흡수: 5% - 50%|r
 
 [A01D]
 Animnames=Spell Channel
@@ -565,7 +570,7 @@ Art=war3mapImported\BTNSawarabiNoMai.blp
 Buttonpos=2,1
 Casterattach=origin
 Hotkey=T
-Name=Sawarabi no Mai
+Name=고사리의 춤
 Order=channel
 ResearchArt=war3mapImported\BTNSawarabiNoMai.blp
 Researchbuttonpos=,1
@@ -573,8 +578,8 @@ Researchhotkey=T
 Researchtip="Sawarabi no Mai, [|cffffcc00Уровень 1|r] (|cffffcc00T|r)"
 Researchubertip=Кимимаро протыкает всех противников костями в радиусе 1000 нанося им урон и оглушая на 1 секунду.|n|n|cFF00A5FFУрон: 11*|r|c003CFF3CAGI|r|cFF00A5FF|nПерезарядка: 30 сек.|r
 Targetattach=origin
-Tip="Sawarabi no Mai, (|cffffcc00T|r)"
-Ubertip=Кимимаро протыкает всех противников костями в радиусе 1000 нанося им урон и оглушая на 1 секунду.|n|n|cFF00A5FFУрон: 11*|r|c003CFF3CAGI|r|cFF00A5FF|nПерезарядка: 30 сек.|r
+Tip="고사리의 춤, (|cffffcc00T|r)"
+Ubertip=키미마로가 범위 내의 모든 적을 뼈로 꿰뚫어 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF계수: 11*|r|c003CFF3CAGI|r|cFF00A5FF|n기절시간: 1초|n쿨타임: 30초|r
 
 [A01E]
 Animnames=Attack
@@ -582,7 +587,7 @@ Art=ReplaceableTextures\CommandButtons\BTNMukuro1_2.blp
 Buttonpos=1,2
 Casterattach=origin
 Hotkey=W
-Name=Illusion Fire Wawe
+Name=유환각 : 불의 물결
 Order=channel
 ResearchArt=ReplaceableTextures\CommandButtons\BTNMukuro1_2.blp
 Researchbuttonpos=1
@@ -590,8 +595,8 @@ Researchhotkey=W
 Researchtip="Illusion Fire Wawe, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip="Мукуро разламывает землю в указанном направлении, замедляя, поджигая и запрещая применять заклинания.|n|n|cFF00A5FF|nУрон: 50\100\150\200\250+2\3\4\5\6*|r|c00169EFAINT|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r"
 Targetattach=origin
-Tip="Illusion Fire Wawe, [|cffffcc00Уровень 1|r] (|cffffcc00W|r)","Illusion Fire Wawe, [|cffffcc00Уровень 2|r] (|cffffcc00W|r)","Illusion Fire Wawe, [|cffffcc00Уровень 3|r] (|cffffcc00W|r)","Illusion Fire Wawe, [|cffffcc00Уровень 4|r] (|cffffcc00W|r)","Illusion Fire Wawe, [|cffffcc00Уровень 5|r] (|cffffcc00W|r)"
-Ubertip="Мукуро разламывает землю в указанном направлении, замедляя, поджигая и запрещая применять заклинания.|n|n|cFF00A5FFЗ|nУрон: 50+2*|r|c00169EFAINT|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r","Мукуро разламывает землю в указанном направлении, замедляя, поджигая и запрещая применять заклинания.|n|n|cFF00A5FFЗ|nУрон: 100+3*|r|c00169EFAINT|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r","Мукуро разламывает землю в указанном направлении, замедляя, поджигая и запрещая применять заклинания.|n|n|cFF00A5FFЗ|nУрон: 150+4*|r|c00169EFAINT|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r","Мукуро разламывает землю в указанном направлении, замедляя, поджигая и запрещая применять заклинания.|n|n|cFF00A5FFЗ|nУрон: 200+5*|r|c00169EFAINT|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r","Мукуро разламывает землю в указанном направлении, замедляя, поджигая и запрещая применять заклинания.|n|n|cFF00A5FFЗ|nУрон: 250+6*|r|c00169EFAINT|r|cFF00A5FF|nВремя действия: 3 сек.|nПерезарядка: 20 сек.|r"
+Tip="유환각 : 불의 물결, [|cffffcc00레벨 1|r] (|cffffcc00W|r)","유환각 : 불의 물결, [|cffffcc00레벨 2|r] (|cffffcc00W|r)","유환각 : 불의 물결, [|cffffcc00레벨 3|r] (|cffffcc00W|r)","유환각 : 불의 물결, [|cffffcc00레벨 4|r] (|cffffcc00W|r)","유환각 : 불의 물결, [|cffffcc00레벨 5|r] (|cffffcc00W|r)"
+Ubertip="무쿠로가 지정 방향으로 일자로 불길을 쏴서 속도를 늦추고 화상과 침묵을 겁니다.|n|n|cFF00A5FFЗ|n계수: 50+2*|r|c00169EFAINT|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 20초|r","무쿠로가 지정 방향으로 일자로 불길을 쏴서 속도를 늦추고 화상과 침묵을 겁니다.|n|n|cFF00A5FFЗ|n계수: 100+3*|r|c00169EFAINT|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 20초|r","무쿠로가 지정 방향으로 일자로 불길을 쏴서 속도를 늦추고 화상과 침묵을 겁니다.|n|n|cFF00A5FFЗ|n계수: 150+4*|r|c00169EFAINT|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 20초|r","무쿠로가 지정 방향으로 일자로 불길을 쏴서 속도를 늦추고 화상과 침묵을 겁니다.|n|n|cFF00A5FFЗ|n계수: 200+5*|r|c00169EFAINT|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 20초|r","무쿠로가 지정 방향으로 일자로 불길을 쏴서 속도를 늦추고 화상과 침묵을 겁니다.|n|n|cFF00A5FFЗ|n계수: 250+6*|r|c00169EFAINT|r|cFF00A5FF|n지속시간: 3초|n쿨타임: 20초|r"
 
 [A01F]
 Animnames=Spell,Slam
@@ -599,15 +604,15 @@ Art=war3mapImported\BTNDragon.blp
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=White Dragon
+Name=하얀 용
 Order=channel
 ResearchArt=war3mapImported\BTNDragon.blp
 Researchhotkey=Q
 Researchtip="White Dragon, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip=Бьякуран создает дракона из пламени и атакует им противников и оглушает на 2 сек.|n|n|cFF00A5FF|nУрон: 75\150\225\300\375 + 1\2\3\4\5*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 15 сек.|r
 Targetattach=origin
-Tip="White Dragon, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","White Dragon, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","White Dragon, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","White Dragon, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","White Dragon, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip=Бьякуран создает дракона из пламени и атакует им противников и оглушает на 2 сек.|n|n|cFF00A5FF|nУрон: 75 + 1*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 15 сек.|r,Бьякуран создает дракона из пламени и атакует им противников и оглушает на 2 сек.|n|n|cFF00A5FF|nУрон: 150 + 2*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 15 сек.|r,Бьякуран создает дракона из пламени и атакует им противников и оглушает на 2 сек.|n|n|cFF00A5FF|nУрон: 225 + 3*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 15 сек.|r,Бьякуран создает дракона из пламени и атакует им противников и оглушает на 2 сек.|n|n|cFF00A5FF|nУрон: 300 + 4*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 15 сек.|r,Бьякуран создает дракона из пламени и атакует им противников и оглушает на 2 сек.|n|n|cFF00A5FF|nУрон: 375 + 5*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 15 сек.|r
+Tip="하얀 용, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","하얀 용, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","하얀 용, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","하얀 용, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","하얀 용, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip=백란이 화염에서 용을 만들어 지정한 방향으로 날리고 적을 공격하여 기절시킵니다.|n|n|cFF00A5FF|n계수: 75 + 1*|r|c00169EFAINT|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 15초|r,백란이 화염에서 용을 만들어 지정한 방향으로 날리고 적을 공격하여 기절시킵니다.|n|n|cFF00A5FF|n계수: 150 + 2*|r|c00169EFAINT|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 15초|r,백란이 화염에서 용을 만들어 지정한 방향으로 날리고 적을 공격하여 기절시킵니다.|n|n|cFF00A5FF|n계수: 225 + 3*|r|c00169EFAINT|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 15초|r,백란이 화염에서 용을 만들어 지정한 방향으로 날리고 적을 공격하여 기절시킵니다.|n|n|cFF00A5FF|n계수: 300 + 4*|r|c00169EFAINT|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 15초|r,백란이 화염에서 용을 만들어 지정한 방향으로 날리고 적을 공격하여 기절시킵니다.|n|n|cFF00A5FF|n계수: 375 + 5*|r|c00169EFAINT|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 15초|r
 
 [A01G]
 Art=ReplaceableTextures\CommandButtons\BTNRunedBracers.blp
@@ -619,15 +624,15 @@ Art=war3mapImported\BTNLuffy_Gomu_Gomu_no_Jet_Bazooka.blp
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=Jet Bazooka \ Magnum Grizzly
+Name=제트 바주카 \ 그리즐리 매그넘
 Order=channel
 ResearchArt=war3mapImported\BTNLuffy_Gomu_Gomu_no_Jet_Bazooka.blp
 Researchhotkey=Q
 Researchtip="Jet Bazooka \ Magnum Grizzly, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip="Луффи бьет противника двумя руками, отталкивает и оглушает.|n|n|n|cFF00A5FFУрон: 1\2\3\4\5*|r|c003CFF3CAGI|r|cFF00A5FF  +10%От Max HP противника|nВремя действия: 2 сек.|nПерезарядка: 20 сек.|r"
 Targetattach=origin
-Tip="Jet Bazooka \ Magnum Grizzly, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","Jet Bazooka \ Magnum Grizzly, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","Jet Bazooka \ Magnum Grizzly, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","Jet Bazooka \ Magnum Grizzly, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","Jet Bazooka \ Magnum Grizzly, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip="Луффи бьет противника двумя руками, отталкивает и оглушает.|n|n|n|cFF00A5FFУрон: 1*|r|c003CFF3CAGI|r|cFF00A5FF +10%От Max HP противника|nВремя действия: 2 сек.|nПерезарядка: 20 сек.|r","Луффи бьет противника двумя руками, отталкивает и оглушает.|n|n|n|cFF00A5FFУрон: 2*|r|c003CFF3CAGI|r|cFF00A5FF  +10%От Max HP противника|nВремя действия: 2 сек.|nПерезарядка: 20 сек.|r","Луффи бьет противника двумя руками, отталкивает и оглушает.|n|n|n|cFF00A5FFУрон: 3*|r|c003CFF3CAGI|r|cFF00A5FF +10%От Max HP противника|nВремя действия: 2 сек.|nПерезарядка: 20 сек.|r","Луффи бьет противника двумя руками, отталкивает и оглушает.|n|n|n|cFF00A5FFУрон: 4*|r|c003CFF3CAGI|r|cFF00A5FF +10%От Max HP противника|nВремя действия: 2 сек.|nПерезарядка: 20 сек.|r","Луффи бьет противника двумя руками, отталкивает и оглушает.|n|n|n|cFF00A5FFУрон: 5*|r|c003CFF3CAGI|r|cFF00A5FF +10%От Max HP противника|nВремя действия: 2 сек.|nПерезарядка: 20 сек.|r"
+Tip="제트 바주카 \ 그리즐리 매그넘, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","제트 바주카 \ 그리즐리 매그넘, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","제트 바주카 \ 그리즐리 매그넘, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","제트 바주카 \ 그리즐리 매그넘, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","제트 바주카 \ 그리즐리 매그넘, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip="루피는 양손으로 지정한 적을 가격하고 뒤로 밀쳐내며 기절시킵니다.|n|n|n|cFF00A5FF계수: 1*|r|c003CFF3CAGI|r|cFF00A5FF +상대 최대체력의 10%|n기절시간: 2초|n쿨타임: 20초|r","루피는 양손으로 지정한 적을 가격하고 뒤로 밀쳐내며 기절시킵니다.|n|n|n|cFF00A5FF계수: 2*|r|c003CFF3CAGI|r|cFF00A5FF +상대 최대체력의 10%|n기절시간: 2초|n쿨타임: 20초|r","루피는 양손으로 지정한 적을 가격하고 뒤로 밀쳐내며 기절시킵니다.|n|n|n|cFF00A5FF계수: 3*|r|c003CFF3CAGI|r|cFF00A5FF +상대 최대체력의 10%|n기절시간: 2초|n쿨타임: 20초|r","루피는 양손으로 지정한 적을 가격하고 뒤로 밀쳐내며 기절시킵니다.|n|n|n|cFF00A5FF계수: 4*|r|c003CFF3CAGI|r|cFF00A5FF +상대 최대체력의 10%|n기절시간: 2초|n쿨타임: 20초|r","루피는 양손으로 지정한 적을 가격하고 뒤로 밀쳐내며 기절시킵니다.|n|n|n|cFF00A5FF계수: 5*|r|c003CFF3CAGI|r|cFF00A5FF +상대 최대체력의 10%|n기절시간: 2초|n쿨타임: 20초|r"
 
 [A01I]
 Animnames=spell,throw
@@ -650,7 +655,7 @@ Art=ReplaceableTextures\CommandButtons\BTNByakuran6.blp
 Buttonpos=1,1
 Casterattach=origin
 Hotkey=T
-Name=Final Strike
+Name=검은 불꽃
 Order=channel
 ResearchArt=ReplaceableTextures\CommandButtons\BTNByakuran6.blp
 Researchbuttonpos=,1
@@ -658,8 +663,8 @@ Researchhotkey=T
 Researchtip="Final Strike, [|cffffcc00Уровень 1|r] (|cffffcc00T|r)"
 Researchubertip=Самая мощнейшая атака бьякурана.|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFЗатрачиваемая мана (5% ед. в сек.)|nУрон: 4*|r|c00169EFAINT|r|cFF00A5FF каждую секунду.|nДальность: 1950|nAoE: 230|nВремя действия: 4 сек.|nПерезарядка: 40 сек.|r
 Targetattach=origin
-Tip="Final Strike, [|cffffcc00Уровень 1|r] (|cffffcc00T|r)"
-Ubertip=Самая мощнейшая атака бьякурана.|n|n|cFFFF0000Channeling|r|n|n|cFF00A5FFЗатрачиваемая мана (5% ед. в сек.)|nУрон: 4*|r|c00169EFAINT|r|cFF00A5FF каждую секунду.|nДальность: 1950|nAoE: 230|nВремя действия: 4 сек.|nПерезарядка: 40 сек.|r
+Tip="검은 불꽃, [|cffffcc00레벨 1|r] (|cffffcc00T|r)"
+Ubertip=백란이 지정한 방향으로 검은 불꽃기둥을 분출한다.|n|n|cFFFF0000채널링|r|n|n|cFF00A5FF초당 소모마나: 5%.|n계수: 4*|r|c00169EFAINT|r|cFF00A5FF 매초마다.|n사거리 1950|n범위: 230|n지속시간: 4초|n쿨타임: 40초|r
 
 [A01N]
 Animnames=Attack,2
@@ -667,7 +672,7 @@ Art=war3mapImported\BTNWhite_Finger.blp
 Buttonpos=1,2
 Casterattach=origin
 Hotkey=W
-Name=White Finger
+Name=하얀 손가락
 Order=channel
 ResearchArt=war3mapImported\BTNWhite_Finger.blp
 Researchbuttonpos=1
@@ -675,8 +680,8 @@ Researchhotkey=W
 Researchtip="White Finger, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip="Бьякуран набирает пламе в кольце и выстреливает им в противника, наносит урон, отталкивает и замедляет.|n|n|cFF00A5FF|nУрон: 3\4\5\6\7*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1000.|nЗамедление: 30% на 3 сек.|nПерезарядка: 15 сек.|r"
 Targetattach=origin
-Tip="White Finger, [|cffffcc00Уровень 1|r] (|cffffcc00W|r)","White Finger, [|cffffcc00Уровень 2|r] (|cffffcc00W|r)","White Finger, [|cffffcc00Уровень 3|r] (|cffffcc00W|r)","White Finger, [|cffffcc00Уровень 4|r] (|cffffcc00W|r)","White Finger, [|cffffcc00Уровень 5|r] (|cffffcc00W|r)"
-Ubertip="Бьякуран набирает пламе в кольце и выстреливает им в противника, наносит урон, отталкивает и замедляет.|n|n|cFF00A5FF|nУрон: 3*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1000.|nЗамедление: 30% на 3 сек.|nПерезарядка: 15 сек.|r","Бьякуран набирает пламе в кольце и выстреливает им в противника, наносит урон, отталкивает и замедляет.|n|n|cFF00A5FF|nУрон: 4*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1000.|nЗамедление: 30% на 3 сек.|nПерезарядка: 15 сек.|r","Бьякуран набирает пламе в кольце и выстреливает им в противника, наносит урон, отталкивает и замедляет.|n|n|cFF00A5FF|nУрон: 5*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1000.|nЗамедление: 30% на 3 сек.|nПерезарядка: 15 сек.|r","Бьякуран набирает пламе в кольце и выстреливает им в противника, наносит урон, отталкивает и замедляет.|n|n|cFF00A5FF|nУрон: 6*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1000.|nЗамедление: 30% на 3 сек.|nПерезарядка: 15 сек.|r","Бьякуран набирает пламе в кольце и выстреливает им в противника, наносит урон, отталкивает и замедляет.|n|n|cFF00A5FF|nУрон: 7*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1000.|nЗамедление: 30% на 3 сек.|nПерезарядка: 15 сек.|r"
+Tip="하얀 손가락, [|cffffcc00레벨 1|r] (|cffffcc00W|r)","하얀 손가락, [|cffffcc00레벨 2|r] (|cffffcc00W|r)","하얀 손가락, [|cffffcc00레벨 3|r] (|cffffcc00W|r)","하얀 손가락, [|cffffcc00레벨 4|r] (|cffffcc00W|r)","하얀 손가락, [|cffffcc00레벨 5|r] (|cffffcc00W|r)"
+Ubertip="백란이 반지에 화염을 모아 지정한 적에게 발사하여 피해를 입히며 뒤로 밀고 둔화시킵니다.|n|n|cFF00A5FF|n계수: 3*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1000.|n이동속도감소: 30% 3초|n쿨타임: 15초|r","백란이 반지에 화염을 모아 지정한 적에게 발사하여 피해를 입히며 뒤로 밀고 둔화시킵니다.|n|n|cFF00A5FF|n계수: 4*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1000.|n이동속도감소: 30% 3초|n쿨타임: 15초|r","백란이 반지에 화염을 모아 지정한 적에게 발사하여 피해를 입히며 뒤로 밀고 둔화시킵니다.|n|n|cFF00A5FF|n계수: 5*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1000.|n이동속도감소: 30% 3초|n쿨타임: 15초|r","백란이 반지에 화염을 모아 지정한 적에게 발사하여 피해를 입히며 뒤로 밀고 둔화시킵니다.|n|n|cFF00A5FF|n계수: 6*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1000.|n이동속도감소: 30% 3초|n쿨타임: 15초|r","백란이 반지에 화염을 모아 지정한 적에게 발사하여 피해를 입히며 뒤로 밀고 둔화시킵니다.|n|n|cFF00A5FF|n계수: 7*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1000.|n이동속도감소: 30%  3초|n쿨타임: 15초|r"
 
 [A01O]
 Animnames=spell,one,two
@@ -707,15 +712,15 @@ Art=war3mapImported\BTNEnel_20mVolt.blp
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=20.000.000 Volt
+Name=20.000.000 볼트
 Order=channel
 ResearchArt=war3mapImported\BTNEnel_20mVolt.blp
 Researchhotkey=Q
 Researchtip="20.000.000 Volt, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip=Энель создает поток электричества  в указанном направлении.|n|n|cFF00A5FF|nУрон: 75\100\125\150\175+2\3\4\5\6*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 20 сек.|r
 Targetattach=origin
-Tip="20.000.000 Volt, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","20.000.000 Volt, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","20.000.000 Volt, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","20.000.000 Volt, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","20.000.000 Volt, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip=Энель создает поток электричества  в указанном направлении.|n|n|cFF00A5FFЗатрачиваемая мана: 10 ед.|nУрон: 50+1*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 20 сек.|r,Энель создает поток электричества  в указанном направлении.|n|n|cFF00A5FFЗатрачиваемая мана: 20 ед.|nУрон: 100+2*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 20 сек.|r,Энель создает поток электричества  в указанном направлении.|n|n|cFF00A5FFЗатрачиваемая мана: 40 ед.|nУрон: 150+3*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 20 сек.|r,Энель создает поток электричества  в указанном направлении.|n|n|cFF00A5FFЗатрачиваемая мана: 80 ед.|nУрон: 200+4*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 20 сек.|r,Энель создает поток электричества  в указанном направлении.|n|n|cFF00A5FFЗатрачиваемая мана: 120 ед.|nУрон: 250+5*|r|c00169EFAINT|r|cFF00A5FF|nПерезарядка: 20 сек.|r
+Tip="20.000.000 볼트, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","20.000.000 볼트, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","20.000.000 볼트, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","20.000.000 볼트, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","20.000.000 볼트, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip=에넬이 지정한 방향으로 일자로 전기를 방출합니다.|n|n|cFF00A5FF|n계수: 50+1*|r|c00169EFAINT|r|cFF00A5FF|n쿨타임: 20초|r,에넬이 지정한 방향으로 일자로 전기를 방출합니다.|n|n|cFF00A5FF|n계수: 100+2*|r|c00169EFAINT|r|cFF00A5FF|n쿨타임: 20초|r,에넬이 지정한 방향으로 일자로 전기를 방출합니다.|n|n|cFF00A5FF|n계수: 150+3*|r|c00169EFAINT|r|cFF00A5FF|n쿨타임: 20초|r,에넬이 지정한 방향으로 일자로 전기를 방출합니다.|n|n|cFF00A5FF|n계수: 200+4*|r|c00169EFAINT|r|cFF00A5FF|n쿨타임: 20초|r,에넬이 지정한 방향으로 일자로 전기를 방출합니다.|n|n|cFF00A5FF|n계수: 250+5*|r|c00169EFAINT|r|cFF00A5FF|n쿨타임: 20초|r
 
 [A01U]
 Animnames=Attack,2
@@ -723,7 +728,7 @@ Art=war3mapImported\BTNEnel_60mVolt.blp
 Buttonpos=1,2
 Casterattach=origin
 Hotkey=W
-Name=60.000.000 Volt
+Name=60.000.000 볼트
 Order=channel
 ResearchArt=war3mapImported\BTNEnel_60mVolt.blp
 Researchbuttonpos=1
@@ -731,8 +736,8 @@ Researchhotkey=W
 Researchtip="60.000.000 Volt, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip="Энель создает птицу из электричества  и атакует ей противника, нанося урон и оглушая.|n|n|cFF00A5FF|nОглушение: 4 сек.|nУрон: 3\4\5\6\7*|r|c00169EFAINT|r|cFF00A5FF.|nПерезарядка: 15 сек.|r"
 Targetattach=origin
-Tip="60.000.000 Volt, [|cffffcc00Уровень 1|r] (|cffffcc00W|r)","60.000.000 Volt, [|cffffcc00Уровень 2|r] (|cffffcc00W|r)","60.000.000 Volt, [|cffffcc00Уровень 3|r] (|cffffcc00W|r)","60.000.000 Volt, [|cffffcc00Уровень 4|r] (|cffffcc00W|r)","60.000.000 Volt, [|cffffcc00Уровень 5|r] (|cffffcc00W|r)"
-Ubertip="Энель создает птицу из электричества  и атакует ей противника, нанося урон и оглушая.|n|n|cFF00A5FF|nОглушение: 2 сек.|nУрон: 3*|r|c00169EFAINT|r|cFF00A5FF.|nПерезарядка: 15 сек.|r","Энель создает птицу из электричества  и атакует ей противника, нанося урон и оглушая.|n|n|cFF00A5FF|nОглушение: 2 сек.|nУрон: 4*|r|c00169EFAINT|r|cFF00A5FF.|nПерезарядка: 15 сек.|r","Энель создает птицу из электричества  и атакует ей противника, нанося урон и оглушая.|n|n|cFF00A5FF|nОглушение: 2 сек.|nУрон: 5*|r|c00169EFAINT|r|cFF00A5FF.|nПерезарядка: 15 сек.|r","Энель создает птицу из электричества  и атакует ей противника, нанося урон и оглушая.|n|n|cFF00A5FF|nОглушение: 2 сек.|nУрон: 6*|r|c00169EFAINT|r|cFF00A5FF.|nПерезарядка: 15 сек.|r","Энель создает птицу из электричества  и атакует ей противника, нанося урон и оглушая.|n|n|cFF00A5FF|nОглушение: 2 сек.|nУрон: 7*|r|c00169EFAINT|r|cFF00A5FF.|nПерезарядка: 15 сек.|r"
+Tip="60.000.000 볼트, [|cffffcc00레벨 1|r] (|cffffcc00W|r)","60.000.000 볼트, [|cffffcc00레벨 2|r] (|cffffcc00W|r)","60.000.000 볼트, [|cffffcc00레벨 3|r] (|cffffcc00W|r)","60.000.000 볼트, [|cffffcc00레벨 4|r] (|cffffcc00W|r)","60.000.000 볼트, [|cffffcc00레벨 5|r] (|cffffcc00W|r)"
+Ubertip="에넬이 전기의 새를 만들어 지정한 적을 공격하며 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF|n기절시간: 2초|n계수: 3*|r|c00169EFAINT|r|cFF00A5FF.|n쿨타임: 15초|r","에넬이 전기의 새를 만들어 지정한 적을 공격하며 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF|n기절시간: 2초|n계수: 4*|r|c00169EFAINT|r|cFF00A5FF.|n쿨타임: 15초|r","에넬이 전기의 새를 만들어 지정한 적을 공격하며 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF|n기절시간: 2초|n계수: 5*|r|c00169EFAINT|r|cFF00A5FF.|n쿨타임: 15초|r","에넬이 전기의 새를 만들어 지정한 적을 공격하며 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF|n기절시간: 2초|n계수: 6*|r|c00169EFAINT|r|cFF00A5FF.|n쿨타임: 15초|r","에넬이 전기의 새를 만들어 지정한 적을 공격하며 피해를 입히고 기절시킵니다.|n|n|cFF00A5FF|n기절시간: 2초|n계수: 7*|r|c00169EFAINT|r|cFF00A5FF.|n쿨타임: 15초|r"
 
 [A01V]
 Animnames=Spell
@@ -740,7 +745,7 @@ Art=war3mapImported\BTNEnel-100000000voltvari.blp
 Buttonpos=2,2
 Casterattach=origin
 Hotkey=E
-Name=100.000.000 Volt
+Name=100.000.000 볼트
 Order=channel
 ResearchArt=war3mapImported\BTNEnel-100000000voltvari.blp
 Researchbuttonpos=2
@@ -748,20 +753,20 @@ Researchhotkey=E
 Researchtip="100.000.000 Volt, [|cffffcc00Уровень %d|r] (|cffffcc00E|r)"
 Researchubertip=Энель мгновенно перемещается к врагу и наносит ему урон и все ближайшим врагам.|n|n|cFF00A5FF|nУрон: 4\5\6\7\8*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1350|nAoE: 400|nПерезарядка: 21 сек.|r
 Targetattach=origin
-Tip="100.000.000 Volt, [|cffffcc00Уровень 1|r] (|cffffcc00E|r)","100.000.000 Volt, [|cffffcc00Уровень 2|r] (|cffffcc00E|r)","100.000.000 Volt, [|cffffcc00Уровень 3|r] (|cffffcc00E|r)","100.000.000 Volt, [|cffffcc00Уровень 4|r] (|cffffcc00E|r)","100.000.000 Volt, [|cffffcc00Уровень 5|r] (|cffffcc00E|r)"
-Ubertip=Энель мгновенно перемещается к врагу и наносит ему урон и все ближайшим врагам.|n|n|cFF00A5FF|nУрон: 4*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1350|nAoE: 400|nПерезарядка: 21 сек.|r,Энель мгновенно перемещается к врагу и наносит ему урон и все ближайшим врагам.|n|n|cFF00A5FF|nУрон: 5*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1350|nAoE: 400|nПерезарядка: 21 сек.|r,Энель мгновенно перемещается к врагу и наносит ему урон и все ближайшим врагам.|n|n|cFF00A5FF|nУрон: 6*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1350|nAoE: 400|nПерезарядка: 21 сек.|r,Энель мгновенно перемещается к врагу и наносит ему урон и все ближайшим врагам.|n|n|cFF00A5FF|nУрон: 7*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1350|nAoE: 400|nПерезарядка: 21 сек.|r,Энель мгновенно перемещается к врагу и наносит ему урон и все ближайшим врагам.|n|n|cFF00A5FF|nУрон: 8*|r|c00169EFAINT|r|cFF00A5FF.|nДальность: 1350|nAoE: 400|nПерезарядка: 21 сек.|r
+Tip="100.000.000 볼트, [|cffffcc00레벨 1|r] (|cffffcc00E|r)","100.000.000 볼트, [|cffffcc00레벨 2|r] (|cffffcc00E|r)","100.000.000 볼트, [|cffffcc00레벨 3|r] (|cffffcc00E|r)","100.000.000 볼트, [|cffffcc00레벨 4|r] (|cffffcc00E|r)","100.000.000 볼트, [|cffffcc00레벨 5|r] (|cffffcc00E|r)"
+Ubertip=에넬이 지정한 위치로 이동하여 주변의 모든 적에게 피해를 줍니다.|n|n|cFF00A5FF|n계수: 4*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1350|n범위: 400|n쿨타임: 21초|r,에넬이 지정한 위치로 이동하여 주변의 모든 적에게 피해를 줍니다.|n|n|cFF00A5FF|n계수: 5*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1350|n범위: 400|n쿨타임: 21초|r,에넬이 지정한 위치로 이동하여 주변의 모든 적에게 피해를 줍니다.|n|n|cFF00A5FF|n계수: 6*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1350|n범위: 400|n쿨타임: 21초|r,에넬이 지정한 위치로 이동하여 주변의 모든 적에게 피해를 줍니다.|n|n|cFF00A5FF|n계수: 7*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1350|n범위: 400|n쿨타임: 21초|r,에넬이 지정한 위치로 이동하여 주변의 모든 적에게 피해를 줍니다.|n|n|cFF00A5FF|n계수: 8*|r|c00169EFAINT|r|cFF00A5FF.|n사거리: 1350|n범위: 400|n쿨타임: 21초|r
 
 [A01W]
 Art=war3mapImported\BTNEnel-one-peace-serial.blp
 Buttonpos=3,2
-Name=Mantra
+Name=만트라
 ResearchArt=war3mapImported\BTNEnel-one-peace-serial.blp
 Researchbuttonpos=3
 Researchhotkey=R
 Researchtip="Mantra, [|cffffcc00Уровень %d|r] (|cffffcc00R|r)"
 Researchubertip=Способность энеля предсказывать атаки врага и уворачиваться от них.|n|n|cFF00A5FFШанс: 5%\10%\15%\20%\25%|nЗатраты маны: 50% от урона
-Tip="Mantra, [|cffffcc00Уровень 1|r]","Mantra, [|cffffcc00Уровень 2|r]","Mantra, [|cffffcc00Уровень 3|r]","Mantra, [|cffffcc00Уровень 4|r]","Mantra, [|cffffcc00Уровень 5|r]"
-Ubertip=Способность энеля предсказывать атаки врага и уворачиваться от них.|n|n|cFF00A5FFШанс: 5%|nЗатраты маны: 50% от урона,Способность энеля предсказывать атаки врага и уворачиваться от них.|n|n|cFF00A5FFШанс: 10%|nЗатраты маны: 50% от урона,Способность энеля предсказывать атаки врага и уворачиваться от них.|n|n|cFF00A5FFШанс15%|nЗатраты маны: 50% от урона,Способность энеля предсказывать атаки врага и уворачиваться от них.|n|n|cFF00A5FFШанс: 20%|nЗатраты маны: 50% от урона,Способность энеля предсказывать атаки врага и уворачиваться от них.|n|n|cFF00A5FFШанс: 25%|nЗатраты маны: 50% от урона
+Tip="만트라, [|cffffcc00레벨 1|r]","만트라, [|cffffcc00레벨 2|r]","만트라, [|cffffcc00레벨 3|r]","만트라, [|cffffcc00레벨 4|r]","만트라, [|cffffcc00레벨 5|r]"
+Ubertip=에넬이 적의 공격을 예측하고 회피합니다.|n|n|cFF00A5FF회피확률: 5%|n마나소모: 회피한 피해의 50%,에넬이 적의 공격을 예측하고 회피합니다.|n|n|cFF00A5FF회피확률: 10%|n마나소모: 회피한 피해의 50%,에넬이 적의 공격을 예측하고 회피합니다.|n|n|cFF00A5FF회피확률: 15%|n마나소모: 회피한 피해의 50%,에넬이 적의 공격을 예측하고 회피합니다.|n|n|cFF00A5FF회피확률: 20%|n마나소모: 회피한 피해의 50%,에넬이 적의 공격을 예측하고 회피합니다.|n|n|cFF00A5FF회피확률: 25%|n마나소모: 회피한 피해의 50%
 
 [A01X]
 Animnames=Spell,Four
@@ -769,7 +774,7 @@ Art=war3mapImported\BTNEnel_Raigo.blp
 Buttonpos=1,1
 Casterattach=origin
 Hotkey=T
-Name=Raigo
+Name=뇌영
 Order=channel
 ResearchArt=war3mapImported\BTNEnel_Raigo.blp
 Researchbuttonpos=,1
@@ -777,8 +782,9 @@ Researchhotkey=T
 Researchtip="Raigo,  (|cffffcc00T|r)"
 Researchubertip="Энель создает гигантскую электрическую сферу, которая наносит урон и оглушает врагов в указанной области при накоплении полного заряда, когда взрывается.|n|n|cFF00A5FFВремя действия: 2 сек.|nУрон: 8*|r|c00169EFAINT|r|cFF00A5FF + 5*|r|c00169EFAINT|r|cFF00A5FF за 2 секунды,|nОглушение: 1.5 сек.|nПерезарядка: 35 сек.|r"
 Targetattach=origin
-Tip="Raigo,  (|cffffcc00T|r)"
-Ubertip="Энель создает гигантскую электрическую сферу, которая наносит урон и оглушает врагов в указанной области при накоплении полного заряда, когда взрывается.|n|n|cFF00A5FFВремя действия: 2 сек.|nУрон: 8*|r|c00169EFAINT|r|cFF00A5FF + 5*|r|c00169EFAINT|r|cFF00A5FF за 2 секунды,|nОглушение: 1.5 сек.|nПерезарядка: 35 сек.|r"
+Tip="뇌영,  (|cffffcc00T|r)"
+Ubertip=
+"에넬이 최대 2초동안 모을수있는 거대한 번개 구체를 지정한 위치에 만들어냅니다.|n|n|cFF00A5FF지속시간: 2초|n계수: 8*|r|c00169EFAINT|r|cFF00A5FF + 5*|r|c00169EFAINT|r|cFF00A5FF 2초후|n기절시간: 1.5초|n쿨타임: 35초|r"
 
 [A01Z]
 Art=war3mapImported\BTNBodyFicker.blp
@@ -798,7 +804,7 @@ Art=war3mapImported\BTNKunai.blp
 Buttonpos=1,2
 Casterattach=origin
 Hotkey=W
-Name=Kunai
+Name=쿠나이
 Order=channel
 ResearchArt=war3mapImported\BTNKunai.blp
 Researchbuttonpos=1
@@ -806,22 +812,22 @@ Researchhotkey=W
 Researchtip="Kunai, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip="Минато кидает кунай в указанное направление и может в любой момент к нему телепортироваться, кунай остается еще на месте 6 сек.|n|n|cFF00A5FF|nУрон(мгновенно): 50\100\150\200\250+1\2\3\4\5*|r|c003CFF3CAGI|r|cFF00A5FF|nПерезарядка: 11\10\9\8\7 сек.|r"
 Targetattach=origin
-Tip="Kunai, [|cffffcc00Уровень 1|r] (|cffffcc00W|r)","Kunai, [|cffffcc00Уровень 2|r] (|cffffcc00W|r)","Kunai, [|cffffcc00Уровень 3|r] (|cffffcc00W|r)","Kunai, [|cffffcc00Уровень 4|r] (|cffffcc00W|r)","Kunai, [|cffffcc00Уровень 5|r] (|cffffcc00W|r)"
-Ubertip="Минато кидает кунай в указанное направление и может в любой момент к нему телепортироваться, кунай остается еще на месте 6 сек.|n|n|cFF00A5FF|nУрон(мгновенно): 50+1*|r|c003CFF3CAGI|r|cFF00A5FF|nПерезарядка: 11 сек.|r","Минато кидает кунай в указанное направление и может в любой момент к нему телепортироваться, кунай остается еще на месте 6 сек.|n|n|cFF00A5FF|nУрон(мгновенно): 100+2*|r|c003CFF3CAGI|r|cFF00A5FF|nПерезарядка: 10 сек.|r","Минато кидает кунай в указанное направление и может в любой момент к нему телепортироваться, кунай остается еще на месте 6 сек.|n|n|cFF00A5FF|nУрон(мгновенно): 150+3*|r|c003CFF3CAGI|r|cFF00A5FF|nПерезарядка: 9 сек.|r","Минато кидает кунай в указанное направление и может в любой момент к нему телепортироваться, кунай остается еще на месте 6 сек.|n|n|cFF00A5FF|nУрон(мгновенно): 200+4*|r|c003CFF3CAGI|r|cFF00A5FF|nПерезарядка: 8 сек.|r","Минато кидает кунай в указанное направление и может в любой момент к нему телепортироваться, кунай остается еще на месте 6 сек.|n|n|cFF00A5FF|nУрон(мгновенно): 250+5*|r|c003CFF3CAGI|r|cFF00A5FF|nПерезарядка: 7 сек.|r"
+Tip="쿠나이, [|cffffcc00레벨 1|r] (|cffffcc00W|r)","쿠나이, [|cffffcc00레벨 2|r] (|cffffcc00W|r)","쿠나이, [|cffffcc00레벨 3|r] (|cffffcc00W|r)","쿠나이, [|cffffcc00레벨 4|r] (|cffffcc00W|r)","쿠나이, [|cffffcc00레벨 5|r] (|cffffcc00W|r)"
+Ubertip="미나토가 지정된 방향으로 쿠나이를 던지고 언제든지 순간이동할 수 있습니다.|n|n|cFF00A5FF|n지속시간: 6초|n계수: 50+1*|r|c003CFF3CAGI|r|cFF00A5FF|n쿨타임: 11초|r","미나토가 지정된 방향으로 쿠나이를 던지고 언제든지 순간이동할 수 있습니다.|n|n|cFF00A5FF|n지속시간: 6초|n계수: 100+2*|r|c003CFF3CAGI|r|cFF00A5FF|n쿨타임: 10초|r","미나토가 지정된 방향으로 쿠나이를 던지고 언제든지 순간이동할 수 있습니다.|n|n|cFF00A5FF|n지속시간: 6초|n계수: 150+3*|r|c003CFF3CAGI|r|cFF00A5FF|n쿨타임: 9초|r","미나토가 지정된 방향으로 쿠나이를 던지고 언제든지 순간이동할 수 있습니다.|n|n|cFF00A5FF|n지속시간: 6초|n계수: 200+4*|r|c003CFF3CAGI|r|cFF00A5FF|n쿨타임: 8초|r","미나토가 지정된 방향으로 쿠나이를 던지고 언제든지 순간이동할 수 있습니다.|n|n|cFF00A5FF|n지속시간: 6초|n계수: 250+5*|r|c003CFF3CAGI|r|cFF00A5FF|n쿨타임: 7초|r"
 
 [A022]
 Art=ReplaceableTextures\CommandButtons\BTNMinatoF.blp
 Buttonpos=1,1
 Hotkey=F
-Name=Hiraishin no Jutsu
+Name=비뢰신의 술
 Order=divineshield
 ResearchArt=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
 Researchbuttonpos=1
 Researchhotkey=D
 Researchtip=Learn |cffffcc00D|rivine Shield - [|cffffcc00Level %d|r]
 Researchubertip="An impenetrable shield surrounds the Paladin, protecting him from all damage and spells for a set amount of time. |n|n|cffffcc00Level 1|r - Lasts 15 seconds. |n|cffffcc00Level 2|r - Lasts 30 seconds. |n|cffffcc00Level 3|r - Lasts 45 seconds."
-Tip="Hiraishin no Jutsu, (|cffffcc00F|r)"
-Ubertip=Мгновенно телепортирует к кунаю.|n|nПерезарядка: 5 сек.
+Tip="비뢰신의 술, (|cffffcc00F|r)"
+Ubertip=즉시 쿠나이로 텔레포트 합니다.|n|n쿨타임: 5초
 Unart=ReplaceableTextures\CommandButtons\BTNMinatoF.blp
 UnButtonpos=1,2
 Unhotkey=F
@@ -832,29 +838,29 @@ Untip=Deactivate |cffffcc00D|rivine Shield
 Art=war3mapImported\BTNRasengan.blp
 Buttonpos=,2
 Hotkey=Q
-Name=Rasengan
+Name=나선환
 Order=berserk
 ResearchArt=war3mapImported\BTNRasengan.blp
 Researchhotkey=Q
 Researchtip="Rasengan, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip=Минато формирует шар из сильно закрученой чакры в своей руке для одиночной оглушающей атаки.|n|n|cFF00A5FFУрон: 2\3\4\5\6*|r|c003CFF3CAGI|r|cFF00A5FF + 100|nВремя действия: 10 сек.|nОглушение: 1 сек.|nПерезарядка: 15 сек.|r
-Tip="Rasengan, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","Rasengan, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","Rasengan, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","Rasengan, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","Rasengan, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip=Минато формирует шар из сильно закрученой чакры в своей руке для одиночной оглушающей атаки.|n|n|cFF00A5FFУрон: 2*|r|c003CFF3CAGI|r|cFF00A5FF + 100|nВремя действия: 10 сек.|nОглушение: 1 сек.|nПерезарядка: 15 сек.|r,Минато формирует шар из сильно закрученой чакры в своей руке для одиночной оглушающей атаки.|n|n|cFF00A5FFУрон: 3*|r|c003CFF3CAGI|r|cFF00A5FF + 100|nВремя действия: 10 сек.|nОглушение: 1 сек.|nПерезарядка: 15 сек.|r,Минато формирует шар из сильно закрученой чакры в своей руке для одиночной оглушающей атаки.|n|n|cFF00A5FFУрон: 4*|r|c003CFF3CAGI|r|cFF00A5FF + 100|nВремя действия: 10 сек.|nОглушение: 1 сек.|nПерезарядка: 15 сек.|r,Минато формирует шар из сильно закрученой чакры в своей руке для одиночной оглушающей атаки.|n|n|cFF00A5FFУрон: 5*|r|c003CFF3CAGI|r|cFF00A5FF + 100|nВремя действия: 10 сек.|nОглушение: 1 сек.|nПерезарядка: 15 сек.|r,Минато формирует шар из сильно закрученой чакры в своей руке для одиночной оглушающей атаки.|n|n|cFF00A5FFУрон: 6*|r|c003CFF3CAGI|r|cFF00A5FF + 100|nВремя действия: 10 сек.|nОглушение: 1 сек.|nПерезарядка: 15 сек.|r
+Tip="나선환, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","나선환, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","나선환, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","나선환, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","나선환, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip=미나토가 손에 나선환을 만들어내 다음평타가 적을 밀어내고 기절시킵니다.|n|n|cFF00A5FF계수: 2*|r|c003CFF3CAGI|r|cFF00A5FF + 100|n지속시간: 10초|n기절시간: 1초|n쿨타임: 15초|r,미나토가 손에 나선환을 만들어내 다음평타가 적을 밀어내고 기절시킵니다.|n|n|cFF00A5FF계수: 3*|r|c003CFF3CAGI|r|cFF00A5FF + 100|n지속시간: 10초|n기절시간: 1초|n쿨타임: 15초|r,미나토가 손에 나선환을 만들어내 다음평타가 적을 밀어내고 기절시킵니다.|n|n|cFF00A5FF계수: 4*|r|c003CFF3CAGI|r|cFF00A5FF + 100|n지속시간: 10초|n기절시간: 1초|n쿨타임: 15초|r,미나토가 손에 나선환을 만들어내 다음평타가 적을 밀어내고 기절시킵니다.|n|n|cFF00A5FF계수: 5*|r|c003CFF3CAGI|r|cFF00A5FF + 100|n지속시간: 10초|n기절시간: 1초|n쿨타임: 15초|r,미나토가 손에 나선환을 만들어내 다음평타가 적을 밀어내고 기절시킵니다.|n|n|cFF00A5FF계수: 6*|r|c003CFF3CAGI|r|cFF00A5FF + 100|n지속시간: 10초|n기절시간: 1초|n쿨타임: 15초|r
 
 [A024]
 Art=war3mapImported\BTNKeiyaku_fuin.blp
 Buttonpos=3,2
 Hotkey=R
 Missilespeed=10000
-Name=Keiyaku Fuin
+Name=계약 봉인
 Order=drunkenhaze
 ResearchArt=war3mapImported\BTNKeiyaku_fuin.blp
 Researchbuttonpos=3
 Researchhotkey=R
 Researchtip="Keiyaku Fuin, [|cffffcc00Уровень %d|r] (|cffffcc00R|r)"
 Researchubertip="Минато накладывает на указанного противника печать, запрещающая применят заклинания и парализует его.|n|n|cFF00A5FFВремя действия: 3\3.5\4\4.5\5 сек.|nУрон: 5\6\7\8\9*|r|c003CFF3CAGI|r|cFF00A5FF.|nПерезарядка: 30 сек.|n.|r"
-Tip="Keiyaku Fuin, [|cffffcc00Уровень 1|r] (|cffffcc00R|r)","Keiyaku Fuin, [|cffffcc00Уровень 2|r] (|cffffcc00R|r)","Keiyaku Fuin, [|cffffcc00Уровень 3|r] (|cffffcc00R|r)","Keiyaku Fuin, [|cffffcc00Уровень 4|r] (|cffffcc00R|r)","Keiyaku Fuin, [|cffffcc00Уровень 5|r] (|cffffcc00R|r)"
-Ubertip="Минато накладывает на указанного противника печать, запрещающая применят заклинания и парализует его.|n|n|cFF00A5FFВремя действия: 3 сек.|nУрон: 5*|r|c003CFF3CAGI|r|cFF00A5FF.|nПерезарядка: 30 сек.","Минато накладывает на указанного противника печать, запрещающая применят заклинания и парализует его.|n|n|cFF00A5FFВремя действия: 3.5 сек.|nУрон: 6*|r|c003CFF3CAGI|r|cFF00A5FF.|nПерезарядка: 30 сек.","Минато накладывает на указанного противника печать, запрещающая применят заклинания и парализует его.|n|n|cFF00A5FFВремя действия: 4 сек.|nУрон: 7*|r|c003CFF3CAGI|r|cFF00A5FF.|nПерезарядка: 30 сек.","Минато накладывает на указанного противника печать, запрещающая применят заклинания и парализует его.|n|n|cFF00A5FFВремя действия: 4.5 сек.|nУрон: 8*|r|c003CFF3CAGI|r|cFF00A5FF.|nПерезарядка: 30 сек.","Минато накладывает на указанного противника печать, запрещающая применят заклинания и парализует его.|n|n|cFF00A5FFВремя действия: 5 сек.|nУрон: 9*|r|c003CFF3CAGI|r|cFF00A5FF.|nПерезарядка: 30 сек."
+Tip="계약 봉인, [|cffffcc00레벨 1|r] (|cffffcc00R|r)","계약 봉인, [|cffffcc00레벨 2|r] (|cffffcc00R|r)","계약 봉인, [|cffffcc00레벨 3|r] (|cffffcc00R|r)","계약 봉인, [|cffffcc00레벨 4|r] (|cffffcc00R|r)","계약 봉인, [|cffffcc00레벨 5|r] (|cffffcc00R|r)"
+Ubertip="미나토가 지정 대상에게 봉인을 걸어 주문을 시전하지 못하도록 막고 마비시킵니다.|n|n|cFF00A5FF지속시간 3초|n계수: 5*|r|c003CFF3CAGI|r|cFF00A5FF.|n쿨타임: 30초","미나토가 지정 대상에게 봉인을 걸어 주문을 시전하지 못하도록 막고 마비시킵니다.|n|n|cFF00A5FF지속시간: 3.5초|n계수: 6*|r|c003CFF3CAGI|r|cFF00A5FF.|n쿨타임: 30초","미나토가 지정 대상에게 봉인을 걸어 주문을 시전하지 못하도록 막고 마비시킵니다.|n|n|cFF00A5FF지속시간: 4초|n계수: 7*|r|c003CFF3CAGI|r|cFF00A5FF.|n쿨타임: 30초","미나토가 지정 대상에게 봉인을 걸어 주문을 시전하지 못하도록 막고 마비시킵니다.|n|n|cFF00A5FF지속시간: 4.5초|n계수: 8*|r|c003CFF3CAGI|r|cFF00A5FF.|n쿨타임: 30초","미나토가 지정 대상에게 봉인을 걸어 주문을 시전하지 못하도록 막고 마비시킵니다.|n|n|cFF00A5FF지속시간: 5초|n계수: 9*|r|c003CFF3CAGI|r|cFF00A5FF.|n쿨타임: 30초"
 
 [A026]
 Animnames=spell,channel
@@ -874,15 +880,15 @@ Art=ReplaceableTextures\CommandButtons\BTNSearingArrows.blp
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=First Ability
+Name=퍼스트 어빌리티
 Order=channel
 ResearchArt=ReplaceableTextures\CommandButtons\BTNSearingArrows.blp
 Researchhotkey=Q
 Researchtip="First Ability, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip="Путь ада": Создает несколько огненных столбов в указанной области наносящих урон (1\2\3\4\5*|r|c00169EFAINT|r|cFF00A5FF каждый). "Путь зверей": все противники в указанной области будут атакованы ядовитыми змеями (с каждым уровнем сила змей увеличивается). "Путь демонов": Мукуро быстро атакует всех противников в указанной области (2\3\4\5\6*|r|c00169EFAINT|r|cFF00A5FF). "Путь людей": обрушивает метеорит в указанную область(75\150\225\300\375 + 3 секунды оглушения).|n|n|cFF00A5FFЗатрачиваемая мана: 20\30\60\100\140 ед.|nПерезарядка: 20 сек.|r
 Targetattach=origin
-Tip="First Ability, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","First Ability, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","First Ability, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","First Ability, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","First Ability, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip="Путь ада": Создает несколько огненных столбов в указанной области наносящих урон (1*|r|c00169EFAINT|r|cFF00A5FF каждый). "Путь зверей": все противники в указанной области будут атакованы ядовитыми змеями (с каждым уровнем сила змей увеличивается). "Путь демонов": Мукуро быстро атакует всех противников в указанной области (2*|r|c00169EFAINT|r|cFF00A5FF). "Путь людей": обрушивает метеорит в указанную область(75 + 3 секунды оглушения). "Путь рая": Мукуро создает (1) иллюзий для каждого противника в указанной области.|n|n|cFF00A5FFЗатрачиваемая мана: 20 ед.|nПерезарядка: 20 сек.|r,"Путь ада": Создает несколько огненных столбов в указанной области наносящих урон (2*|r|c00169EFAINT|r|cFF00A5FF каждый). "Путь зверей": все противники в указанной области будут атакованы ядовитыми змеями (с каждым уровнем сила змей увеличивается). "Путь демонов": Мукуро быстро атакует всех противников в указанной области (3*|r|c00169EFAINT|r|cFF00A5FF). "Путь людей": обрушивает метеорит в указанную область(150 + 3 секунды оглушения). "Путь рая": Мукуро создает (2) иллюзий для каждого противника в указанной области.|n|n|cFF00A5FFЗатрачиваемая мана: 30 ед.|nПерезарядка: 20 сек.|r,"Путь ада": Создает несколько огненных столбов в указанной области наносящих урон (3*|r|c00169EFAINT|r|cFF00A5FF каждый). "Путь зверей": все противники в указанной области будут атакованы ядовитыми змеями (с каждым уровнем сила змей увеличивается). "Путь демонов": Мукуро быстро атакует всех противников в указанной области (4*|r|c00169EFAINT|r|cFF00A5FF). "Путь людей": обрушивает метеорит в указанную область(225 + 3 секунды оглушения). "Путь рая": Мукуро создает (3) иллюзий для каждого противника в указанной области.|n|n|cFF00A5FFЗатрачиваемая мана: 60 ед.|nПерезарядка: 20 сек.|r,"Путь ада": Создает несколько огненных столбов в указанной области наносящих урон (4*|r|c00169EFAINT|r|cFF00A5FF каждый). "Путь зверей": все противники в указанной области будут атакованы ядовитыми змеями (с каждым уровнем сила змей увеличивается). "Путь демонов": Мукуро быстро атакует всех противников в указанной области (5*|r|c00169EFAINT|r|cFF00A5FF). "Путь людей": обрушивает метеорит в указанную область(300 + 3 секунды оглушения). "Путь рая": Мукуро создает (5) иллюзий для каждого противника в указанной области.|n|n|cFF00A5FFЗатрачиваемая мана: 100 ед.|nПерезарядка: 20 сек.|r,"Путь ада": Создает несколько огненных столбов в указанной области наносящих урон (5*|r|c00169EFAINT|r|cFF00A5FF каждый). "Путь зверей": все противники в указанной области будут атакованы ядовитыми змеями (с каждым уровнем сила змей увеличивается). "Путь демонов": Мукуро быстро атакует всех противников в указанной области (6*|r|c00169EFAINT|r|cFF00A5FF). "Путь людей": обрушивает метеорит в указанную область(375 + 3 секунды оглушения). "Путь рая": Мукуро создает (5) иллюзий для каждого противника в указанной области.|n|n|cFF00A5FFЗатрачиваемая мана: 140 ед.|nПерезарядка: 20 сек.|r
+Tip="퍼스트 어빌리티, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","퍼스트 어빌리티, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","퍼스트 어빌리티, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","퍼스트 어빌리티, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","퍼스트 어빌리티, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip="지옥도": 지정한 위치에 여러 개의 불기둥을 생성하여 피해를 입힙니다. (1*|r|c00169EFAINT|r|cFF00A5FF 불기둥마다). "축생도": 지정한 위치의 모든 적이 독사의 공격을 받습니다. (각 레벨마다 독사의 계수가 증가합니다). "수라도": 무쿠로가 지정한 위치의 모든 적을 빠르게 공격합니다. (2*|r|c00169EFAINT|r|cFF00A5FF). "인간도": 지정한 위치에 운석을 떨어뜨립니다.(75 + 3 секунды оглушения). "천상도": 무쿠로가 지정한 위치에 있는 각 적에게(1)개의 환영을 생성합니다.|n|n|cFF00A5FF소모마나: 20|n쿨타임: 20초|r,"지옥도": 지정한 위치에 여러 개의 불기둥을 생성하여 피해를 입힙니다. (2*|r|c00169EFAINT|r|cFF00A5FF 불기둥마다). "축생도": 지정한 위치의 모든 적이 독사의 공격을 받습니다. (각 레벨마다 독사의 계수가 증가합니다). "수라도": 무쿠로가 지정한 위치의 모든 적을 빠르게 공격합니다. (3*|r|c00169EFAINT|r|cFF00A5FF). ""인간도": 지정한 위치에 운석을 떨어뜨립니다.(150 + 3 секунды оглушения). "천상도": 무쿠로가 지정한 위치에 있는 각 적에게(2)개의 환영을 생성합니다.n|n|cFF00A5FF소모마나: 30|n쿨타임: 20초|r,"지옥도": 지정한 위치에 여러 개의 불기둥을 생성하여 피해를 입힙니다. (3*|r|c00169EFAINT|r|cFF00A5FF 불기둥마다). "축생도": 지정한 위치의 모든 적이 독사의 공격을 받습니다. (각 레벨마다 독사의 계수가 증가합니다). "수라도": 무쿠로가 지정한 위치의 모든 적을 빠르게 공격합니다. (4*|r|c00169EFAINT|r|cFF00A5FF). "인간도": 지정한 위치에 운석을 떨어뜨립니다.(225 + 3 секунды оглушения). "천상도": 무쿠로가 지정한 위치에 있는 각 적에게(3)개의 환영을 생성합니다.|n|n|cFF00A5FF소모마나: 60|n쿨타임: 20초|r,"지옥도": 지정한 위치에 여러 개의 불기둥을 생성하여 피해를 입힙니다. (4*|r|c00169EFAINT|r|cFF00A5FF 불기둥마다). "축생도": 지정한 위치의 모든 적이 독사의 공격을 받습니다. (각 레벨마다 독사의 계수가 증가합니다). "수라도": 무쿠로가 지정한 위치의 모든 적을 빠르게 공격합니다. (5*|r|c00169EFAINT|r|cFF00A5FF). "인간도": 지정한 위치에 운석을 떨어뜨립니다.(300 + 3 секунды оглушения). "천상도": 무쿠로가 지정한 위치에 있는 각 적에게(5)개의 환영을 생성합니다.|n|n|cFF00A5FF소모마나: 100|n쿨타임: 20초|r,"지옥도": 지정한 위치에 여러 개의 불기둥을 생성하여 피해를 입힙니다. (5*|r|c00169EFAINT|r|cFF00A5FF 불기둥마다). "축생도": 지정한 위치의 모든 적이 독사의 공격을 받습니다. (각 레벨마다 독사의 계수가 증가합니다). "수라도": 무쿠로가 지정한 위치의 모든 적을 빠르게 공격합니다. (6*|r|c00169EFAINT|r|cFF00A5FF). "인간도": 지정한 위치에 운석을 떨어뜨립니다.(375 + 3 секунды оглушения). "천상도": 무쿠로가 지정한 위치에 있는 각 적에게(5)개의 환영을 생성합니다.|n|n|cFF00A5FF소모마나: 140|n쿨타임: 20초|r
 
 [A02B]
 Art=ReplaceableTextures\PassiveButtons\PASBTNEnvenomedSpear.blp
@@ -970,29 +976,29 @@ Ubertip="Causes roots to burst from the ground, immobilizing and disarming a tar
 [A02I]
 Art=war3mapImported\PASHogyoku.blp
 Buttonpos=3,2
-Name=Hougyoku Power
+Name=봉옥의 힘
 Order=attributemodskill
 ResearchArt=war3mapImported\PASHogyoku.blp
 Researchbuttonpos=3
 Researchhotkey=R
 Researchtip="Hougyoku Power, [|cffffcc00Уровень %d|r] (|cffffcc00R|r)"
 Researchubertip="Хоугиоку усиливает Айзена, увеличивая его характеристики и регенерацию.|n|n|cFF00A5FFПовышение |c00169EFAINT|r|cFF00A5FF героя: 20\25\30\35\40|nПовышение |c00FF5555STR|r|cFF00A5FF и |c003CFF3CAGI|r|cFF00A5FF героя: 0\5\10\15\20|nРегенерация: 1% сек."
-Tip="Hougyoku Power, [|cffffcc00Уровень 1|r]","Hougyoku Power, [|cffffcc00Уровень 2|r]","Hougyoku Power, [|cffffcc00Уровень 3|r]","Hougyoku Power, [|cffffcc00Уровень 4|r]","Hougyoku Power, [|cffffcc00Уровень 5|r]"
-Ubertip="Хоугиоку усиливает Айзена, увеличивая его характеристики и регенерацию.|n|n|cFF00A5FFПовышение |c00169EFAINT|r|cFF00A5FF героя: 20|nРегенерация: 1% сек.","Хоугиоку усиливает Айзена, увеличивая его характеристики и регенерацию.|n|n|cFF00A5FFПовышение |c00169EFAINT|r|cFF00A5FF героя: 25|nПовышение |c00FF5555STR|r|cFF00A5FF и |c003CFF3CAGI|r|cFF00A5FF героя: 5|nРегенерация: 1% сек.","Хоугиоку усиливает Айзена, увеличивая его характеристики и регенерацию.|n|n|cFF00A5FFПовышение |c00169EFAINT|r|cFF00A5FF героя: 30|nПовышение |c00FF5555STR|r|cFF00A5FF и |c003CFF3CAGI|r|cFF00A5FF героя: 10|nРегенерация: 1% сек.","Хоугиоку усиливает Айзена, увеличивая его характеристики и регенерацию.|n|n|cFF00A5FFПовышение |c00169EFAINT|r|cFF00A5FF героя: 35|nПовышение |c00FF5555STR|r|cFF00A5FF и |c003CFF3CAGI|r|cFF00A5FF героя: 15|nРегенерация: 1% сек.","Хоугиоку усиливает Айзена, увеличивая его характеристики и регенерацию.|n|n|cFF00A5FFПовышение |c00169EFAINT|r|cFF00A5FF героя: 40|nПовышение |c00FF5555STR|r|cFF00A5FF и |c003CFF3CAGI|r|cFF00A5FF героя: 20|nРегенерация: 1% сек."
+Tip="봉옥의 힘, [|cffffcc00레벨 1|r]","봉옥의 힘, [|cffffcc00레벨 2|r]","봉옥의 힘, [|cffffcc00레벨 3|r]","봉옥의 힘, [|cffffcc00레벨 4|r]","봉옥의 힘, [|cffffcc00레벨 5|r]"
+Ubertip="봉옥이 아이젠을 강화하여 그의 능력치와 재생력을 높입니다.|n|n|cFF00A5FF상승능력치 |c00169EFAINT|r|cFF00A5FF: 20|n초당 HP 재생력: 1%","봉옥이 아이젠을 강화하여 그의 능력치와 재생력을 높입니다.|n|n|cFF00A5FF상승능력치 |c00169EFAINT|r|cFF00A5FF: 25|n상승능력치 |c00FF5555STR|r|cFF00A5FF or |c003CFF3CAGI|r|cFF00A5FF: 5|n초당 HP 재생력: 1%","봉옥이 아이젠을 강화하여 그의 능력치와 재생력을 높입니다.|n|n|cFF00A5FF상승능력치 |c00169EFAINT|r|cFF00A5FF: 30|n상승능력치 |c00FF5555STR|r|cFF00A5FF or |c003CFF3CAGI|r|cFF00A5FF: 10|n초당 HP 재생력: 1%","봉옥이 아이젠을 강화하여 그의 능력치와 재생력을 높입니다.|n|n|cFF00A5FF상승능력치 |c00169EFAINT|r|cFF00A5FF: 35|n상승능력치 |c00FF5555STR|r|cFF00A5FF or |c003CFF3CAGI|r|cFF00A5FF: 15|n초당 HP 재생력: 1%","봉옥이 아이젠을 강화하여 그의 능력치와 재생력을 높입니다.|n|n|cFF00A5FF상승능력치 |c00169EFAINT|r|cFF00A5FF: 40|n상승능력치 |c00FF5555STR|r|cFF00A5FF or |c003CFF3CAGI|r|cFF00A5FF: 20|n초당 HP 재생력: 1%"
 
 [A02J]
 Art=ReplaceableTextures\CommandButtons\BTNMukuro5.blp
 Buttonpos=3,1
 Hotkey=T
-Name=Genju Kraiga
+Name=환수 가가이가
 Order=Locustswarm
 ResearchArt=ReplaceableTextures\CommandButtons\BTNMukuro5.blp
 Researchbuttonpos=3,1
 Researchhotkey=T
 Researchtip=Genju Kraiga (|cffffcc00T|r)
 Researchubertip="Стая разъяренных воронов, набрасывающихся на всех противников, которые находятся поблизости в течении 30 сек. Вороны обнаруживают невидимых противников. |n|n|cFF00A5FF|nУрон: 100 + 0.33*|r|c00169EFAINT|r|cFF00A5FF (каждая ворона)|nДлительность: 30 сек.|nКол-во ворон: 40 |nРадиус полета: 1000|nПерезарядка 50 сек."
-Tip=Genju Kraiga (|cffffcc00T|r)
-Ubertip="Стая разъяренных воронов, набрасывающихся на всех противников, которые находятся поблизости в течении 30 сек. Вороны обнаруживают невидимых противников. |n|n|cFF00A5FF|nУрон: 100 + 0.33*|r|c00169EFAINT|r|cFF00A5FF (каждая ворона)|nДлительность: 30 сек.|nКол-во ворон: 40 |nРадиус полета: 1000|nПерезарядка 50 сек."
+Tip=환수 가가이가 (|cffffcc00T|r)
+Ubertip="무쿠로가 환각을 실체화 시키는 기계로 괴물 까마귀 를 실체화합니다.까마귀는 보이지 않는 적을 감지합니다. |n|n|cFF00A5FF|n계수: 100 + 0.33*|r|c00169EFAINT|r|cFF00A5FF (까마귀 하나당)|n지속시간: 30초|n까마귀 개체수: 40|n필드 범위: 1000|n쿨타임 50초"
 
 [A02K]
 Animnames=Spell
@@ -1000,7 +1006,7 @@ Art=ReplaceableTextures\CommandButtons\BTNMukuro6_3.blp
 Buttonpos=2,2
 Casterattach=origin
 Hotkey=E
-Name=Daemon Spade's Devil Lens 
+Name=D.스페이드의 마렌즈 
 Order=channel
 ResearchArt=ReplaceableTextures\CommandButtons\BTNMukuro6_3.blp
 Researchbuttonpos=2
@@ -1008,8 +1014,8 @@ Researchhotkey=E
 Researchtip="Daemon Spade's Devil Lens, [|cffffcc00Уровень %d|r] (|cffffcc00E|r)"
 Researchubertip=Мукуро вызывает у противника сильные головокружения.|n|n|cFF00A5FFЗатрачиваемая мана: 10\20\40\80\120 ед.|nВремя дейтсвия: 3\4\5\6\7 сек.|nПерезарядка: 25 сек.|r
 Targetattach=origin
-Tip="Daemon Spade's Devil Lens, [|cffffcc00Уровень 1|r] (|cffffcc00E|r)","Daemon Spade's Devil Lens, [|cffffcc00Уровень 2|r] (|cffffcc00E|r)","Daemon Spade's Devil Lens, [|cffffcc00Уровень 3|r] (|cffffcc00E|r)","Daemon Spade's Devil Lens, [|cffffcc00Уровень 4|r] (|cffffcc00E|r)","Daemon Spade's Devil Lens, [|cffffcc00Уровень 5|r] (|cffffcc00E|r)"
-Ubertip=Мукуро вызывает у противника сильные головокружения.|n|n|cFF00A5FFЗатрачиваемая мана: 10 ед.|nВремя дейтсвия: 3 сек.|nПерезарядка: 25 сек.|r,Мукуро вызывает у противника сильные головокружения.|n|n|cFF00A5FFЗатрачиваемая мана: 20 ед.|nВремя дейтсвия: 4 сек.|nПерезарядка: 25 сек.|r,Мукуро вызывает у противника сильные головокружения.|n|n|cFF00A5FFЗатрачиваемая мана: 40 ед.|nВремя дейтсвия: 5 сек.|nПерезарядка: 25 сек.|r,Мукуро вызывает у противника сильные головокружения.|n|n|cFF00A5FFЗатрачиваемая мана: 80 ед.|nВремя дейтсвия: 6 сек.|nПерезарядка: 25 сек.|r,Мукуро вызывает у противника сильные головокружения.|n|n|cFF00A5FFЗатрачиваемая мана: 120 ед.|nВремя дейтсвия: 7 сек.|nПерезарядка: 25 сек.|r
+Tip="D.스페이드의 마렌즈, [|cffffcc00레벨 1|r] (|cffffcc00E|r)","D.스페이드의 마렌즈, [|cffffcc00레벨 2|r] (|cffffcc00E|r)","D.스페이드의 마렌즈, [|cffffcc00레벨 3|r] (|cffffcc00E|r)","D.스페이드의 마렌즈, [|cffffcc00레벨 4|r] (|cffffcc00E|r)","D.스페이드의 마렌즈, [|cffffcc00레벨 5|r] (|cffffcc00E|r)"
+Ubertip=무쿠로가 상대의 화면을 어지럽게 만듭니다.|n|n|cFF00A5FF|n지속시간: 3초|n쿨타임: 25초|r,무쿠로가 상대의 화면을 어지럽게 만듭니다.|n|n|cFF00A5FF|n지속시간: 4초|n쿨타임: 25초|r,무쿠로가 상대의 화면을 어지럽게 만듭니다.|n|n|cFF00A5FF|n지속시간: 5초|n쿨타임: 25초|r,무쿠로가 상대의 화면을 어지럽게 만듭니다.|n|n|cFF00A5FF|n지속시간: 6초|n쿨타임: 25초|r,무쿠로가 상대의 화면을 어지럽게 만듭니다.|n|n|cFF00A5FF|n지속시간: 7초|n쿨타임: 25초|r
 
 [A02L]
 Art=ReplaceableTextures\PassiveButtons\PASBTNCommand.blp
@@ -1063,15 +1069,15 @@ Art=war3mapImported\BTNMaxi_Cannon.blp
 Buttonpos=,2
 Casterattach=origin
 Hotkey=Q
-Name=Maximum Cannon
+Name=맥시멈 캐논
 Order=channel
 ResearchArt=war3mapImported\BTNMaxi_Cannon.blp
 Researchhotkey=Q
 Researchtip="Maximum Cannon, [|cffffcc00Уровень %d|r] (|cffffcc00Q|r)"
 Researchubertip=Рёхей выстреливает пламенем солнца в указанном направлении.|n|n|cFF00A5FF|nУрон: 3\4\5\6\7*|r|c00FF5555STR|r|cFF00A5FF +35|nПерезарядка: 15 сек.|r
 Targetattach=origin
-Tip="Maximum Cannon, [|cffffcc00Уровень 1|r] (|cffffcc00Q|r)","Maximum Cannon, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)","Maximum Cannon, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)","Maximum Cannon, [|cffffcc00Уровень 4|r] (|cffffcc00Q|r)","Maximum Cannon, [|cffffcc00Уровень 5|r] (|cffffcc00Q|r)"
-Ubertip=Рёхей выстреливает пламенем солнца в указанном направлении.|n|n|cFF00A5FF|nУрон: 3*|r|c00FF5555STR|r|cFF00A5FF +35|nПерезарядка: 15 сек.|r,Рёхей выстреливает пламенем солнца в указанном направлении.|n|n|cFF00A5FF|nУрон: 4*|r|c00FF5555STR|r|cFF00A5FF +35|nПерезарядка: 15 сек.|r,Рёхей выстреливает пламенем солнца в указанном направлении.|n|n|cFF00A5FF|nУрон: 5*|r|c00FF5555STR|r|cFF00A5FF +35|nПерезарядка: 15 сек.|r,Рёхей выстреливает пламенем солнца в указанном направлении.|n|n|cFF00A5FF|nУрон: 6*|r|c00FF5555STR|r|cFF00A5FF +35|nПерезарядка: 15 сек.|r,Рёхей выстреливает пламенем солнца в указанном направлении.|n|n|cFF00A5FF|nУрон: 7*|r|c00FF5555STR|r|cFF00A5FF +35|nПерезарядка: 15 сек.|r
+Tip="맥시멈 캐논, [|cffffcc00레벨 1|r] (|cffffcc00Q|r)","맥시멈 캐논, [|cffffcc00레벨 2|r] (|cffffcc00Q|r)","맥시멈 캐논, [|cffffcc00레벨 3|r] (|cffffcc00Q|r)","맥시멈 캐논, [|cffffcc00레벨 4|r] (|cffffcc00Q|r)","맥시멈 캐논, [|cffffcc00레벨 5|r] (|cffffcc00Q|r)"
+Ubertip=료헤이가 지정한 위치로 태양의 불꽃을 쏩니다. 맞은 적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 3*|r|c00FF5555STR|r|cFF00A5FF +35|n쿨타임: 15초|r,료헤이가 지정한 위치로 태양의 불꽃을 쏩니다. 맞은 적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 4*|r|c00FF5555STR|r|cFF00A5FF +35|n쿨타임: 15초|r,료헤이가 지정한 위치로 태양의 불꽃을 쏩니다. 맞은 적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 5*|r|c00FF5555STR|r|cFF00A5FF +35|n쿨타임: 15초|r,료헤이가 지정한 위치로 태양의 불꽃을 쏩니다. 맞은 적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 6*|r|c00FF5555STR|r|cFF00A5FF +35|n쿨타임: 15초|r,료헤이가 지정한 위치로 태양의 불꽃을 쏩니다. 맞은 적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 7*|r|c00FF5555STR|r|cFF00A5FF +35|n쿨타임: 15초|r
 
 [A02Q]
 Animnames=Spell
@@ -1079,7 +1085,7 @@ Art=war3mapImported\BTNSun_Scalpel.blp
 Buttonpos=1,2
 Casterattach=origin
 Hotkey=W
-Name=Sun Stimulation
+Name=선 스티밀레이션
 Order=channel
 ResearchArt=war3mapImported\BTNSun_Scalpel.blp
 Researchbuttonpos=1
@@ -1087,8 +1093,8 @@ Researchhotkey=W
 Researchtip="Sun Stimulation, [|cffffcc00Уровень %d|r] (|cffffcc00W|r)"
 Researchubertip=Рёхей исцеляет себя или союзника.|n|n|cFF00A5FF|nИсцеление: 3\4\5\6\7*|r|c00FF5555STR|r|cFF00A5FF+50 ед.|nВремя действия: 5 сек.|nПерезарядка: 20\19\18\17\16 сек.|r
 Targetattach=origin
-Tip="Sun Stimulation, [|cffffcc00Уровень 1|r] (|cffffcc00W|r)","Sun Stimulation, [|cffffcc00Уровень 2|r] (|cffffcc00W|r)","Sun Stimulation, [|cffffcc00Уровень 3|r] (|cffffcc00W|r)","Sun Stimulation, [|cffffcc00Уровень 4|r] (|cffffcc00W|r)","Sun Stimulation, [|cffffcc00Уровень 5|r] (|cffffcc00W|r)"
-Ubertip=Рёхей исцеляет себя или союзника.|n|n|cFF00A5FF|nИсцеление: 3*|r|c00FF5555STR|r|cFF00A5FF+50 ед.|nВремя действия: 5 сек.|nПерезарядка: 20 сек.|r,Рёхей исцеляет себя или собзника.|n|n|cFF00A5FF|nИсцеление: 4*|r|c00FF5555STR|r|cFF00A5FF+50 ед.|nВремя действия: 5 сек.|nПерезарядка: 19 сек.|r,Рёхей исцеляет себя или собзника.|n|n|cFF00A5FF|nИсцеление: 5*|r|c00FF5555STR|r|cFF00A5FF+50 ед.|nВремя действия: 5 сек.|nПерезарядка: 18 сек.|r,Рёхей исцеляет себя или собзника.|n|n|cFF00A5FF|nИсцеление: 6*|r|c00FF5555STR|r|cFF00A5FF+50 ед.|nВремя действия: 5 сек.|nПерезарядка: 17 сек.|r,Рёхей исцеляет себя или собзника.|n|n|cFF00A5FF|nИсцеление: 7*|r|c00FF5555STR|r|cFF00A5FF+50 ед.|nВремя действия: 5 сек.|nПерезарядка: 16 сек.|r
+Tip="선 스티밀레이션, [|cffffcc00레벨 1|r] (|cffffcc00W|r)","선 스티밀레이션, [|cffffcc00레벨 2|r] (|cffffcc00W|r)","선 스티밀레이션, [|cffffcc00레벨 3|r] (|cffffcc00W|r)","선 스티밀레이션, [|cffffcc00레벨 4|r] (|cffffcc00W|r)","선 스티밀레이션, [|cffffcc00레벨 5|r] (|cffffcc00W|r)"
+Ubertip=료헤이가 지정한 자신 또는 아군을 치료합니다.|n|n|cFF00A5FF|n치료계수: 3*|r|c00FF5555STR|r|cFF00A5FF+50|n지속시간: 5초|n쿨타임: 20초|r,료헤이가 지정한 자신 또는 아군을 치료합니다.|n|n|cFF00A5FF|n치료계수: 4*|r|c00FF5555STR|r|cFF00A5FF+50|n지속시간: 5초|n쿨타임: 19초|r,료헤이가 지정한 자신 또는 아군을 치료합니다.|n|n|cFF00A5FF|n치료계수: 5*|r|c00FF5555STR|r|cFF00A5FF+50|n지속시간: 5초|n쿨타임: 18초|r,료헤이가 지정한 자신 또는 아군을 치료합니다.|n|n|cFF00A5FF|n치료계수: 6*|r|c00FF5555STR|r|cFF00A5FF+50|n지속시간: 5초|n쿨타임: 17초|r,료헤이가 지정한 자신 또는 아군을 치료합니다.|n|n|cFF00A5FF|n치료계수: 7*|r|c00FF5555STR|r|cFF00A5FF+50|n지속시간: 5초|n쿨타임: 16초|r
 
 [A02R]
 Animnames=Spell
@@ -1096,7 +1102,7 @@ Art=war3mapImported\BTNKangaryu.blp
 Buttonpos=1,1
 Casterattach=origin
 Hotkey=F
-Name=Kangaryuu
+Name=가류
 Order=channel
 Requires=h046
 ResearchArt=ReplaceableTextures\CommandButtons\BTNSelfDestruct.blp
@@ -1105,8 +1111,8 @@ Researchhotkey=F
 Researchtip="Kangaryuu, [|cffffcc00Уровень %d|r] (|cffffcc00E|r)"
 Researchubertip="Рёхей вызывает кенгуру из коробочки солнца, кенгуру способна атаковать противников и исцелять союзников.|n|n|cFF00A5FF|nПерезарядка: 25 сек.|nВремя действия: 15 сек.|nЗатрачиваемая мана: 25\50\75\100\125|r"
 Targetattach=origin
-Tip="Kangaryuu, [|cffffcc00Уровень 1|r] (|cffffcc00F|r)"
-Ubertip="Рёхей вызывает кенгуру из коробочки солнца, кенгуру способна атаковать противников и увеличивает скорость восстановления здоровья вокруг себя в радиусе 1500. Приземляясь кенгуру оглушает и наносит урон всем врагам вокруг.|n|n|cFF00A5FF|nУрон: 3*|r|c00FF5555STR|r|cFF00A5FF|nУрон (удар): 15+|c00FF5555STR|r|cFF00A5FF Рехея*1.5|nВосстановление здоровья: 15 ед. в сек.|nПерезарядка: 45 сек.|nВремя действия: 7+Уровень Рехея/2 сек."
+Tip="가류, [|cffffcc00레벨 1|r] (|cffffcc00F|r)"
+Ubertip="료헤이가 태양의 봉고레기어 에서 캥거루를 소환합니다.캥거루가 착지시 주변의 모든 적에게 피해를 주고 기절시킵니다. 캥거루는 적을 공격할 수 있고 주변의 체력 재생 속도를 증가시킵니다.|n|n|cFF00A5FF|n계수: 3*|r|c00FF5555STR|r|cFF00A5FF|n계수(캥거루일반공격): 15+|c00FF5555STR|r|cFF00A5FF *1.5|n초당 HP 재생력: 15|n쿨타임: 45초|n지속시간: 7+료헤이 레벨/2초"
 
 [A02S]
 Art=ReplaceableTextures\PassiveButtons\PASBTNCommand.blp
@@ -1142,7 +1148,7 @@ Art=war3mapImported\BTNIngran.blp
 Buttonpos=2,2
 Casterattach=origin
 Hotkey=E
-Name=Maximum Ingram
+Name=맥시멈 잉글람
 Order=channel
 ResearchArt=war3mapImported\BTNIngran.blp
 Researchbuttonpos=2
@@ -1150,8 +1156,8 @@ Researchhotkey=E
 Researchtip="Maximum Ingram, [|cffffcc00Уровень %d|r] (|cffffcc00E|r)"
 Researchubertip=Рёхей использует свои ноги для очень быстрого передвижения и создает эффект тройного удара.|n|n|cFF00A5FF|nУрон: 4\5\6\7\8 *|r|c00FF5555STR|r|cFF00A5FF|nПерезарядка: 25 сек.|r
 Targetattach=origin
-Tip="Maximum Ingram, [|cffffcc00Уровень 1|r] (|cffffcc00E|r)","Maximum Ingram, [|cffffcc00Уровень 2|r] (|cffffcc00E|r)","Maximum Ingram, [|cffffcc00Уровень 3|r] (|cffffcc00E|r)","Maximum Ingram, [|cffffcc00Уровень 4|r] (|cffffcc00E|r)","Maximum Ingram, [|cffffcc00Уровень 5|r] (|cffffcc00E|r)"
-Ubertip=Рёхей использует свои ноги для очень быстрого передвижения и создает эффект тройного удара.|n|n|cFF00A5FF|nУрон: 4 *|r|c00FF5555STR|r|cFF00A5FF|nПерезарядка: 25 сек.|r,Рёхей использует свои ноги для очень быстрого передвижения и создает эффект тройного удара.|n|n|cFF00A5FF|nУрон: 5 *|r|c00FF5555STR|r|cFF00A5FF|nПерезарядка: 25 сек.|r,Рёхей использует свои ноги для очень быстрого передвижения и создает эффект тройного удара.|n|n|cFF00A5FF|nУрон: 6 *|r|c00FF5555STR|r|cFF00A5FF|nПерезарядка: 25 сек.|r,Рёхей использует свои ноги для очень быстрого передвижения и создает эффект тройного удара.|n|n|cFF00A5FF|nУрон: 7 *|r|c00FF5555STR|r|cFF00A5FF|nПерезарядка: 25 сек.|r,Рёхей использует свои ноги для очень быстрого передвижения и создает эффект тройного удара.|n|n|cFF00A5FF|nУрон: 8 *|r|c00FF5555STR|r|cFF00A5FF|nПерезарядка: 25 сек.|r
+Tip="맥시멈 잉글람, [|cffffcc00레벨 1|r] (|cffffcc00E|r)","맥시멈 잉글람, [|cffffcc00레벨 2|r] (|cffffcc00E|r)","맥시멈 잉글람, [|cffffcc00레벨 3|r] (|cffffcc00E|r)","맥시멈 잉글람, [|cffffcc00레벨 4|r] (|cffffcc00E|r)","맥시멈 잉글람, [|cffffcc00레벨 5|r] (|cffffcc00E|r)"
+Ubertip=료헤이가 고속으로 움직이며 지정한 적에게 맥시멈 캐논을 여러 번 가격한다. 맞은적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 4 *|r|c00FF5555STR|r|cFF00A5FF|n쿨타임: 25초|r,료헤이가 고속으로 움직이며 지정한 적에게 맥시멈 캐논을 여러 번 가격한다. 맞은적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 5 *|r|c00FF5555STR|r|cFF00A5FF|n쿨타임: 25초|r,료헤이가 고속으로 움직이며 지정한 적에게 맥시멈 캐논을 여러 번 가격한다. 맞은적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 6 *|r|c00FF5555STR|r|cFF00A5FF|n쿨타임: 25초|r,료헤이가 고속으로 움직이며 지정한 적에게 맥시멈 캐논을 여러 번 가격한다. 맞은적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 7 *|r|c00FF5555STR|r|cFF00A5FF|n쿨타임: 25초|r,료헤이가 고속으로 움직이며 지정한 적에게 맥시멈 캐논을 여러 번 가격한다. 맞은적은 뒤로 밀려납니다.|n|n|cFF00A5FF|n계수: 8 *|r|c00FF5555STR|r|cFF00A5FF|n쿨타임: 25초|r
 
 [A02X]
 Animnames=Spell
@@ -1159,7 +1165,7 @@ Art=war3mapImported\BTNMaximum_Combination.blp
 Buttonpos=3,2
 Casterattach=origin
 Hotkey=R
-Name=Maximum Combination
+Name=맥시멈 콤비네이션
 Order=channel
 ResearchArt=war3mapImported\BTNMaximum_Combination.blp
 Researchbuttonpos=3
@@ -1167,8 +1173,8 @@ Researchhotkey=R
 Researchtip="Maximum Combination, [|cffffcc00Уровень %d|r] (|cffffcc00R|r)"
 Researchubertip="Рёхей проводит серию быстрых ударов, выводящих противника из строя.|n|n|cFF00A5FF|nУрон: 5\6\7\8\9*|r|c00FF5555STR|r|cFF00A5FF|nОглушение: 2 сек.|nПерезарядка: 25 сек.|r"
 Targetattach=origin
-Tip="Maximum Combination, [|cffffcc00Уровень 1|r] (|cffffcc00R|r)","Maximum Combination, [|cffffcc00Уровень 2|r] (|cffffcc00R|r)","Maximum Combination, [|cffffcc00Уровень 3|r] (|cffffcc00R|r)","Maximum Combination, [|cffffcc00Уровень 4|r] (|cffffcc00R|r)","Maximum Combination, [|cffffcc00Уровень 5|r] (|cffffcc00R|r)"
-Ubertip="Рёхей проводит серию быстрых ударов, выводящих противника из строя.|n|n|cFF00A5FF|nУрон: 5*|r|c00FF5555STR|r|cFF00A5FF|nОглушение: 2 сек.|nПерезарядка: 25 сек.|r","Рёхей проводит серию быстрых ударов, выводящих противника из строя.|n|n|cFF00A5FF|nУрон: 6*|r|c00FF5555STR|r|cFF00A5FF|nОглушение: 2 сек.|nПерезарядка: 25 сек.|r","Рёхей проводит серию быстрых ударов, выводящих противника из строя.|n|n|cFF00A5FF|nУрон: 7*|r|c00FF5555STR|r|cFF00A5FF|nОглушение: 2 сек.|nПерезарядка: 25 сек.|r","Рёхей проводит серию быстрых ударов, выводящих противника из строя.|n|n|cFF00A5FF|nУрон: 8*|r|c00FF5555STR|r|cFF00A5FF|nОглушение: 2 сек.|nПерезарядка: 25 сек.|r","Рёхей проводит серию быстрых ударов, выводящих противника из строя.|n|n|cFF00A5FF|nУрон: 9*|r|c00FF5555STR|r|cFF00A5FF|nОглушение: 2 сек.|nПерезарядка: 25 сек.|r"
+Tip="맥시멈 콤비네이션, [|cffffcc00레벨 1|r] (|cffffcc00R|r)","맥시멈 콤비네이션, [|cffffcc00레벨 2|r] (|cffffcc00R|r)","맥시멈 콤비네이션, [|cffffcc00레벨 3|r] (|cffffcc00R|r)","맥시멈 콤비네이션, [|cffffcc00레벨 4|r] (|cffffcc00R|r)","맥시멈 콤비네이션, [|cffffcc00레벨 5|r] (|cffffcc00R|r)"
+Ubertip="료헤이가 맥시멈 브레이크를 사용하여 상태에서 지정한 상대에게 주먹을 난타합니다. 마지막 공격은 적을 뒤로 밀쳐냅니다.|n|n|cFF00A5FF|n계수: 5*|r|c00FF5555STR|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 25초|r","료헤이가 맥시멈 브레이크를 사용하여 상태에서 지정한 상대에게 주먹을 난타합니다. 마지막 공격은 적을 뒤로 밀쳐냅니다.|n|n|cFF00A5FF|n계수: 6*|r|c00FF5555STR|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 25초|r","료헤이가 맥시멈 브레이크를 사용하여 상태에서 지정한 상대에게 주먹을 난타합니다. 마지막 공격은 적을 뒤로 밀쳐냅니다.|n|n|cFF00A5FF|n계수: 7*|r|c00FF5555STR|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 25초|r","료헤이가 맥시멈 브레이크를 사용하여 상태에서 지정한 상대에게 주먹을 난타합니다. 마지막 공격은 적을 뒤로 밀쳐냅니다.|n|n|cFF00A5FF|n계수: 8*|r|c00FF5555STR|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 25초|r","료헤이가 맥시멈 브레이크를 사용하여 상태에서 지정한 상대에게 주먹을 난타합니다. 마지막 공격은 적을 뒤로 밀쳐냅니다.|n|n|cFF00A5FF|n계수: 9*|r|c00FF5555STR|r|cFF00A5FF|n기절시간: 2초|n쿨타임: 25초|r"
 
 [A02Y]
 Animnames=attack

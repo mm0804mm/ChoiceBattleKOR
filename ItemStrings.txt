@@ -74,11 +74,11 @@ Ubertip=영웅의 공격 속도를 15% 증가시킵니다.
 [I009]
 Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
 Buttonpos=1
-Description=|c00FF5555STR|r을 15만큼 증가시키고 유닛에 대한 HP 재생력을 15만큼 증가시킵니다.
+Description="|c00FF5555STR|r을 15만큼 증가시키고 유닛에 대한 HP 재생력을 15만큼 증가시킵니다."
 Hotkey=A
 Name="썬 링, 등급 С"
 Tip="썬 링, 등급 С"
-Ubertip="|c00FF5555STR|r을 15만큼 증가시키고 유닛에 대한 HP 재생력을 증가시킵니다."
+Ubertip="|c00FF5555STR|r을 15만큼 증가시키고 유닛에 대한 HP 재생력을 15만큼 증가시킵니다."
 
 [I00A]
 Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
@@ -110,11 +110,11 @@ Ubertip="|c00FF5555STR|r을 30만큼 증가시키고 유닛에 대한 HP 재생�
 [I00D]
 Art=war3mapImported\BTNSunRing.blp
 Buttonpos=1
-Description=|c00FF5555STR|r을 45로 늘립니다. HP 재생력을 50만큼 증가시킵니다. |n|n능력: "극한 회복" - 영웅의 최대 HP의 25%를 즉시 회복합니다. |n|nCD: 30초.
+Description=|c00FF5555STR|r을 45만큼 늘립니다. HP 재생력을 50만큼 증가시킵니다. |n|n능력: "극한 회복" - 영웅의 최대 HP의 25%를 즉시 회복합니다. |n|nCD: 30초.
 Hotkey=A
 Name=완전한 봉고레 썬 링
 Tip=완전한 봉고레 썬 링
-Ubertip=|c00FF5555STR|r을 45로 늘립니다. HP 재생력을 50만큼 증가시킵니다. |n|n능력: "극한 회복" - 영웅의 최대 HP의 25%를 즉시 회복합니다. |n|nCD: 30초.
+Ubertip=|c00FF5555STR|r을 45만큼 늘립니다. HP 재생력을 50만큼 증가시킵니다. |n|n능력: "극한 회복" - 영웅의 최대 HP의 25%를 즉시 회복합니다. |n|nCD: 30초.
 
 [I00E]
 Art=ReplaceableTextures\CommandButtons\BTNGreaterRejuvScroll.blp
@@ -239,7 +239,7 @@ Description="|c003CFF3CAGI|r을 7만큼, |c00169EFAINT|r을 7만큼 증가시킵
 Hotkey=A
 Name="스톰 링, 등급 D"
 Tip="스톰 링, 등급 D"
-Ubertip="|c003CFF3CAGI|r을 7만큼, |c00169EFAINT|r을 7만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+Ubertip="|c003CFF3CAGI|r을 7만큼, |c00169EFAINT|r을 7만큼 증가시킵니다. MP 재생력을 50% 늘립니다."
 
 [I00S]
 Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
@@ -248,7 +248,7 @@ Description="|c003CFF3CAGI|r을 10만큼, |c00169EFAINT|r을 10만큼 증가시�
 Hotkey=A
 Name="스톰 링, 등급 С"
 Tip="스톰 링, 등급 С"
-Ubertip="|c003CFF3CAGI|r을 10만큼, |c00169EFAINT|r을 10만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+Ubertip="|c003CFF3CAGI|r을 10만큼, |c00169EFAINT|r을 10만큼 증가시킵니다. MP 재생력을 50% 늘립니다."
 
 [I00T]
 Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
@@ -257,7 +257,7 @@ Description="|c003CFF3CAGI|r을 14만큼, |c00169EFAINT|r을 14만큼 증가시�
 Hotkey=A
 Name="스톰 링, 등급 B"
 Tip="스톰 링, 등급 B"
-Ubertip="|c003CFF3CAGI|r을 14만큼, |c00169EFAINT|r을 14만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+Ubertip="|c003CFF3CAGI|r을 14만큼, |c00169EFAINT|r을 14만큼 증가시킵니다. MP 재생력을 50% 늘립니다."
 
 [I00U]
 Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
@@ -266,7 +266,7 @@ Description="|c003CFF3CAGI|r을 22만큼, |c00169EFAINT|r을 22만큼 증가시�
 Hotkey=A
 Name="스톰 링, 등급 A"
 Tip="스톰 링, 등급 A"
-Ubertip="|c003CFF3CAGI|r을 22만큼, |c00169EFAINT|r을 22만큼 증가시킵니다. MP 재생을 50% 늘립니다."
+Ubertip="|c003CFF3CAGI|r을 22만큼, |c00169EFAINT|r을 22만큼 증가시킵니다. MP 재생력을 50% 늘립니다."
 
 [I00V]
 Art=war3mapImported\BTNVongolaRingStorm.blp
@@ -275,7 +275,7 @@ Description="|c003CFF3CAGI|r을 27만큼, |c00169EFAINT|r을 27만큼 증가시�
 Hotkey=A
 Name=봉고레 스톰 링
 Tip=봉고레 스톰 링
-Ubertip="|c003CFF3CAGI|r을 27만큼, |c00169EFAINT|r을 27만큼 증가시킵니다. MP 재생을 75% 늘립니다."
+Ubertip="|c003CFF3CAGI|r을 27만큼, |c00169EFAINT|r을 27만큼 증가시킵니다. MP 재생력을 75% 늘립니다."
 
 [I00W]
 Art=war3mapImported\BTNStormRing.blp
@@ -284,7 +284,7 @@ Description="|c003CFF3CAGI|r을 35만큼, |c00169EFAINT|r을 35만큼 증가시�
 Hotkey=A
 Name=완전한 봉고레 스톰 링
 Tip=완전한 봉고레 스톰 링
-Ubertip="|c003CFF3CAGI|r을 35만큼, |c00169EFAINT|r을 35만큼 증가시킵니다. MP 재생을 75% 늘립니다.|n|n액티브: "스톰 샷" - 타겟한 대상에게 4х|c003CFF3CAGI|r + 4х|c00169EFAINT|r 만큼의 데미지를 갖는 빔을 날립니다.|n피격한 대상은 10초 동안 마법 저항력이 감소합니다.|n|n쿨타임: 20초"
+Ubertip="|c003CFF3CAGI|r을 35만큼, |c00169EFAINT|r을 35만큼 증가시킵니다. MP 재생력을 75% 늘립니다.|n|n액티브: "스톰 샷" - 타겟한 대상에게 4х|c003CFF3CAGI|r + 4х|c00169EFAINT|r 만큼의 데미지를 갖는 빔을 날립니다.|n피격한 대상은 10초 동안 마법 저항력이 감소합니다.|n|n쿨타임: 20초"
 
 [I00X]
 Art=ReplaceableTextures\CommandButtons\BTNRingPurple.blp
@@ -778,43 +778,43 @@ Ubertip=,
 [I02L]
 Art=war3mapImported\BTNCultist_Ring.blp
 Buttonpos=,2
-Description="DEF 150%, HP 재생 7, HP 100, |c00FFFF66AllStat|r 9 증가"
+Description="DEF 9, HP 재생력 7, HP 100, |c00FFFF66AllStat|r 9 증가"
 Hotkey=A
 Name=악마의 눈, 등급 D
-Ubertip="DEF 6, HP 재생 7, HP 100, |c00FFFF66AllStat|r 9 증가"
+Ubertip="DEF 9, HP 재생력 7, HP 100, |c00FFFF66AllStat|r 9 증가"
 
 [I02M]
 Art=war3mapImported\BTNCultist_Ring.blp
 Buttonpos=,2
-Description="DEF 150%, HP 재생 14, HP 200, |c00FFFF66AllStat|r 12 증가"
+Description="DEF 9, HP 재생력 14, HP 200, |c00FFFF66AllStat|r 12 증가"
 Hotkey=A
 Name=악마의 눈, 등급 C
-Ubertip="DEF 9, HP 재생 14, HP 200, |c00FFFF66AllStat|r 12 증가"
+Ubertip="DEF 9, HP 재생력 14, HP 200, |c00FFFF66AllStat|r 12 증가"
 
 [I02N]
 Art=war3mapImported\BTNCultist_Ring.blp
 Buttonpos=,2
-Description="Увеличивает DEF на 150% от базовой, HP regen на 21, HP 300, |c00FFFF66AllStat|r на 15."
+Description="DEF 12, HP 재생력 21, HP 300, |c00FFFF66AllStat|r 15 만큼 증가."
 Hotkey=A
 Name=,
-Ubertip="Увеличивает DEF на 12, HP regen на 21, HP 300, |c00FFFF66AllStat|r на 15."
+Ubertip="DEF 12, HP 재생력 21, HP 300, |c00FFFF66AllStat|r 15 만큼 증가."
 
 [I02O]
 Art=war3mapImported\BTNCultist_Ring.blp
 Buttonpos=,2
-Description="방어력 12, HP 재생 28, HP 400, |c00FFFF66AllStat|r 18 증가."
+Description="DEF 12, HP 재생력 28, HP 400, |c00FFFF66AllStat|r 18 증가."
 Hotkey=A
 Name=,
-Ubertip="방어력 12, HP 재생 28, HP 400, |c00FFFF66AllStat|r 18 증가"
+Ubertip="DEF 12, HP 재생력 28, HP 400, |c00FFFF66AllStat|r 18 증가"
 
 [I02P]
 Art=war3mapImported\BTNCultist_Ring.blp
 Buttonpos=,2
-Description="방어력 20, HP 재생 28, HP 400, |c00FFFF66AllStat|r 20 증가."
+Description="DEF 20, HP 재생력 28, HP 400, |c00FFFF66AllStat|r 21 증가."
 Hotkey=A
 Name=봉인된 헬링: "악마의 눈"
 Tip=봉인된 헬링: "악마의 눈"
-Ubertip="방어력 20, HP 재생 28, HP 400, |c00FFFF66AllStat|r 20 증가."
+Ubertip="DEF 20, HP 재생략 28, HP 400, |c00FFFF66AllStat|r 21 증가."
 
 [I02Q]
 Art=war3mapImported\BTNEvilEye's.blp
@@ -830,7 +830,7 @@ Description=영웅의 |c00FF5555STR|r을 20 증가시킵니다.1500 반경 이�
 Hotkey=F
 Name=파이어 오브
 Tip=파이어 오브
-Ubertip=영웅의 |c00FF5555STR|r을 20 증가시킵니다.1500 반경 이내에 아군과 자신에게 6만큼의 HP 재생 증가. |n|n액티브: "재생" - 900 범위에서 10초 동안 100 +(5 * 영웅레벨) HP를 회복합니다. |n|n재사용 대기시간: 20 초.
+Ubertip=영웅의 |c00FF5555STR|r을 20 증가시킵니다.1500 반경 이내에 아군과 자신에게 6만큼의 HP 재생력 증가. |n|n액티브: "재생" - 900 범위에서 10초 동안 100 +(5 * 영웅레벨) HP를 회복합니다. |n|n재사용 대기시간: 20 초.
 
 [I02S]
 Art=war3mapImported\BTNFrozenCore.blp
@@ -918,11 +918,12 @@ Ubertip=HP 450 증가 및 DEF 7 증가.
 [I033]
 Art=war3mapImported\BTNMadaoHat.blp
 Buttonpos=1
-Description="HP 재생 10, 마나 75%, DEF 6 증가"
+Description="HP 재생력 10, MP 재생력 75%, DEF 6 증가"
 Hotkey=A
 Name=마다오 모자
 Tip=마다오 모자
-Ubertip="HP 재생 10, 마나 75%, DEF 6 증가"
+Ubertip="HP 재생력 10, MP 재생력 75%, DEF 6 증가"
+
 [I034]
 Art=war3mapImported\BTNMadaoDog.blp
 Buttonpos=3
@@ -1009,11 +1010,11 @@ Ubertip="MP 500 증가, |c003CFF3CAGI|r을 15만큼 증가 |c00FF5555STR|r을 10
 [I03E]
 Art=war3mapImported\BTNAnbuShues.blp
 Buttonpos=3,1
-Description="35%의 확률로 적중을 회피하고, 활성화되면 4초 동안 달리기 속도가 최대로 증가합니다.|n|n쿨다운: 15초"
+Description="35%의 확률(길가메쉬의 공격은 50%)로 적중을 회피하고, 활성화되면 4초 동안 달리기 속도가 최대로 증가합니다.|n|n쿨다운: 15초"
 Hotkey=A
 Name=암부 신발
 Tip=암부 신발
-Ubertip="35%의 확률로 적중을 회피하고, 활성화되면 4초 동안 달리기 속도가 최대로 증가합니다.|n|n쿨다운: 15초"
+Ubertip="35%의 확률(길가메쉬의 공격은 50%)로 적중을 회피하고, 활성화되면 4초 동안 달리기 속도가 최대로 증가합니다.|n|n쿨다운: 15초"
 
 [I03F]
 Art=war3mapImported\BTNAnbuSet.blp
@@ -1080,20 +1081,20 @@ Ubertip=,
 [I03N]
 Art=war3mapImported\BTNsamehada.blp
 Buttonpos=2,1
-Description="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 50, AS 50% 증가. 모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. 2) 트루 데미지 150 + 공격력의 40%."
+Description="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 150, AS 50% 증가. |n모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. |n2) 트루 데미지 150 + 공격력의 40%."
 Hotkey=A
 Name=사메하다(마나번)
 Tip=사메하다(마나번)
-Ubertip="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 50, AS 50% 증가. 모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. 2) 트루 데미지 150 + 공격력의 40%."
+Ubertip="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 150, AS 50% 증가. |n모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. |n2) 트루 데미지 150 + 공격력의 40%."
 
 [I03O]
 Art=war3mapImported\BTNsamehada.blp
 Buttonpos=2,1
-Description="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 50, AS 50% 증가. 모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. 2) 트루 데미지 150 + 공격력의 40%."
+Description="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 150, AS 50% 증가. |n모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. |n2) 트루 데미지 150 + 공격력의 40%."
 Hotkey=A
 Name=사메하다(출혈)
 Tip=사메하다(출혈)
-Ubertip="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 50, AS 50% 증가. 모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. 2) 트루 데미지 150 + 공격력의 40%."
+Ubertip="|c00FF5555STR|r 및 |c00169EFAINT|r 35, 공격력 150, AS 50% 증가. |n모드 전환: 1) 마나가 현재의 8%를 태우고(소모된 마나 양의 1.5배) 체력을 회복합니다. |n2) 트루 데미지 150 + 공격력의 40%."
 
 [I03P]
 Art=war3mapImported\BTNTimeSphere.blp
@@ -1107,11 +1108,11 @@ Ubertip=|c00FFFF66Allstat|r을 30만큼 증가시킵니다.|n|n액티브: 시간
 [I03Q]
 Art=war3mapImported\BTNArcaneSphere.blp
 Buttonpos=3,1
-Description=|c00FFFF66Allstat|r을 30만큼 증가시키며 MP 재생을 25% 만큼 증가시킵니다.|n|n액티브: "공간 이동" - 즉시 타겟한 대상(자신 제외한 아군과 적)을 4초 전의 위치로 순간 이동시킵니다.|n(무검에 있는 대상에 시전 시 공간 이동이 되지 않고 3초 간의 스턴을 부여합니다.)|n|n|cFF00A5FF쿨타임: 10초|r
+Description=,
 Hotkey=F
 Name=공간의 오브
 Tip=공간의 오브
-Ubertip=|c00FFFF66Allstat|r을 30만큼 증가시키며 MP 재생을 25% 만큼 증가시킵니다.|n|n액티브: "공간 이동" - 즉시 타겟한 대상(자신 제외한 아군과 적)을 4초 전의 위치로 순간 이동시킵니다.|n(무검에 있는 대상에 시전 시 공간 이동이 되지 않고 3초 간의 스턴을 부여합니다.)|n|n|cFF00A5FF쿨타임: 10초|r
+Ubertip=,
 
 [I03R]
 Art=war3mapImported\BTNVoidSphere.blp
@@ -1179,7 +1180,7 @@ Description=마나 재생이 75% 증가하고 |c00FFFF66AllStat|r이 13만큼 �
 Hotkey=A
 Name=아카츠키 모자
 Tip=아카츠키 모자
-Ubertip=마나 재생이 75% 증가하고 |c00FFFF66AllStat|r이 13만큼 증가합니다.
+Ubertip=MP 재생력이 75% 증가하고 |c00FFFF66AllStat|r이 13만큼 증가합니다.
 
 [I03Z]
 Art=war3mapImported\BTNAkatsukiprotector.blp
@@ -1221,7 +1222,7 @@ Description="HP와 MP가 2000, MP 재생이 150%, HP 재생이 20 증가합니�
 Hotkey=F
 Name=피의 오브
 Tip=피의 오브
-Ubertip="HP와 MP가 2000, MP 재생이 150%, HP 재생이 20 증가합니다. |n|n액티브: 1750 이내의 모든 적의 현재 HP의 8%를 훔쳐 자신에게 가져옵니다.|n|n쿨타임: 20초"
+Ubertip="HP와 MP가 2000, MP 재생력이 150%, HP 재생력이 20 증가합니다. |n|n액티브: 1750 이내의 모든 적의 현재 HP의 8%를 훔쳐 자신에게 가져옵니다.|n|n쿨타임: 20초"
 
 [I044]
 Art=war3mapImported\BTNInvoke_icon.blp
@@ -1308,11 +1309,11 @@ Ubertip="공격력이 80 증가하고, |c00FFFF66AllStat|r 15만큼 증가합니
 [I04E]
 Art=war3mapImported\BTN666HellRing.blp
 Buttonpos=,2
-Description="공격력이 100 증가하고, |c00FFFF66AllStat|r 24만큼 증가합니다. 700 이내 적의 방어력 24 감소.|n|n강타: 상대를 공격할 시 40% 확률로 0.06초 동안 기절시키고 0.45초 동안 빗나감이 뜨지 않는다."
+Description="공격력이 100 증가하고, |c00FFFF66AllStat|r 24만큼 증가합니다. 700 이내 적의 방어력 20 감소.|n|n강타: 상대를 공격할 시 40% 확률로 0.06초 동안 기절시키고 0.45초 동안 빗나감이 뜨지 않는다."
 Hotkey=A
 Name=지옥의 반지: "666"
 Tip=지옥의 반지: "666"
-Ubertip="공격력이 100 증가하고, |c00FFFF66AllStat|r 24만큼 증가합니다. 700 이내 적의 방어력 24 감소.|n|n강타: 상대를 공격할 시 40% 확률로 0.06초 동안 기절시키고 0.45초 동안 빗나감이 뜨지 않는다."
+Ubertip="공격력이 100 증가하고, |c00FFFF66AllStat|r 24만큼 증가합니다. 700 이내 적의 방어력 20 감소.|n|n강타: 상대를 공격할 시 40% 확률로 0.06초 동안 기절시키고 0.45초 동안 빗나감이 뜨지 않는다."
 
 [I04F]
 Art=ReplaceableTextures\CommandButtons\BTNExcalibur.blp
@@ -1433,15 +1434,15 @@ Description=|c00FFFF66AllStat|r 40. 마나 재생 50%. DEF 15 증가. 패시브:
 Hotkey=A
 Name=야타의 거울
 Tip=야타의 거울
-Ubertip=|c00FFFF66AllStat|r 40. 마나 재생 50%. DEF 15 증가. 패시브: "반사" - 입은 마법 피해의 40%를 반사합니다. 반사 피해는 상대방의 마법 저항력에 비례합니다.
+Ubertip=|c00FFFF66AllStat|r 40. MP 재생력 50%. DEF 15 증가. 패시브: "반사" - 입은 마법 피해의 40%를 반사합니다. 반사 피해는 상대방의 마법 저항력에 비례합니다.
 
 [I04U]
 Art=war3mapImported\BTNCaptainFullSet.blp
-Description="|c00FFFF66AllStat|r 35, HP 재생 20, DEF 10만큼 증가합니다.|n|n쿨타임: 20초|n|n빌드 : A급 검 + 바람의 오브 + 레시피가 필요합니다."
+Description="|c00FFFF66AllStat|r 35, HP 재생력이 20, DEF 10만큼 증가합니다.|n|n쿨타임: 20초|n|n빌드 : A급 검 + 바람의 오브 + 레시피가 필요합니다."
 Hotkey=A
 Name=캡틴 세트(레시피)
 Tip=캡틴 세트(레시피)
-Ubertip="|c00FFFF66AllStat|r: 35, HP 재생 20, DEF가 10만큼 증가합니다.|n|n쿨타임: 20초|n|n빌드 : A급 검 + 바람의 오브 + 레시피가 필요합니다."
+Ubertip="|c00FFFF66AllStat|r: 35, HP 재생력이 20, DEF가 10만큼 증가합니다.|n|n쿨타임: 20초|n|n빌드 : A급 검 + 바람의 오브 + 레시피가 필요합니다."
 
 [I04V]
 Art=war3mapImported\BTNToaru_Majutsu_no_Index.blp
@@ -1462,26 +1463,26 @@ Ubertip=,
 [I04X]
 Art=ReplaceableTextures\CommandButtons\BTNExcalibur.blp
 Buttonpos=3
-Name=엑스칼리버(레시피)
-Tip=엑스칼리버(레시피)
+Name=엑스칼리버 (레시피)
+Tip=엑스칼리버 (레시피)
 Ubertip=,
 
 [I04Y]
 Art=war3mapImported\BTNAlastor.blp
 Buttonpos=1,1
 Hotkey=A
-Name=알래스터(레시피)
-Tip=알래스터(레시피)
+Name=아라스톨 (레시피)
+Tip=아라스톨 (레시피)
 Ubertip=,
 
 [I04Z]
 Art=war3mapImported\BTNsamehada.blp
 Buttonpos=3,1
-Description="|c00FF5555STR|r 및 |c00169EFAINT|r 35 증가, 공격력 150 증가 (출혈 시 50 증가.), AS 50% 증가. 모드 간 전환: 1)  현재의 마나의 6% + 치유 2) 트루 데미지 150 + 공격력의 40%.|n|n빌드: 삼대 귀철, 레시피."
+Description="|c00FF5555STR|r 및 |c00169EFAINT|r 35 증가, 공격력 150 증가 (출혈 시 50 증가.), AS 50% 증가. 모드 간 전환: 1)  현재의 마나의 6% + 치유 2) 트루 데미지 150 + 공격력의 40%.|n|n빌드: 삼대 귀철 + 레시피가 필요합니다."
 Hotkey=A
-Name=사메하다(레시피)
-Tip=사메하다(레시피)
-Ubertip="|c00FF5555STR|r 및 |c00169EFAINT|r 35 증가, 공격력 150 증가 (출혈 시 50 증가.), AS 50% 증가. 모드 간 전환: 1)  현재의 마나의 6% + 치유 2) 트루 데미지 150 + 공격력의 40%.|n|n빌드: 삼대 귀철, 레시피."
+Name=사메하다 (레시피)
+Tip=사메하다 (레시피)
+Ubertip="|c00FF5555STR|r 및 |c00169EFAINT|r 35 증가, 공격력 150 증가 (출혈 시 50 증가.), AS 50% 증가. 모드 간 전환: 1)  현재의 마나의 6% + 치유 2) 트루 데미지 150 + 공격력의 40%.|n|n빌드: 삼대 귀철 + 레시피가 필요합니다."
 
 [I050]
 Art=war3mapImported\BTNBasher.blp
@@ -1493,8 +1494,8 @@ Ubertip=,
 [I051]
 Art=war3mapImported\BTNBasher.blp
 Buttonpos=2
-Name=오형두(레시피)
-Tip=오형두(레시피)
+Name=오형두 (레시피)
+Tip=오형두 (레시피)
 Ubertip=,
 
 [I052]
@@ -1508,8 +1509,8 @@ Ubertip=,
 [I053]
 Art=war3mapImported\BTNScytheOfDeath.blp
 Buttonpos=,2
-Name=사신의 낫(레시피)
-Tip=사신의 낫(레시피)
+Name=사신의 낫 (레시피)
+Tip=사신의 낫 (레시피)
 Ubertip=,
 
 [I054]
@@ -1580,61 +1581,61 @@ Description="|c00FFFF66AllStat|r 30, MP 500 증가 최대 HP의 7% 이상의 피
 Hotkey=A
 Name=진정한 마레 썬더 링
 Tip=진정한 마레 썬더 링
-Ubertip="|c00FFFF66AllStat|r 30, MP 500 증가 최대 HP의 7% 이상의 피해를 입으면 피해를 입은 영웅이 1.5초 동안 기절하고, 무적 상태일 때 - 0.5초 동안 침묵합니다.|n|n액티브: 반경 1100 이내 적의 최대 MP의 17%를 흡수, 적에게 남은 마나가 없으면 2초 동안 기절시킵니다. 캐릭터가 무적 상태이면 50% 효율로 작동하고 MP가 없으면 2초간 침묵이 된다.|n|n쿨다운: 30초"
+Ubertip="|c00FFFF66AllStat|r 30, MP 500 증가 최대 HP의 7% 이상의 피해를 입으면 피해를 입은 영웅이 0.75초 동안 기절하고, 무적 상태일 때 - 0.5초 동안 침묵합니다.|n|n액티브: 반경 1100 이내 적의 최대 MP의 10% + 현재 마나의 10% 흡수, 적에게 남은 마나가 없으면 2초 동안 기절시킵니다. 캐릭터가 무적 상태이면 50% 효율로 작동하고 MP가 없으면 2초간 침묵이 된다.|n|n쿨다운: 30초"
 
 [I05C]
 Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
 Buttonpos=2
-Description="|c00FF5555STR|r을 10만큼, HP 재생을 |c00169EFAINT|r의 10% 만큼 늘립니다.
+Description="|c00FF5555STR|r을 10만큼, HP 재생력을 |c00169EFAINT|r의 10% 만큼 늘립니다.
 Hotkey=A
 Name="마레 썬 링, 등급 D"
 Tip="마레 썬 링, 등급 D"
-Ubertip="|c00FF5555STR|r을 10만큼, HP 재생을 |c00169EFAINT|r의 10% 만큼 늘립니다.
+Ubertip="|c00FF5555STR|r을 10만큼, HP 재생력을 |c00169EFAINT|r의 10% 만큼 늘립니다.
 
 [I05D]
 Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
 Buttonpos=2
-Description="|c00FF5555STR|r을 15만큼, HP 재생을 |c00169EFAINT|r의 11% 만큼 늘립니다.
+Description="|c00FF5555STR|r을 15만큼, HP 재생력을 |c00169EFAINT|r의 11% 만큼 늘립니다.
 Hotkey=A
 Name="마레 썬 링, 등급 С"
 Tip="마레 썬 링, 등급 С"
-Ubertip="|c00FF5555STR|r을 15만큼, HP 재생을 |c00169EFAINT|r의 11% 만큼 늘립니다.
+Ubertip="|c00FF5555STR|r을 15만큼, HP 재생력을 |c00169EFAINT|r의 11% 만큼 늘립니다.
 
 [I05E]
 Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
 Buttonpos=2
-Description="|c00FF5555STR|r을 20만큼, HP 재생을 |c00169EFAINT|r의 12% 만큼 늘립니다.
+Description="|c00FF5555STR|r을 20만큼, HP 재생력을 |c00169EFAINT|r의 12% 만큼 늘립니다.
 Hotkey=A
 Name="마레 썬 링, 등급 B"
 Tip="마레 썬 링, 등급 B"
-Ubertip="|c00FF5555STR|r을 20만큼, HP 재생을 |c00169EFAINT|r의 12% 만큼 늘립니다.
+Ubertip="|c00FF5555STR|r을 20만큼, HP 재생력을 |c00169EFAINT|r의 12% 만큼 늘립니다.
 
 [I05F]
 Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
 Buttonpos=2
-Description="|c00FF5555STR|r을 25만큼, HP 재생을 |c00169EFAINT|r의 13% 만큼 늘립니다.
+Description="|c00FF5555STR|r을 25만큼, HP 재생력을 |c00169EFAINT|r의 13% 만큼 늘립니다.
 Hotkey=A
 Name="마레 썬 링, 등급 A"
 Tip="마레 썬 링, 등급 A"
-Ubertip="|c00FF5555STR|r을 25만큼, HP 재생을 |c00169EFAINT|r의 13% 만큼 늘립니다.
+Ubertip="|c00FF5555STR|r을 25만큼, HP 재생력을 |c00169EFAINT|r의 13% 만큼 늘립니다.
 
 [I05G]
 Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
 Buttonpos=2
-Description="|c00FF5555STR|r을 30만큼, HP 재생을 |c00169EFAINT|r의 14% 만큼 늘립니다."
+Description="|c00FF5555STR|r을 30만큼, HP 재생력을 |c00169EFAINT|r의 14% 만큼 늘립니다."
 Hotkey=A
 Name=가짜 마레 썬 링
 Tip=가짜 마레 썬 링
-Ubertip="|c00FF5555STR|r을 30만큼, HP 재생을 |c00169EFAINT|r의 14% 만큼 늘립니다."
+Ubertip="|c00FF5555STR|r을 30만큼, HP 재생력을 |c00169EFAINT|r의 14% 만큼 늘립니다."
 
 [I05H]
 Art=ReplaceableTextures\CommandButtons\BTNMare_Sun_Ring.blp
 Buttonpos=1
-Description="|c00FF5555STR|r을 35만큼, HP 재생을 |c00169EFAINT|r의 15% 만큼 늘립니다.|n패시브: 5초 동안 받은 피해의 10%(최소 100데미지)만큼 HP를 재생합니다.|n|n액티브: 10초 동안 패시브의 효율을 3배로 만듭니다.|n|n쿨타임: 25초"
+Description="|c00FF5555STR|r을 35만큼, HP 재생력을 |c00169EFAINT|r의 15% 만큼 늘립니다.|n패시브: 5초 동안 받은 피해의 10%(최소 100데미지)만큼 HP를 재생합니다.|n|n액티브: 10초 동안 패시브의 효율을 3배로 만듭니다.|n|n쿨타임: 25초"
 Hotkey=A
 Name=진정한 마레 썬 링
 Tip=진정한 마레 썬 링
-Ubertip="|c00FF5555STR|r을 35만큼, HP 재생을 |c00169EFAINT|r의 15% 만큼 늘립니다.|n패시브: 5초 동안 받은 피해의 10%(최소 100데미지)만큼 HP를 재생합니다.|n|n액티브: 10초 동안 패시브의 효율을 3배로 만듭니다.|n|n쿨타임: 25초"
+Ubertip="|c00FF5555STR|r을 35만큼, HP 재생력을 |c00169EFAINT|r의 15% 만큼 늘립니다.|n패시브: 5초 동안 받은 피해의 10%(최소 100데미지)만큼 HP를 재생합니다.|n|n액티브: 10초 동안 패시브의 효율을 3배로 만듭니다.|n|n쿨타임: 25초"
 
 [I05I]
 Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
@@ -1738,11 +1739,11 @@ Ubertip="|c00FF5555STR|r과 |c003CFF3CAGI|r을 30만큼 증가시키며 착용�
 [I05T]
 Art=ReplaceableTextures\CommandButtons\BTNMare_Rain_Ring.blp
 Buttonpos=1
-Description="|c00FF5555STR|r과 |c003CFF3CAGI|r을 35만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 230% 만큼 감소시킵니다.|n|n액티브: 15초 동안 |c00FF5555STR|r과 |c003CFF3CAGI|r을 13% 증폭시킵니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+Description="|c00FF5555STR|r과 |c003CFF3CAGI|r을 35만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 230% 만큼 감소시킵니다.|n|n액티브: 15초 동안 |c00FF5555STR|r과 |c003CFF3CAGI|r을 15% 증폭시킵니다.|cFF00A5FF|n|n쿨타임: 30초|r"
 Hotkey=A
 Name=진정한 마레 레인 링
 Tip=진정한 마레 레인 링
-Ubertip="|c00FF5555STR|r과 |c003CFF3CAGI|r을 35만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 230% 만큼 감소시킵니다.|n|n액티브: 15초 동안 |c00FF5555STR|r과 |c003CFF3CAGI|r을 13% 증폭시킵니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+Ubertip="|c00FF5555STR|r과 |c003CFF3CAGI|r을 35만큼 증가시키며 착용자를 공격하는 적의 공격 속도를 230% 만큼 감소시킵니다.|n|n액티브: 15초 동안 |c00FF5555STR|r과 |c003CFF3CAGI|r을 15% 증폭시킵니다.|cFF00A5FF|n|n쿨타임: 30초|r"
 
 [I05U]
 Art=ReplaceableTextures\CommandButtons\BTNRingVioletSpider.blp
@@ -1805,52 +1806,52 @@ Description="|c003CFF3CAGI|r을 15만큼 증가시키며 평타 데미지를 받
 Hotkey=A
 Name="마레 클라우드 링, 등급 D"
 Tip="마레 클라우드 링, 등급 D"
-Ubertip="|c003CFF3CAGI|r을 15만큼 증가시키며 평타 데미지를 받을 시 30 데미지만큼 무효화합니다."
+Ubertip="|c003CFF3CAGI|r을 15만큼 증가시키며 평타 데미지를 받을 시 30 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.)"
 
 [I061]
 Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
 Buttonpos=2,2
-Description="|c003CFF3CAGI|r을 20만큼 증가시키며 평타 데미지를 받을 시 50 데미지만큼 무효화합니다."
+Description="|c003CFF3CAGI|r을 20만큼 증가시키며 평타 데미지를 받을 시 50 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.)"
 Hotkey=A
 Name="마레 클라우드 링, 등급 С"
 Tip="마레 클라우드 링, 등급 С"
-Ubertip="|c003CFF3CAGI|r을 20만큼 증가시키며 평타 데미지를 받을 시 50 데미지만큼 무효화합니다."
+Ubertip="|c003CFF3CAGI|r을 20만큼 증가시키며 평타 데미지를 받을 시 50 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.)"
 
 [I062]
 Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
 Buttonpos=2,2
-Description="|c003CFF3CAGI|r을 25만큼 증가시키며 평타 데미지를 받을 시 70 데미지만큼 무효화합니다."
+Description="|c003CFF3CAGI|r을 25만큼 증가시키며 평타 데미지를 받을 시 70 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.)"
 Hotkey=A
 Name="마레 클라우드 링, 등급 B"
 Tip="마레 클라우드 링, 등급 B"
-Ubertip="|c003CFF3CAGI|r을 25만큼 증가시키며 평타 데미지를 받을 시 70 데미지만큼 무효화합니다."
+Ubertip="|c003CFF3CAGI|r을 25만큼 증가시키며 평타 데미지를 받을 시 70 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.)"
 
 [I063]
 Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
 Buttonpos=2,2
-Description="|c003CFF3CAGI|r을 30만큼 증가시키며 평타 데미지를 받을 시 90 데미지만큼 무효화합니다."
+Description="|c003CFF3CAGI|r을 30만큼 증가시키며 평타 데미지를 받을 시 90 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.)"
 Hotkey=A
 Name="마레 클라우드 링, 등급 A"
 Tip="마레 클라우드 링, 등급 A"
-Ubertip="|c003CFF3CAGI|r을 30만큼 증가시키며 평타 데미지를 받을 시 90 데미지만큼 무효화합니다."
+Ubertip="|c003CFF3CAGI|r을 30만큼 증가시키며 평타 데미지를 받을 시 90 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.)"
 
 [I064]
 Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
 Buttonpos=2,2
-Description="|c003CFF3CAGI|r을 35만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다."
+Description="|c003CFF3CAGI|r을 35만큼 증가시키며 평타 데미지를 받을 시 110 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.)"
 Hotkey=A
 Name=가짜 마레 클라우드 링
 Tip=가짜 마레 클라우드 링
-Ubertip="|c003CFF3CAGI|r을 35만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다."
+Ubertip="|c003CFF3CAGI|r을 35만큼 증가시키며 평타 데미지를 받을 시 110 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.)"
 
 [I065]
 Art=ReplaceableTextures\CommandButtons\BTNMare_Cloud_Ring.blp
 Buttonpos=2,1
-Description="|c003CFF3CAGI|r을 40만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다. 착용자가 최대 체력의 5%만큼의 체력을 잃을 때마다 10초 동안|c00FF5555STR|r을 10만큼 얻습니다.|n|n액티브: 착용자 주변으로 반경 700 범위 내 적이 있을 때 사용할 시 착용자는 자신의 주변 반경 900 범위 내 모든 아군에게(자신 포함) 상대방의 면역을 무시하는 버프와 방어력을 25 올려주는 5초간 부여합니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+Description="|c003CFF3CAGI|r을 40만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.) 착용자가 최대 체력의 5%만큼의 체력을 잃을 때마다 10초 동안|c00FF5555STR|r을 10만큼 얻습니다.|n|n액티브: 착용자 주변으로 반경 700 범위 내 적이 있을 때 사용할 시 착용자는 자신의 주변 반경 900 범위 내 모든 아군에게(자신 포함) 상대방의 면역을 무시하는 버프와 방어력을 25 올려주는 5초간 부여합니다.|cFF00A5FF|n|n쿨타임: 30초|r"
 Hotkey=A
 Name=진정한 마레 클라우드 링
 Tip=진정한 마레 클라우드 링
-Ubertip="|c003CFF3CAGI|r을 40만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다. 착용자가 최대 체력의 5%만큼의 체력을 잃을 때마다 10초 동안|c00FF5555STR|r을 10만큼 얻습니다.|n|n액티브: 착용자 주변으로 반경 700 범위 내 적이 있을 때 사용할 시 착용자는 자신의 주변 반경 900 범위 내 모든 아군에게(자신 포함) 상대방의 면역을 무시하는 버프와 방어력 25 올려주는 버프를 5초간 부여합니다.|cFF00A5FF|n|n쿨타임: 30초|r"
+Ubertip="|c003CFF3CAGI|r을 40만큼 증가시키며 평타 데미지를 받을 시 130 데미지만큼 무효화합니다. (길가메쉬의 평타엔 2배의 효과.) 착용자가 최대 체력의 5%만큼의 체력을 잃을 때마다 10초 동안|c00FF5555STR|r을 10만큼 얻습니다.|n|n액티브: 착용자 주변으로 반경 700 범위 내 적이 있을 때 사용할 시 착용자는 자신의 주변 반경 900 범위 내 모든 아군에게(자신 포함) 상대방의 면역을 무시하는 버프와 방어력 25 올려주는 버프를 5초간 부여합니다.|cFF00A5FF|n|n쿨타임: 30초|r"
 
 [I066]
 Art=ReplaceableTextures\CommandButtons\BTNGlyph.blp
@@ -2140,19 +2141,19 @@ Ubertip="|c00FFFF66AllStat|r을 25, HP를 600, DMG를 100, AS를 50% 증가시�
 [IGDi]
 Art=ReplaceableTextures\CommandButtons\BTNItemGaeDearg.blp
 Buttonpos=3
-Description="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 100%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n"
+Description="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 125%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n"
 Hotkey=F
 Name=파마의 홍장미 - 게이 저그
 Tip=파마의 홍장미 - 게이 저그
-Ubertip="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 100%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n"
+Ubertip="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생력 125%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n"
 
 [IGDr]
 Art=ReplaceableTextures\CommandButtons\BTNItemGaeDearg.blp
-Description="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 100%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n|n빌드: 트루 봉골라 스톰 링 + 레시피|n"
+Description="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 125%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n|n빌드: 트루 봉골라 스톰 링 + 레시피|n"
 Hotkey=F
 Name=파마의 홍장미 - 게이 저그 (레시피)
 Tip=파마의 홍장미 - 게이 저그 (레시피)
-Ubertip="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 100%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n|n빌드: 트루 봉골라 스톰 링 + 레시피|n"
+Ubertip="|c00FF5555STR|r을 15만큼, |c003CFF3CAGI|r 및 |c00169EFAINT|r을 40만큼 늘립니다. 및 MP 재생 125%.|n|n• [|c00169EFA마나 파괴|r] - 대상 HP의 7%를 초과하는 피해는 추가로 대상의 최대 MP의 8%를 파괴합니다. CD: 10초|n• [|c00FF5555엑소시즘의 진홍색 장미|r] - 타겟한 적에게 창을 던져 공격합니다. 또한 마법 보호 효과가 5초 동안 40% 감소합니다. |n범위: 1200.|n|nCD: 45초|n|n빌드: 트루 봉골라 스톰 링 + 레시피|n"
 
 [IHYi]
 Art=ReplaceableTextures\CommandButtons\BTNHourglass_Yukirin.blp
@@ -2215,7 +2216,7 @@ Description="|c0000FF00HP|r 300 증가, |c00169EFAINT|r 5 증가, MP 재생 50%.
 Hotkey=F
 Name=오니즈카 귀걸이
 Tip=오니즈카 귀걸이
-Ubertip="|c0000FF00HP|r 300 증가, |c00169EFAINT|r 5 증가, MP 재생 50%.|n|n • [|c000080FFExtraordinary|r] - 피해를 입힐 때 최대 HP의 5%에 해당하는 HP를 회복합니다. 쿨다운: 10초 .|n"
+Ubertip="|c0000FF00HP|r 300 증가, |c00169EFAINT|r 5 증가, MP 재생력 50%.|n|n • [|c000080FFExtraordinary|r] - 피해를 입힐 때 최대 HP의 5%에 해당하는 HP를 회복합니다. 쿨다운: 10초 .|n"
 
 [IPar]
 Art=war3mapImported\BTNPatriot.blp
@@ -2237,7 +2238,7 @@ Buttonpos=2,1
 Hotkey=F
 Name=성흔 테서랙트
 Tip=성흔 테서랙트
-Ubertip="|c00169EFAINT|r 35 증가, 데미지 저항 10% 증가, AS 50% 증가, 공격력 50 증가, MP 재생 50% 증가.|n|n • [|c008080C0베타 스티그마|r] - 60 이상의 피해는 대상의 최대 HP의 5%만큼 순수 방어 불가 피해로 증가합니다. 환상에는 작동하지 않습니다. CD: 3초|n • [|c008000FF알파 스티그마|r] - 대상 적은 6초 동안 방패 파괴 표식을 받습니다. 표식을 사용하면 대상의 보호막을 뚫을 수 있습니다. CD: 25 초. |n|n 빌드: 레시피(400) + 헤어 무스(1400) + 아카츠키 모자(1100) + 아이스 오브(2000)|n"
+Ubertip="|c00169EFAINT|r 35 증가, 데미지 저항 10% 증가, AS 50% 증가, 공격력 50 증가, MP 재생력 50% 증가.|n|n • [|c008080C0베타 스티그마|r] - 60 이상의 피해는 대상의 최대 HP의 5%만큼 순수 방어 불가 피해로 증가합니다. 환상에는 작동하지 않습니다. CD: 3초|n • [|c008000FF알파 스티그마|r] - 대상 적은 6초 동안 방패 파괴 표식을 받습니다. 표식을 사용하면 대상의 보호막을 뚫을 수 있습니다. CD: 25 초. |n|n 빌드: 레시피(400) + 헤어 무스(1400) + 아카츠키 모자(1100) + 아이스 오브(2000)|n"
 
 [ISTr]
 Art=ReplaceableTextures\CommandButtons\BTNItemStigmata.blp
@@ -2245,7 +2246,7 @@ Buttonpos=,2
 Hotkey=F
 Name=성흔 테서랙트 (레시피)
 Tip=성흔 테서랙트 (레시피)
-Ubertip="|c00169EFAINT|r 35 증가, 데미지 저항 10% 증가, AS 50% 증가, 공격력 50 증가, MP 재생 50% 증가.|n|n • [|c008080C0베타 스티그마|r] - 60 이상의 피해는 대상의 최대 HP의 5%만큼 순수 방어 불가 피해로 증가합니다. 환상에는 작동하지 않습니다. CD: 3초|n • [|c008000FF알파 스티그마|r] - 대상 적은 6초 동안 방패 파괴 표식을 받습니다. 표식을 사용하면 대상의 보호막을 뚫을 수 있습니다. CD: 25 초. |n|n 빌드: 레시피(400) + 헤어 무스(1400) + 아카츠키 모자(1100) + 아이스 오브(2000)|n"
+Ubertip="|c00169EFAINT|r 35 증가, 데미지 저항 10% 증가, AS 50% 증가, 공격력 50 증가, MP 재생력 50% 증가.|n|n • [|c008080C0베타 스티그마|r] - 60 이상의 피해는 대상의 최대 HP의 5%만큼 순수 방어 불가 피해로 증가합니다. 환상에는 작동하지 않습니다. CD: 3초|n • [|c008000FF알파 스티그마|r] - 대상 적은 6초 동안 방패 파괴 표식을 받습니다. 표식을 사용하면 대상의 보호막을 뚫을 수 있습니다. CD: 25 초. |n|n 빌드: 레시피(400) + 헤어 무스(1400) + 아카츠키 모자(1100) + 아이스 오브(2000)|n"
 
 [Ibrk]
 Art=ReplaceableTextures\CommandButtons\BTNCancel.blp
